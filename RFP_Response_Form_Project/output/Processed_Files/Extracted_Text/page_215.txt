@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+It o does, o does not use covered telecommunications equipment or services, or use any
+equipment, system, or service that uses covered telecommunications equipment or services.
+The Offeror shall provide the additional disclosure information required at paragraph (e)(2) of
+this section if the Offeror responds "does" in paragraph (d)(2) of this section.
+
+(e) Disclosures.
+
+(1) Disclosure for the representation in paragraph (d)(1) of this provision. If the Offeror has
+responded "will" in the representation in paragraph (d)(1) of this provision,
+the Offeror shall provide the following information as part of the offer:
+
+(1) For covered equipment—
+
+(A) The entity that produced the covered telecommunications equipment (include
+entity name, unique entity identifier, CAGE code, and whether the entity was the original
+equipment manufacturer (OEM) or a distributor, 1f known);
+
+(B) A description of all covered telecommunications equipment offered (include
+brand; model number, such as OEM number, manufacturer part number, or wholesaler number;
+and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment
+and any factors relevant to determining if such use would be permissible under the prohibition in
+paragraph (b)(1) of this provision.
+
+(11) For covered services—
+
+(A) If the service is related to 1tem maintenance: A description of all covered
+telecommunications services offered (include on the item being maintained: Brand; model
+number, such as OEM number, manufacturer part number, or wholesaler number; and item
+description, as applicable); or
+
+(B) If not associated with maintenance, the Product Service Code (PSC) of the
+service being provided; and explanation of the proposed use of covered telecommunications
+services and any factors relevant to determining if such use would be permissible under the
+prohibition in paragraph (b)(1) of this provision.
+
+(2) Disclosure for the representation in paragraph (d)(2) of this provision. If
+the Offeror has responded "does" in the representation in paragraph (d)(2) of this provision,
+the Offeror shall provide the following information as part of the offer:
+(1) For covered equipment—
+(A) The entity that produced the covered telecommunications equipment (include
+
+entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a
+distributor, if known);
+
+Page 215 of 256

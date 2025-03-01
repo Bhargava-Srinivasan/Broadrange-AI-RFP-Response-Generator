@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+Subfactor B: Management Approach
+
+This subfactor is designed to determine the extent to which the offeror has
+developed a strategy for the effective and efficient management of contract
+activities to successfully fulfill the requirements of the SOW. The offeror must
+provide evidence demonstrating that the organization has current capabilities for
+assuring performance of the requirement, including those of subcontractors, if
+applicable. Describe in detail your Management Approach, which shall include
+the following information:
+
+A Program Management Plan which details how J6 Enterprise Technology
+Services will be managed from a program perspective, including both
+information technology management and supporting program and
+customer support activities. This plan shall also address evidence of reach-
+back capability, including subcontractors, consultants and business
+partners.
+
+A Quality Management Plan which details the quality management
+processes and the methodology by which a high level of quality will be
+maintained throughout deliverables and services.
+
+A Security Management Plan which details how information assurance,
+physical security and personnel security will be managed including a
+description of the offeror’s security program and structure; how security
+fits into the overall management plan and structure; and responsibilities of
+security personnel and how the security plan and personnel will
+operate/interact with the Government and its security team.
+
+A Risk Management Plan that details a sound methodology by which risk
+identification and mitigation will be addressed; and how both generic and
+specifically identified risks will be managed for all aspects of J6
+Enterprise Technology Services and how risks will be communicated to
+the Government.
+
+A Personnel Management Plan which details how quality personnel are
+maintained; program specific training for employees involved in the
+resulting contract; how continuity and succession management 1s
+maintained; and the organizational structure and where subcontractors will
+be used in support of the resultant contract.
+
+A Management and Protection of GFE and GFI Plan which details how
+GFE/GFI will be tracked including the tracking tools/systems and
+reporting methods that will be utilized in accounting for the material and
+information being provided by the Government; how accountability for
+
+Page 241 of 256

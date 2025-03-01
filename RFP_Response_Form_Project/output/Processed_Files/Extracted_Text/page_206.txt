@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+identified in the contract in accordance with PGI 245.103-72 , Government-furnished property
+attachments to solicitations and awards.
+
+(11) Exceptions. The Contractor will not be required to tag, label, or mark—
+
+(A) Government-furnished property that was previously tagged, labeled, or
+marked;
+
+(B) Items, as determined by the head of the agency, that are to be used to support
+a contingency operation; or to facilitate defense against or recovery from nuclear, biological,
+chemical, or radiological attack;
+
+(C) Items for which a determination and findings has been executed concluding
+that it is more cost effective for the Government requiring activity to assign, mark, and register
+the unique item identification after delivery of an item acquired from a small business concern or
+a commercial product acquired under FAR part 12 or part 8.
+
+(1) The determination and findings shall be executed by—
+
+(i) The Component Acquisition Executive for an Acquisition Category
+(ACAT) I program; or
+
+(ii) The head of the contracting activity for all other programs.
+
+(2) A copy of the executed determination and findings shall be provided to
+the DoD Unique Item Identification Policy Office at this address: OUSD(AT&L)DPAP/Program
+Development and Implementation, Room 3B855, 3060 Defense Pentagon, Washington, DC
+20301-3060; or by facsimile to 703—602—6047.
+
+(D) Items that are contractor-acquired property;
+
+(E) Property under any statutory leasing authority;
+
+(F) Property to which the Government has acquired a lien or title solely because
+of partial, advance, progress, or performance-based payments;
+
+(G) Intellectual property or software; or
+(H) Real property.
+
+(5) Reporting loss of Government property. The Government-Furnished Property module
+of the Procurement Integrated Enterprise Environment is the DoD data repository for reporting
+loss of Government property in the possession of contractors. The requirements and procedures
+for reporting loss of Government property to the Government-Furnished Property module are set
+forth in the clause at 252.245-7002, Reporting Loss of Government Property, prescribed
+at 245.107.
+
+Page 206 of 256

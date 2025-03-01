@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+sole discretion of the Contracting Officer. Note that an offeror may correct a deficiency only
+through discussions.
+
+Offers submitted must be valid for 360-days after the final closing date of the solicitation. The
+Government intends to make more than one contract award. The requirement to provide a SAM
+Unique Entity ID number with the offer applies at all dollar values if the offeror is required to
+register in the System for Award Management Database in accordance with FAR clause 52.204-
+7.
+
+The Government will process late submissions of proposals in accordance with FAR 15.208.
+
+NOTE: A written notice of award or acceptance of an offer, mailed or otherwise furnished to the
+successful offeror within the time for acceptance specified in the offer, shall result in a binding
+contract without further action by either party. Before the offer’s specified expiration time, the
+Government may accept an offer (or part of an offer), whether or not there are negotiations after
+its receipt, unless a written notice of withdrawal 1s received before award.
+
+Proposals MUST BE prepared and submitted in three (3) volumes, all electronically, in
+accordance with the instructions of this solicitation.
+
+Volume | shall consist of the Business Proposal (Inclusive of Signed Offer and Executive
+Summary). Proposals must include separate PDF documents for Signed Offer and Executive
+Summary. These PDFs should be labeled as “[Offeror Name] — Signed Offer’, and “[Offeror
+Name] — Executive Summary”.
+
+Volume 2 shall consist of the Non-Price Proposal (Inclusive of Technical Merit, Partnering and
+Strategic Alliance, Key Personnel, and Small Business Participation), which must be devoid of
+all reference to cost or price. Proposals must include separate PDF documents for Technical
+Approach, Management Approach, Partnering and Strategic Alliance, Key Personnel, and Small
+Business Participation. These PDFs should be labeled as “[Offeror Name] — Technical
+Approach”, “[Ofteror Name] — Management Approach”, “[Offeror Name] — Partnering and
+Strategic Alliance,” “[Offteror Name] — Key Personnel’, and “[Offeror Name] — Small Business
+Participation”’.
+
+Volume 3 shall consist of the Cost/Price Proposal. Proposals must include fully completed
+Attachments | & 2. Offerors should include all Labor Rates for ALL Labor Categories listed.
+Offerors should also make sure that only 2 decimal places are present so that no rounding may
+occur. These Excel spreadsheets should be labeled as “[Offeror Name] — Attachment | —
+Contractor Site Rates” and “[Offeror Name] — Attachment 2 — Government Site Rates”. Volume
+2 should also include documentation of the approval for DCAA Approved Accounting System if
+applicable. This should be labeled as “[Offeror Name] — DCAA Approved Accounting System
+Documentation’.
+
+Page 235 of 256

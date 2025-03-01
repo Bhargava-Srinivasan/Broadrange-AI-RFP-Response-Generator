@@ -1,0 +1,44 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+encouraged to propose Cost CLIN(s) in their proposals accordingly.
+
+Note: If a small business submits a proposal, inclusive of Cost CLIN(s), but is determined that
+their accounting system 1s not DCAA Approved, they will still be eligible for award but will not
+receive credit for having Cost CLINs and Cost CLIN(s) will not be included in their IDIQ
+contract if they receive an award.
+
+The Government will not conduct a cost-realism analysis of Cost-type CLINs at the IDIQ level.
+Rather, the Government will conduct cost-realism analyses at the task order level for cost-
+reimbursement orders. With this in mind, the Government has approved the following Individual
+Deviation for the JETS 2.0 acquisition only:
+
+FAR 15.404-1(d)(2) Individual Deviation
+
+e Changes to the current text are shown by [additions] and deletions.
+
+e Five (5) asterisks (*****) indicate there are no revisions between the preceding and
+following sections
+
+e Three (3) asterisks (***) indicates there are no revisions between the material shown
+within a subsection
+
+FAR 15.404 — Proposal Analysis
+15.404-1 — Proposal Analysis Techniques
+
+2K OK OK OK OK
+
+(d) Cost realism analysis.
+
+(2) Cost realism analyses shall be performed on cost-reimbursement contracts to
+determine the probable cost of performance for each offeror. [Cost realism analyses are
+not required when establishing the J6 Enterprise Technology Services (JETS) 2.0
+multiple-award indefinite-delivery indefinite-quantity (IDQ) contracts. Cost realism
+analyses shall be performed at the task order level for cost-reimbursement orders.|
+
+2K OK OK OK OK
+
+Note: As explained in Section L above, evaluation of uncompensated overtime will be
+accomplished at the order level only.
+
+Page 256 of 256

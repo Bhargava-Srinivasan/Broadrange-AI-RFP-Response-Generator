@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+and DLA annual INFOSEC training will satisfy these requirements and are available through the
+DLA Intelligence Office.
+
+(n) When a contractor employee who has been granted a clearance 1s removed from the
+contract, the contractor shall provide an appropriately trained substitute who has met or will meet
+the investigative requirements of this procurement note. The substitute may not begin work on
+the contract without written documentation, signed by the contracting officer, stating that the
+new contractor employee has met one of the criteria set forth in paragraphs (c), (d), or (1) of this
+procurement note (1.e., acceptance of a previously completed security investigation, satisfactory
+completion of a new investigation, or a waiver allowing work to begin pending completion of an
+investigation). Contractor individual employees removed from this contract as a result of a
+violation of local AIS security policy are removed for the duration of the contract.
+
+(0) The following shall be completed for every employee of the Government contractor
+working on this contract upon contract expiration. Additionally, the contractor shall notify the
+contracting officer immediately in writing whenever a contractor employee working on this
+contract resigns, 1s reassigned, 1s terminated, or no longer requires admittance to the Federally-
+controlled facility or access to Federally-controlled information systems. When the contractor
+employee departs, the contractor will relay departure information to the cognizant DLA
+Intelligence Personnel Security Office and the Trusted Agent (TA) that entered the individual
+into the Trusted Associated Sponsorship System (TASS), so appropriate databases can be
+updated. The contractor will ensure each departed employee has completed the DLA J6 Out-
+Processing Checklist, when applicable, for the necessary security briefing, has returned any
+Government furnished equipment, returned the DoD CAC and DLA (or equivalent Installation)
+badge, returned any DoD or DLA vehicle decal, and requested deletion of local area network
+account with a prepared Department of Defense (DD) Form 2875. The contractor will be
+responsible for any costs involved for failure to complete the out-processing, including recovery
+of Government property and investigation involved.
+
+(p) These contractor security requirements do not excuse the contractor from meeting the
+delivery schedule/performance requirements set forth in the contract, or waive the delivery
+schedule/performance requirements in any way. The contractor shall meet the required delivery
+
+schedule/performance requirements unless the contracting officer grants a waiver or extension.
+
+(q) The contractor shall not bill for personnel, who are not working on the contract while that
+contractor employee’s clearance investigation 1s pending.
+
+Procurement Note H16 Operations Security (OPSEC) For On-site Contractors (DEC 2021
+(1) Contractors shall complete the following courses:
+
+(a) Center for the Development of Security Excellence Operations Security (OPSEC)
+Awareness;
+
+(b) Unauthorized Disclosure of Classified Information for DoD and Industry;
+
+Page 201 of 256

@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b)
+
+(C)
+
+(2) The small business size standard is $34,000,000.00.
+
+(3) The small business size standard for a concern that submits an offer, other than on
+a construction or service acquisition, but proposes to furnish an end item that it did not
+itself manufacture, process, or produce is 500 employees, or 150 employees
+
+for information technology value-added resellers under NAICS code 541519 if
+
+the acquisition—
+
+(1) Is set aside for small business and has a value above the simplified acquisition
+threshold;
+
+(11) Uses the HUBZone price evaluation preference regardless of dollar value,
+unless the offeror waives the price evaluation preference; or
+
+(iu1) Is an 8(a), HUBZone, service-disabled veteran-owned, economically
+disadvantaged women-owned, or women-owned small business set-aside or sole-
+source award regardless of dollar value.
+
+(1) If the provision at 52.204-7, System for Award Management, is included in
+this solicitation, paragraph (d) of this provision applies.
+
+(2) If the provision at 52.204-7, System for Award Management, is not included in
+
+this solicitation, and the Offeror has an active registration in the System for Award
+Management (SAM), the Offeror may choose to use paragraph (d) of this provision
+instead of completing the corresponding individual representations and certifications in
+the solicitation. The Offeror shall indicate which option applies by checking one of the
+following boxes:
+
+(1) Oo Paragraph (d) applies.
+
+(11) O Paragraph (d) does not apply and the offeror has completed the individual
+representations and certifications 1n the solicitation.
+
+(1) The following representations or certifications in SAM are applicable to
+this solicitation as indicated:
+
+(1) 52.203-2, Certificate of Independent Price Determination. This provision
+applies to solicitations when a firm-fixed-price contract or fixed-price contract
+
+with economic price adjustment 1s contemplated, unless—
+
+(A) The acquisition is to be made under the simplified acquisition
+procedures in part 13;
+
+Page 208 of 256

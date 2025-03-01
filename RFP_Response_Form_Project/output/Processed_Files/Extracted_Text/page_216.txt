@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(B) A description of all covered telecommunications equipment offered (include
+brand; model number, such as OEM number, manufacturer part number, or wholesaler number;
+and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment
+and any factors relevant to determining if such use would be permissible under the prohibition in
+paragraph (b)(2) of this provision.
+
+(11) For covered services—
+
+(A) If the service is related to item maintenance: A description of all covered
+telecommunications services offered (include on the item being maintained: Brand; model
+number, such as OEM number, manufacturer part number, or wholesaler number; and item
+description, as applicable); or
+
+(B) If not associated with maintenance, the PSC of the service being provided;
+and explanation of the proposed use of covered telecommunications services and any factors
+relevant to determining if such use would be permissible under the prohibition in paragraph
+(b)(2) of this provision.
+
+(End of provision)
+
+FAR 52.204-26 - Covered Telecommunications Equipment or Services-Representation
+(OCT 2020)
+
+(a) Definitions. As used 1n this provision, "covered telecommunications equipment or
+services" and "reasonable inquiry" have the meaning provided in the clause 52.204-25,
+Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or
+Equipment.
+
+(b) Procedures. The Offeror shall review the list of excluded parties in the System for
+Award Management (SAM) ( https://www.sam.gov) for entities excluded from receiving federal
+awards for "covered telecommunications equipment or services".
+
+(C)
+
+(1) Representation. The Offeror represents that it o does, O does not provide covered
+telecommunications equipment or services as a part of its offered products or services to the
+Government in the performance of any contract, subcontract, or other contractual instrument.
+
+(2) After conducting a reasonable inquiry for purposes of this representation,
+the offeror represents that it 0 does, 0 does not use covered telecommunications equipment or
+services, or any equipment, system, or service that uses covered telecommunications equipment
+
+or services.
+
+(End of provision)
+
+Page 216 of 256

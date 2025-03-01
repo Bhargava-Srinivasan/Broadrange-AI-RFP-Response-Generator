@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Insider Threat Awareness; and
+
+(d) Introduction to Information Security courses. These Security courses are located at
+Security Awareness Hub (https://securityawareness.usalearning.gov/index.html).
+
+(2) The courses identified at subparagraph (1) above are required for all contractors that
+perform work on-site ata DLA or DoD facility; or for contractors that perform work off-site and
+access a Federally-controlled information system.
+
+(3) The contractor shall immediately direct 1ts workforce who are performing services for the
+Government to take the training after contract award. The contractor shall provide evidence of
+this training to the contracting officer representative or the contracting officer no later than five
+business days after contract award or prior to accessing the installation or a Federally-controlled
+information system, whichever occurs first.
+
+(4) Annual refresher training 1s required and consists of re-accomplishing all of the courses
+listed in subparagraph (1) above. The contractor shall keep certificates on record for inspection
+or submission as required by the Government at the Government’s discretion.
+
+Procurement Note L06 Agency Protests (DEC 2016)
+
+Interested parties may file an agency level protest with the contracting officer or may request an
+independent review by the chief of the contracting office (CCO). Independent review by the
+CCO is an alternative to consideration by the contracting officer and is not available as an
+appellate review of a contracting officer decision on a protest previously filed with the
+contracting officer. Absent a clear indication of the intent to file an agency level protest with the
+CCO for independent review, protests will be presumed to be protests to the contracting officer.
+
+Procurement Note L29 Section 508 Requirements (OCT 2020)
+
+Offerors shall comply with the Section 508 accessibility requirements. By submission of its
+offer, the offeror affirms that its Electronic Information Technology (EIT) supplies and services
+are accessible as outlined in the law, the standard, and FAR Subpart 39.2. Offerors shall
+complete the current revision of the Voluntary Product Accessible Template (VPAT) Rev 508 at
+https://www.itic.org/policy/accessibility/vpat (copy website address into browser). If applicable,
+offerors shall indicate where their Section 508 EIT compliance information is available for
+review (e.g., offeror’s website or other location the contracting officer can access). The
+contracting officer may require a demonstration of Section 508 compliance prior to award.
+
+6. The following applies to T&M Travel and Other Direct Cost CLIN(s):
+In accordance with FAR 52.212-4 Alternate I (Nov 2021) ()GiI)DDO)2
+(1) Other Direct Costs. The Government will reimburse the Contractor on the basis of actual cost
+
+for the following, provided such costs comply with the requirements in paragraph (1)(1)(11)(B) of
+this clause: travel, unknown costs associated with in-theater housing, visa and work permits for
+
+Page 202 of 256

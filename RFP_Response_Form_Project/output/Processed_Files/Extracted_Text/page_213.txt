@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+| Contracting Officer to insert NAICS codes and size standards.
+
+(2) The small business size standard for a concern that submits an offer, other than on
+a construction or service acquisition, but proposes to furnish an end item that it did not itself
+manufacture, process, or produce, (1.e., nonmanufacturer), is 500 employees, or 150 employees
+for information technology value-added resellers under NAICS code 541519, if the acquisition—
+
+(1) Is set aside for small business and has a value above the simplified acquisition
+threshold;
+
+(11) Uses the HUBZone price evaluation preference regardless of dollar value, unless
+the offeror waives the price evaluation preference; or
+
+(111) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-
+owned, or women-owned small business set-aside or sole-source award regardless of dollar
+value.
+
+FAR 52.204-24 - Representation Regarding Certain Telecommunications and
+Video Surveillance Services or Equipment (NOV 2021)
+
+The Offeror shall not complete the representation at paragraph (d)(1) of this provision 1f
+
+the Offeror has represented that it "does not provide covered telecommunications equipment or
+services as a part of its offered products or services to the Government in the performance of any
+contract, subcontract, or other contractual instrument" in paragraph (c)(1) in the provision
+
+at 52.204-26, Covered Telecommunications Equipment or Services—Representation, or in
+paragraph (v)(2)(i) of the provision at 52.212-3, Offeror Representations and Certifications-
+Commercial Products or Commercial Services. The Offeror shall not complete the representation
+in paragraph (d)(2) of this provision if the Offeror has represented that it "does not use covered
+telecommunications equipment or services, or any equipment, system, or service that uses
+covered telecommunications equipment or services" in paragraph (c)(2) of the provision
+
+at 52.204-26, or in paragraph (v)(2)(11) of the provision at 52.212-3.
+
+(a) Definitions. As used in this proviston—
+
+Backhaul, covered telecommunications equipment or services, critical technology,
+interconnection arrangements, reasonable inquiry, roaming, and substantial or
+essential component have the meanings provided in the clause 52.204-25, Prohibition
+
+on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+
+(b) Prohibition.
+
+Page 213 of 256

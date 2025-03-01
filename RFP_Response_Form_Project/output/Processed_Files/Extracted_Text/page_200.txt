@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+employee has been waived into the position pending completion of adjudication. The DLA
+Intelligence Personnel Security Office will ensure that results of investigations will be sent by
+OPM to the Department of Defense, Consolidated Adjudications Facility (DoDCAF) or DLA
+Intelligence Personnel Security Office.
+
+(1) A waiver for IT level positions to allow assignment of an individual contractor employee to
+commence work prior to completion of the investigation may be granted 1n emergency situations
+when it is determined that a delay would be harmful to national security. A request for waiver
+will be considered only after the Government ts in receipt of the individual contractor
+employee’s completed forms, the background investigation has been initiated, and favorable FBI
+fingerprint check has been conducted. The request for a waiver must be approved by the
+Commander/Director or Deputy Commander/Director of the site. The cognizant DLA
+Intelligence Personnel Security Office reserves the right to determine whether a waiver request
+will be forwarded for processing. The individual contractor employee for which the waiver is
+being requested may not be assigned to a position, that 1s, physically work at the Federally-
+controlled facility and/or be granted access to Federally-controlled information systems, until the
+waiver has been approved.
+
+(j) The requirements of this procurement note apply to the prime contractor and any
+subcontractors the prime contractor may employ during the course of this contract, as well as any
+temporary employees that may be hired by the contractor. The Government retains the right to
+request removal of contractor personnel, regardless of prior clearance or adjudication status
+whose actions, while assigned to this contract, who are determined by the contracting officer to
+conflict with the interests of the Government. If such removal occurs, the contractor shall assign
+qualified personnel, with the required investigation, to any vacancy.
+
+(k) All contractor personnel who are granted access to Government and/or Federally-
+controlled information systems shall observe all local automated information system (AIS)
+security policies and procedures. Violations of local AIS security policy, such as password
+sharing, performing personal work, file access violations, or browsing files outside the scope of
+the contract, will result in removal of the contractor employee from Government property and
+referral to the contractor for appropriate disciplinary action. Actions taken by the contractor in
+response to a violation will be evaluated and will be reflected in the contractor’s performance
+assessment for use in making future source selection decisions. In addition, based on the nature
+and extent of any violations of AIS security policy, the Government will consider whether it
+needs to pursue any other actions under the contract such as a possible termination.
+
+(1) The contractor may also be required to obtain a Common Access Card (CAC) or
+Installation Access Badge for each contractor employee in accordance with procedures
+established by DLA. When a CAC is required, the contracting officer will ensure that the
+contractor follows the requirements of Homeland Security Presidential Directive 12 and any
+other CAC-related requirements in the contract. The contractor shall provide, on a monthly basis,
+a listing of all personnel working under the contract that have CACs.
+
+(m) Contractor personnel must additionally receive operations security (OPSEC) and
+information security (INFOSEC) awareness training. The DLA annual OPSEC refresher training
+
+Page 200 of 256
