@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Identify and evaluate technical approaches and tools such as
+databases and spreadsheets that facilitate integration among the various
+financial data capture and reporting information systems (EBS,
+Procurement Integrated Enterprise Environment (PIEE) suite (includes
+Wide Area Work Flow (WAWE), Invoice Receipt Acceptance and
+Property Transfer (IRAPT), Intra-Governmental Payment and Collection
+(IPAC)), and Defense Agencies’ (e.g., Defense Finance Accounting
+Service (DFAS), Defense Contract Management Agency (DCMA)
+systems) to provide better visibility, reporting and management of the
+R&D financial resources. Working with DLA internal (e.g., J6 and J8)
+and external (e.g., DFAS, DCMA) organizations, the contractor shall
+support obtaining and implementing the required capabilities.
+
+(d) Assist modifying inputs to and reporting of data from DoD
+information systems to support DLA R&D finance and acquisition
+processes. Contractor-developed financial processes shall organize input
+data to minimize duplicative entry and enable integrated reporting of
+financial information.
+
+(e) Obtain specialized training and appropriate security clearances
+required to maintain proficiency and access to DoD Information Systems
+including PIEE/WAWF/IRAPT, IPAC, and DLA EBS and eProcurement.
+
+8. Financial Process Execution and Reporting - The contractor shall assist 1n the
+preparation of the financial reports and documentation on control and
+management of formulation, execution, and analysis of the budget and funding
+requirements.
+
+(a) Develop and update Financial Management briefing materials
+based on templates, data and guidance provided by DLA R&D; and
+summarize funding requests from R&D stakeholders related to budgeting
+and financial information, maintain this documentation for record of
+budget planning and execution transactions.
+
+(b) Utilize budget execution data to assist in submitting responses to
+financial related data calls (e.g., National Science Foundation, OUSD(C)
+Mid-Year).
+
+(c) Assist DLA R&D maintaining planning and budget execution data
+(e.g., obligations and expenditures), and analyzing actual execution
+against the Office of the Under Secretary of Defense (Comptroller)
+(OUSD(C)) budget execution benchmarks.
+
+(d) Assist by reconciling R&D technical performing contractors’
+invoices using DoD Information Systems (e.g., PIEE/WAWE/IRAPT,
+
+Page 94 of 256

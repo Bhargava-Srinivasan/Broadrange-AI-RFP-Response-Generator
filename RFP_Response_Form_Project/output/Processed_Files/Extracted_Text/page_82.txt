@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(n) Analyze identified Cybersecurity strategies and report concerning
+the best approach or practice for all information systems under your
+purview.
+
+(0) Evaluate and report concerning development efforts to ensure that
+baseline security safeguards are appropriately implemented.
+
+(p) Act as needed to ensure that acceptable products meet Common
+Criteria requirements as stated in DODI 8500.2 and NIST Special
+Publications 800-37 and 800-53.
+
+e. Cyber Security Service Provider (CSSP) Threat Detection and Incident Response Support
+The contractor shall provide 24x7 cybersecurity monitoring for threat detection and
+incident response in support of DLA CERT’s mission as the Cybersecurity Service
+Provider (CSSP) for DLA. In addition to passive monitoring of detection tools, active
+analysis through Threat Hunting 1s required to ensure proactive efforts are made to
+discover malicious activity and threats to DLA’s environment. This support is required
+for all DLA devices and data, to include those hosted within DLA, by another department
+or Agency and by a commercial entity. Devices, networks, and data of all classifications
+require suppotrt.:
+
+1. Threat Detection and Analysis
+
+(a) The contractor shall perform 24x7 monitoring of DLA
+cybersecurity tools focusing on DLA's Security Event Information
+Management (SEIM) system for signs of malware, compromise, insider
+threat or non-compliant activity. Upon suspected detection of any form of
+infection or compromise incident response actions will be initiated as
+outlined in DLA CERT Standard Operating Procedures
+
+(b) The contractor will correlate data from multiple sources to include
+host and network-based IDS/IPS, available event log and packet capture
+data, data pulled by forensics tools, government and open-source
+intelligence, and data from custom tools.
+
+(c) The contractor will examine each of these data sources
+independently in search of threats to the DLA network, systems, and
+applications as well as in conjunction for data correlation
+
+(d) The contractor will analyze this data for anomalies that may
+indicate malicious activity within DLA or activity in the wild that may
+impact DLA
+
+Page 82 of 256

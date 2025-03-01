@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+artifacts and store completed checklist files within the
+organization’s file-plan while notifying Section-Lead of progress
+and findings for disposition.
+
+(4) Develop and maintain MECM reports using SQL Queries in SQL
+Reporting Services and SQL Report Builder to ensure the
+continued situational awareness of Enterprise Microsoft Endpoints
+and associated Software Deployments, as required by the
+Government.
+
+(5) Conduct analysis and monitoring of TANIUM environment for
+both NIPRNet and SIPRNet environments ensuring maximum
+availability for DoD’s Automated Continuous Endpoint
+Monitoring (ACEM) program.
+
+(6) Conduct maintenance to TANIUM environment to include
+application updates to current version as well as server and
+database infrastructure patching to current version.
+
+(7) Troubleshoot and repair TANIUM infrastructure hierarchy
+problems, to include but not limited to servers, databases, and
+clients related issues.
+
+(8) Provide Web-Browser sustainment and testing services as defined
+by the government for Microsoft Edge Chromium, Mozilla
+Firefox, Google Chrome, and Microsoft Internet Explorer to meet
+initiatives for Business System Application functionality.
+
+(9) Maintain web-site white-list and Proxy Auto Config (PAC) File for
+compliance with DoD’s Cloud Based Internet Isolation (CBII)
+Program. Ensure web-site functionality during Internet Isolation
+sessions for end-users using Menlo Security Isolation Platform
+Console.
+
+(10) Develop / create software packages for deployment of
+approved software per DLA’s IT Solutions Document (ITSD)
+using government provided and/or approved packaging tools.
+Contractor must complete within 7 days of assignment.
+
+(11) Develop / create / deploy software security update packages
+for required software vulnerabilities identified by
+USCYBERCOM’s Information Assurance Vulnerability
+Management (IAVM) program and U.S. National Vulnerability
+Database (NVD) using the DoD Patch Repository or other
+locations as approved by the government. Contractor must
+complete within 3 days of assignment.
+
+Page 43 of 256

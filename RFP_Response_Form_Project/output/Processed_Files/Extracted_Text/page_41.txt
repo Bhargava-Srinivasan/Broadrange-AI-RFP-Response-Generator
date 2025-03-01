@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(4) The contractor shall ensure the project plan clearly articulates the
+scope, schedule, assumptions, and risks.
+
+(5) The contractor shall provide status checks and risk mitigation
+strategies for the completion of the project.
+
+(6) The contractor shall develop a plan for the migration and
+configuration.
+
+(b) Sustainment responsibilities:
+
+(1) The contractor shall provide sustainment support with product
+analysis and selection, development of architecture and design
+diagrams, and the installation, configuration, and maintenance of
+the DLA-Wide Mobile Device services.
+
+3. Active Directory (AD) Support: The primary responsibility of the Microsoft
+Active Directory Administrator will be to provide the highest quality/availability
+Active Directory environment for the Enterprise. The contractor may be required
+to make recommendations for the development and institution of Enterprise-wide
+group policies and assist in the implementation of the selected recommendation
+for Active Directory consolidation, integration with identity management
+products, Cloud AD service integration, and Active Directory domain operation
+troubleshooting.
+
+(a) The Contractor shall:
+
+(1) Centralize the management of very large Windows environments
+
+(2) Support resource domains, including the hardware and
+administration they entail
+
+(3) Execute Group Policy-based lockdown and software distribution
+
+(4) Possess the ability to delegate administrative control over
+resources where appropriate
+
+(5) Simplify location and use of shared resources
+(6) Automate Active Directory task
+
+(7) Generate reports
+
+(8) Provide Group Policy Support
+
+(9) Provide Email (e.g., Exchange) Support
+
+Page 41 of 256

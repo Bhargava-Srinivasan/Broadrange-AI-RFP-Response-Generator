@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(5) System Isolation
+
+(6) Network Scanning
+
+(7) Vulnerability Scanning
+(8) Application Scanning
+(9) System restoration
+
+(d) The Fly-Away team may be required to go on-site to locations both
+CONUS & OCONUS as needed and will need to maintain passports and
+any other required travel materials to successfully use required
+transportation.
+
+C.4.7 TASK AREA 7- Program/Project Management Support
+
+a. Task Order Project Management Support
+
+Task Order (TO) Management: Applicable to each contractor performing a task order,
+regardless of which task area(s) 1s/are involved in the task order.
+
+I.
+
+The contractor’s Task Order Project Manager shall serve as a senior subject
+matter expert and shall have demonstrated leadership experience in a work
+environment of similar size and complexity of the Task Order.
+
+The contractor’s Task Order Project Manager shall coordinate work carried out
+under this contract with the Contracting Officer Representative (COR) and
+Contracting Officer on all contractual and business issues. The contractor’s
+project management effort shall continue for the entire term of the contract.
+
+The contractor’s Task Order Project Manager shall provide the planning,
+direction, coordination, and control necessary for effective and efficient
+accomplishment of all requirements contained 1n the individual task order.
+
+The contractor’s Project Manager shall verify and validate the level of effort and
+deliverables for each task, on the monthly status report, and Project Plan.
+
+The contractor’s Project Manager shall prepare the Task Order Management Plan
+describing the technical approach, organizational resources, and management
+controls to be employed to meet the cost, performance, and schedule requirements
+throughout the Task Order execution. The contractor shall provide a monthly
+status report monitoring the quality assurance.
+
+The contractor’s Project Manager shall provide the technical and functional
+activities at the Task Order Level needed for the Program Management of this
+
+Page 88 of 256

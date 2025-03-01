@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+development of product specific STIGs from applicable DISA Security
+Requirement Guide (SRG) if needed. The contractor shall:
+
+(1) Test each newly selected tool, ensuring that each tool meets its
+objective; that it is safe for use; and that it will not adversely affect
+DLA operations.
+
+(2) Provide a safe and secure testing environment to assess all tools to
+be utilized.
+
+(3) Maintain the tool set and keep it current. Testing results and
+purpose shall be thoroughly documented and provided to the
+appointed government representative prior to use.
+
+d. Cybersecurity Support for the Enterprise
+
+1. Overall Cybersecurity Support
+
+(a) The contractor shall review, coordinate, and recommend
+Cybersecurity standards and protocols for cost effective application in
+accordance with the Department of Defense’s (DOD) Defense 1n Depth
+(DID) strategies and supporting documentation as specified in the
+individual task orders.
+
+(b) The contractor shall ensure compliance with Federal, DOD and
+DLA information technology and security requirements, policies,
+procedures, and standards as applicable.
+
+2. Process Execution
+
+(a) The contractor shall provide Cybersecurity program support to
+DLA to ensure compliance with DOD and DLA Cybersecurity policy.
+
+(b) Contractor personnel performing under this subtask will have
+extensive knowledge of the Risk Management Framework (RMF).
+
+(c) In addition, to support DLA’s Federal Information Security
+Management Act (FISMA) reporting requirements, contractor program
+and project management personnel will possess an in-depth knowledge of
+NIST 800-37 Risk Management Framework (RMF), and NIST Special
+Publication 800-53, Recommended Security Controls for Federal
+Information Systems and Organizations.
+
+3. Process Support - The contractor shall provide support to include, but not be
+limited to:
+
+Page 77 of 256

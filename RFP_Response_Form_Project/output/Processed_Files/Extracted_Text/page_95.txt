@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+IPAC) and support the identification of outstanding invoice items (e.g.,
+develop lists) for RPA to obtain the evidential matter to clear payables in
+EBS.
+
+(e) Utilize DLA Information Systems (SAP), SharePoint
+Online/Office 365, including MS Teams and the DLA Enterprise Business
+System (EBS), including the eProcurement module, RPA for financial
+transactions, and internal DLA supporting processes to provide
+budgeting/funding support (e.g., Funds Reservation, MIPR, Direct Funds
+Citation Letter (DFCL), and analysis of financial execution data).
+
+(f) Obtain specialized training and meet security requirements to
+maintain proficiency and access to DoD information systems (e.g.,
+WAWEF/IRAPT, EBS)
+
+9. R&D Audit Sustainment and Records Management (RM) Support
+
+(a) Monitor and report needed modifications for all Standard
+Operating Procedure (SOP) documentation related to the R&D Program’s
+planning and financial execution processes, or to comply with changed or
+new audit readiness requirements. This documentation shall be stored on
+both the R&D program’s KM Portal on SharePoint Online
+(SPO)/Microsoft Office 365/MS Teams, and the Agency’s Audit
+Sustainment (RC Tool) or Records Management site, DACS-RM, as
+required.
+
+(b) Collects evidential matter (EM) related to audit requests in support
+of the Government Lead, Funds Holder, and Resource Manager who draft
+response to audit requests for upload into the Response Center (RC) Tool;
+and upload the responses to the R&D KM Portal Audit/Reporting library.
+
+(c) The DLA RM Policy requires the R&D Office to use DACS-RM
+system to comply with DLAI 5015.01, DIM 1513, and DLAM 5015.01
+Volume | and 2. The RM policy requires specific R&D related documents
+to be filed, indexed, and archived.
+
+(d) Collect, assemble, index, scan and electronically file documents
+covered by the Records Management Policy, including moving those
+records from the R&D KM Portal (MS Office 365 site) to DACS-RM.
+
+(e) R&D Knowledge Management Portal Sustainment Support for the
+PMO with continuing use of the KM Portal SharePoint site to manage and
+collaborate on RDT&E financial execution activities.
+
+Page 95 of 256

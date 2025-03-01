@@ -1,0 +1,58 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(1) These reports, lists, systems and/or databases may include, but are
+not limited to:
+
+All Enterprise Asset systems
+
+Asset Lists
+
+Virtual Team’s VM master inventory reports
+
+Cybersecurity inventory reports
+
+DLA Portfolio and Architecture Tool System (DPATS)
+
+reports
+
+DLA IT Management Registry (DITMR) list
+
+e DLA Approved Hardware and Software List (DAHSL)
+(aka Technopedia and IT Solutions Document (ITSD))
+
+e Defense IT Portfolio Repository (DITPR)
+
+Note: Government may request reconciliation reports multiple
+times and request following up on correcting data and/or marry-up
+of data with the owners/POCs of such reports.
+
+As directed by the Government, the Contractor shall prepare
+briefings and/or reports on topics related to the IT Inventory
+Management tasks in the contract as well as process
+documentation for Government review for approval on an
+enterprise platform. The Contractor shall participate in briefings
+when requested by the Government to update the status of Data
+Center Inventories and progress of Visio Blueprinting.
+
+f. Database Administration - The contractor shall monitor health and maintenance of
+databases.
+
+1. Database Administration/Support
+
+(a) The contractor may be responsible for the following:
+
+(1) Troubleshooting, applying patches, dealing with exceptions and
+escalating problems in meeting Service Level Agreements.
+
+(2) Installing and configuring Database Management System (DBMS)
+software and performing upgrades.
+
+(3) Managing volume and performance.
+
+(4) Ensuring high availability, backup and recovery of production
+databases.
+
+(5) Performing planning, scaling and capacity planning etc.
+
+Page 31 of 256

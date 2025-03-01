@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+3. Change Project Management: The contractor shall be responsible for
+management of large-scale change projects to ensure a deliberate, standardized
+enterprise approach to the change.
+
+d. Provider Management: The contractor shall support information operations planning, to
+include strategic planning and alignment to Future Year Defense Plan (FYDP) budget as
+well as alignment with DLA Information Operations Chief Technology Officer (CTO)
+technology planning. Support includes advising the Government in strategic planning in
+vendor and customer relationship enhancement; facilitating meetings, capturing and
+tracking action items and preparing briefings and reports for Government Executives on
+tasks and schedules; maintaining Work Breakdown Structure; and monitoring DISA
+activities and advising the Government of issues. Recommend improvements/actions.
+
+1. The contractor shall:
+
+(a) Support the DISA Liaison in their role to manage the DLA-DISA
+relationship at a strategic level.
+
+(b) Support the Contractor Liaison in their role to manage the DLA
+relationship with large commercial IT product and service providers at a
+
+strategic level.
+
+(c) Support Service Level Agreement (SLA) Management by updating
+documents and consolidating SLA reports as directed.
+
+(d) Support Operating Level Agreement (OLA) management by updating
+documents as directed.
+
+C.4.4 TASK AREA 4 — Defense Business Systems (DBS) Life Cycle Management:
+Acquisition, Development, Sustainment, Maintenance, and Technical Support
+
+The contractor shall provide full lifecycle management support for the range of solutions and
+services stated below, which are necessary to meet requirements of this contract and individual
+Task Orders as related to DLA’s DBS acquisition, development, sustainment, maintenance, and
+technical support.
+
+a. Current State Assessment
+
+1. The contractor shall identify and document the application landscape, including
+applicable DLA standards.
+
+2. The contractor shall evaluate DLA production, test, and development
+environments in conjunction with DLA’s contractors.
+
+3. The contractor shall validate application technical architectures.
+
+Page 50 of 256

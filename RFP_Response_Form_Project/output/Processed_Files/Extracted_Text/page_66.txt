@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+l. Baseline Definition
+1. The contractor shall:
+
+(a) Determine and recommend the level of support required for the functional
+area or activity being supported or for which support is contemplated.
+These efforts include business systems analysis of functions and the
+inventory of support tools and their use.
+
+(b) Support configuration management of the Department of Defense
+Information Network (DODIN) from the DOD perspective.
+
+(c) Perform the initial steps of establishing or reviewing operations, processes,
+data, and information baseline for the functional activity. Since integration
+is an iterative process between various elements of the organization and its
+processes or operations, the contractor shall conduct the recurring steps to
+define, evaluate, and implement the incremental improvements needed to
+achieve simplified and streamlined operation of the functional activity.
+
+(d) Evaluate Existing Operations or Processes and Data
+(1) Identify existing "as-is" processes and data
+
+(2) Document and analyze differences in the way common functional
+Operations or processes are executed or interfaced.
+
+(3) Benchmark these processes against the best public and private
+sector achievements
+
+(4) Document known problems in existing processes and data that
+must be corrected to provide a functionally adequate to DOD or
+Federal standards.
+
+(5) Recommend data processes, interfaces and data baselines that
+together meet the process and associated information needs of the
+functional activity.
+
+(ec) Establish Operations/Process and Data Baselines
+
+(1) Recommend proposed operations/processes, data baselines, and
+interfaces based upon peacetime or normal operations and
+anticipated wartime, mobilization, or emergency operations.
+
+m. Support
+
+1. The contractor shall:
+
+Page 66 of 256

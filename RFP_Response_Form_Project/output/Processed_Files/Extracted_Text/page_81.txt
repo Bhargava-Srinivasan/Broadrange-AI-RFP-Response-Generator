@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(d) In conjunction with the applicable program/system manager,
+ensure all corresponding RMF documentation is maintained in a
+repository to include any dates and/or modifications to all relevant
+documented artifacts Support.
+
+(e) Support the program/system manager in implementing the DLA
+RMF process for information systems under your purview.
+
+(f) Act as a primary Cybersecurity technical advisor to the
+contractor’s respective enterprise Program Manager/System Manager and
+formally notify the Authorizing Official of any changes impacting any
+information system’s Cybersecurity posture under your purview.
+
+(g) Ensure that continuous Cybersecurity compliance monitoring 1s
+conducted to include periodic reviews of the results of any such
+monitoring activities for all information systems under your purview.
+
+(h) Ensure the DLA Computer Emergency Response Team (CERT) 1s
+immediately notified of any anomalous or suspicious event that may be a
+suspected computer incident using the required DLA incident reporting
+format.
+
+(1) For applications or enclaves within the contractor’s purview,
+ensure all supporting Cybersecurity/Information Technology (IT)
+personnel (e.g., ISSM, and system/network/database administrators, etc.)
+are made aware of Information Assurance Vulnerability Management
+([AVM) weekly alerts, bulletins, and advisories that impact the security
+posture of the information systems.
+
+(J) Monitor implementation of security guidance and direct
+appropriate action to resolve identified deficiencies.
+
+(I) Serve as a member of the Configuration Management board or
+delegate this responsibility to an appropriate ISSO. Ensure that
+Configuration Management (CM) procedures are developed and
+implemented 1n accordance with DOD and DLA policies.
+
+(1) Ensure audit trails and system logs are reviewed periodically (e.g.,
+as required) and audit records are archived and maintained for future
+reference in compliance with DOD and DLA policies and practices.
+
+(m) Ensure vulnerability scans, utilizing approved DOD and DLA
+tools, are conducted, and assessed on at least a monthly basis for all
+information systems under your purview. Ensure that monthly
+vulnerability scan results are stored and archived.
+
+Page 81 of 256

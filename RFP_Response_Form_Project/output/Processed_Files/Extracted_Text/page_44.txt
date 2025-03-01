@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(12) Remediate audit and security scan results as required by the
+Government.
+(13) Develop/Assist in creation of Plan of Action and
+
+Milestones (POAM) related to vulnerability findings, as requested
+by the Government.
+
+(14) Develop / create software deployment scripts for automated
+distribution of approved software application/packages utilizing
+PowerShell. Contractor must complete within 7 days of
+assignment.
+
+(15) Troubleshoot functionality issues with MECM Software
+Center, TANIUM, Menlo Secured Isolation Platform (aka CBII)
+
+(16) Provide after-hours support when contacted to assist in
+resolving Work-Stoppages or INFOSPOT outages that involve
+Microsoft -and- Non-Microsoft endpoints supporting critical
+functions as defined by DLA Information Operations.
+
+(17) Develop / create / maintain knowledge-based articles
+(K BA) for end-users and Tier | and 2 technicians on endpoint
+usage and troubleshooting. Maintain KBA’s in organizational File-
+Plan and J6 knowledge repository.
+
+(18) Provide training to other Tier 3, Tier 2 and Tier 1
+technicians on software distribution system and software
+installation as required for level of access.
+
+5. Virtual Desktop Infrastructure (VDI) Support
+
+(a) Configuration Support: The Contractor shall improve the VDI architecture
+through enhancements by incorporating new data feeds and products. The
+Contractor shall assist J64DCBB by implementing use cases to provide
+situational awareness to ensure the health and scalability of the VDI
+implementation. These activities include, but are not limited to, the
+following tasks:
+
+(1) Research and analysis for additional VDI modules and
+configurations
+
+(2) Create dashboards and reports to provide summaries and areas of
+concerns from log events.
+
+(3) Integrate data / event feeds.
+
+Page 44 of 256

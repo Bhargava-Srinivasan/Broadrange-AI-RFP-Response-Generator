@@ -1,0 +1,57 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+launch, and support conferences and video streams. The contractor shall monitor,
+tune, set configurations, and maintain a range of Audio Visual (AV) and VTC
+components and systems. This will include general housekeeping of the units and
+facility where equipment is installed. Replacement of bulbs/lamps should be
+performed and recorded for maintenance purposes. Provides client consulting and
+training on control, interfaces, and use of the Audio/Video, VTC and streaming
+video equipment and software to include video telecommunications endpoints and
+facilities for fault isolation, remediation, performance analysis, and other incident
+management operations as required. The contractor shall utilize monitoring,
+performance analysis, software, and hardware equipment to troubleshoot and
+isolate problems, gauge performance and record activity. Devises solutions to
+moderately complex operational problems within the capacity and operational
+limitations of installed equipment and software. Responsible to report,
+troubleshoot and escalate to contractors for problems logged.
+
+b. Telecommunications
+
+C.
+
+I.
+
+Engineering - The contractor shall provide technical direction and engineering
+knowledge for communications activities including planning, designing,
+developing, testing, installing, and maintaining large communications networks.
+Ensures that adequate and appropriate planning is provided for remote hardware
+and communications facilities to develop and implement methodologies for
+analysis, installation, and support of voice communications systems. Provides
+complex engineering or analytical tasks and activities.
+
+Operations - The contractor shall respond to user complaints to research complex
+problems associated with the organization telecommunication devices. Performs
+Adds, Moves and Changes. Monitors and responds to complex technical control
+facility hardware and software problems. Interfaces with contractor support
+service groups to ensure proper escalation during outages or periods of degraded
+system performance.
+
+Satellite Communication (SATCOM) — The contractor shall provide Satellite
+Communications Systems planning, designing, developing, testing, installing,
+management.
+
+Radios/Spectrum Management — The contractor shall provide Radio Communication
+Systems/Spectrum planning, designing, developing, testing, installing, and management.
+
+C.4.2 TASK AREA 2 —- TECHNOLOGY SERVICES
+
+a.
+
+System Administration - The contractor shall provide administrator oversight on
+specified IT assets to include, but not limited to: Oracle EBS application suite and
+databases; Windows and non-Windows (Unix) virtual and stand-alone operating systems,
+monitoring, and performance measurement software; and Linux, zOS and Commercial
+Off the Shelf (COTS) applications.
+
+Page 17 of 256

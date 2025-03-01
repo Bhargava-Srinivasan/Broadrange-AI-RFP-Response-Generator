@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(4) Monitor production performance and provide reporting metrics on
+key applications
+
+(5) Open tickets with vendor to address performance issues with the
+application or areas in standard code
+
+(6) Perform code reviews to identify opportunities for performance
+improvements in custom code
+
+(7) Analyze expensive queries and provide tuning recommendations
+(8) Develop LoadRunner scripts to simulate online user activity
+
+(9) Create custom programs to simulate batch activity and generate
+data for load tests
+
+(10) Conduct performance load tests to validate system
+performance and identify bottlenecks
+
+4. Local Area Network (LAN) and Electric Service - The contractor shall provide
+support to install and maintain the wireless network and electrical infrastructure
+supporting the active and passive RFID devices used in the government locations
+where this technology is in use, including DLA Distribution sites worldwide,
+DoD and Recruit Depots associated with the military services. This includes the
+network and electrical infrastructure supporting Wireless/Radio Frequency (RF),
+and Radio Frequency Identification (RFID) equipment and the printing equipment
+associated with AIT. It does not include the wireless and electrical infrastructure
+for the building where the AIT equipment is housed.
+
+(a) The contractor shall:
+
+(1) Install wireless/RF network, LAN, and electrical infrastructure
+supporting RFID and AIT equipment in accordance with all
+applicable military, DOD, and professional standards including:
+
+e DOD 5220.22M, Industrial Security Manual for
+Safeguarding Classified Information
+
+e MIL-STD-188-124B N3, Grounding, Bonding, and
+Shielding for Electronic Common Long Haul/Tactical
+Communications Systems including Ground based
+Communications — Electronics Facilities and Equipment
+
+e NFPA 70, National Electrical Code; current edition
+
+e MIL-HDBK-419A, Vol. 2 Grounding, Bonding, and
+Shielding for Electronic Equipment and Facilities
+
+Page 37 of 256

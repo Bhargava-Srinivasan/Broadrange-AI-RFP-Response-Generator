@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+I.
+
+Industrial Equipment - The contractor shall provide support to maintain, operate,
+and repair all industrial equipment associated with the automated identification
+technology (AIT) operations at all DLA locations where this technology is in use,
+including DLA Distribution sites worldwide, and Recruit Depots associated with
+the military services. This includes Wireless/Radio Frequency (RF), and Radio
+Frequency Identification (RFID) equipment and the printing equipment associated
+with AIT.
+
+(a) The contractor shall:
+
+(1) Ensure that the staff provided to support this task are fully
+accredited, licensed, and certified to perform the duties and
+functions associated with this task. The contractor shall provide
+expertise in electrical and network standards and specifications.
+
+(2) Provide the necessary supplies and hardware to perform the
+assigned tasks. Supplies and hardware include stanchions for
+wireless equipment, cable trays, brackets, and supporting hardware
+such as nuts, bolts, and screws.
+
+(3) Perform AIT industrial equipment support at DLA distribution
+centers and recruit centers. In addition, the contractor will be
+tasked to travel to other DLA, DoD, or military recruit depots such
+as Fort Leonard Wood, MO; Great Lakes, IL; Fort Jackson, SC;
+Fort Benning, GA; and Fort Sill, OK, to perform AIT industrial
+equipment support at those locations on a short-term basis. When
+the task order requires that the contractor travel to a site, the
+contractor shall arrange for all transportation, tools, and materials
+required to reach the location and to perform the specified support.
+The contractor shall provide any specialized AIT industrial
+equipment and tools required for such radio frequency
+identification (RFID) tasks as spectrum analysis and LAN
+validation. Travel may be required to CONUS and/or OCONUS
+destinations. The contractor shall ensure that the personnel sent to
+the locations have completed the required training and
+certifications to be permitted to work at the location. An example
+is the OSHA safety training that is required prior to entering a
+distribution facility or military depot to perform industrial
+equipment operations, maintenance, or repair.
+
+(4) Provide consultation and analysis support for AIT industrial
+equipment, Wireless/Radio Frequency (RF), and Radio Frequency
+Identification (RFID) projects and assist the Government in
+developing plans for AIT, RF, and RFID projects. Examples of
+consultation and analysis include specialized uses of AIT and
+recommendations for using AIT in multiple or varied
+
+Page 33 of 256

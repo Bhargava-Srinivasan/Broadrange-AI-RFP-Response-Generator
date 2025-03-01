@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(4) Perform upgrades, maintenance, and performance tuning.
+(5) Define anticipated user types and roles and maintain user access.
+
+(6) Determine data storage policies/capabilities and impacts on VDI
+architecture and provide supporting documentation.
+
+(7) Develop and document standards and guides for the
+implementation of VDI solutions, including but not limited to,
+compliance, system security design, architecture flow, Build
+Guides and Change Management.
+
+(8) Prepare training materials to assist in the transition of procedures
+and policies for VDI to government and contractor personnel.
+Training materials shall usually be in the format of a presentation
+and/or briefing format or in CBT (LMS) format that covers policy,
+procedures, and guidelines.
+
+(9) The Contractor will also provide Swing/Second Shift support,
+Mon-Fri, from the hours of 1200 to 2000 for the purposes of
+Patching, image rollouts, and issue resolution
+
+(10) The Contractor will provide on call support as needed.
+Typically, the on-call support personnel receive one (1) call per
+week, 10% of which require on-site support.
+
+(11) The Contractor will provide after-hours support as needed.
+After-hours support is not expected to exceed 8 hours per month
+and will be to cover maintenance or other scheduled task outside of
+normal user work hours.
+
+(b) VDI End User Support: The contractor will provide End User support at a
+
+tier 3 level for complex incidents, work orders, and tasks that cannot be
+resolved by Tier 1, Tier 2, or Tier 2.5. Support will include, but is not
+limited to, complex issues with connecting to VDI that cannot be resolved
+by Tier 1, Tier 2, or Tier 2.5 support, identifying, and maintaining ticket
+assignment within ticketing system software, analyzing trends with user
+issues within the VDI environment, and providing reports based off ticket
+quantities and types and documenting resolutions. Additionally, the
+contractor will interact with the Enterprise Service Delivery (ESD)
+program Tier 1, Tier 2, and Tier 2.5 to provide knowledgebase articles to
+ensure faster resolutions at the ESD level to lessen the effect on end user.
+Types of support shall include, but not be limited to:
+
+(1) Troubleshooting complex user login issues.
+
+Page 45 of 256

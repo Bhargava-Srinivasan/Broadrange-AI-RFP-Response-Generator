@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(2) Troubleshooting advanced issues with application launches (to
+identify potential cause, not to rectify the actual application).
+
+(3) Provide weekly ticket reports.
+(4) Log out user sessions within VDI that are experiencing difficulties.
+
+(5) Create master tickets where needed to consolidate issues to prevent
+overlap.
+
+(6) Provide Reports, Trends, and Analysis.
+
+(7) Work Orders, Work Order Task, Or Change Request Task shall be
+resolved as soon as possible.
+
+(8) Contractor shall resolve >25% of Incidents in the VDI ticket queue
+monthly.
+
+(9) Tickets that are awaiting response from customer or other factors
+outside the technician’s control shall be placed in a “pending”
+status and resumed once work can continue.
+
+(10) Initial Response to the Customer (e.g., Email, Phone, IM)
+for Work Order / Service Request should be processed < 8 hours
+most of the time during the Period Performance Schedule (PPS).
+
+(11) Target ticket status update is every 48 until the ticket 1s
+resolved. Update >85% of tickets every 48 hours until resolution.
+
+(12) All tickets must be noted with major progress and customer
+contact attempts.
+
+(13) The contractor shall provide on-site VDI technologies and
+infrastructure support at Ft. Belvoir, VA and Dayton, OH, to
+include XenDesktop, Netscaler, ADC, Receiver, and Director in
+both NIPRnet and SIPRnet computing environments. The
+following on-site VDI support is required at both Ft. Belvoir, VA,
+and Dayton, OH:
+
+e Troubleshoot, research, analyze, and resolve on-site VDI
+connection/login issues, application functionality issues,
+end point related support/software issues (thick, thin, zero
+client), infrastructure related configuration changes/updates
+and system performance tuning that cannot be resolved
+remotely.
+
+Page 46 of 256

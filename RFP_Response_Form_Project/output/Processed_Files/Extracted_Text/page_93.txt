@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) Support maintaining an inventory of current open contract actions,
+such as: (Broad Agency Announcements (BAAs), Contracts, and Other
+Transaction Agreements (OTAs) and relevant opening and closing dates
+(for BAAs), period of performance for Contracts and OTAs, and
+respective obligation ceilings.
+
+(b) Support Pre-Contract actions and identify process changes or
+opportunities to improve processes, such as further use of R&D’s
+Knowledge Management (KM) Portal SharePoint site.
+
+(c) Assist the PMO providing guidance to the PMs by drafting “best
+practices” and lessons learned on the contracting process
+
+(d) Support documenting the materials required (SOW, IGCE, etc.) to
+efficiently process a contract action through internal contracting (DCSO-
+P, DCSO-R) or external organizations (WHS, DTIC).
+
+(e) Assist monitoring the Contract Action Tracking System (CATS) to
+maintain data currency and accuracy, identify opportunities to improve
+CATS in monitoring and supporting the PMOs contract monitoring
+process
+
+(f) Assist linking CATS data to other relevant PMO/KM Portal
+functions e.g., Roadmaps
+
+7. Financial Business Process Support
+
+(a) Assist in developing and maintaining SOPs and other process
+documentation such as related Process Flow charts and data dictionaries
+for DLA’s R&D Planning, Programming, Budgeting, and Executing
+(PPB&E) Processes.
+
+(b) Assist in developing SRP for the PPB&E activities that will
+maximize use of information from DLA Information Operations (J6)
+systems (Systems, Applications, and Products (SAP), SharePoint Online,
+Microsoft® Office 365, Microsoft Teams, Enterprise Business System
+(EBS), eProcurement, and Robotic Process Automation (RPA) for
+financial transactions in EBS and eProcurement) and the internal DLA
+supporting processes (e.g., Outbound Military Interdepartmental Purchase
+Requests (MIPR), Audit Sustainment through (Response Center Tool),
+Records Management through internal J68 SRP, and DLA’s use of the
+Documented Automated Content Services-Records Management (DACS-
+RM) site), as required.
+
+Page 93 of 256

@@ -1,0 +1,45 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+4. Fly-Away Incident Response
+
+(a) A “Fly Away” Team must be designated of no less than 5 members
+to provide On-Site Incident Response capabilities specifically for
+cybersecurity incidents. In addition to Incident Response the Fly Away
+team will perform basic cybersecurity assessments. Some environments
+cannot be accessed for assessment, analysis, mitigation, containment, and
+eradication remotely. The Fly-Away team will be activated on an as-
+needed basis in support of various initiatives ranging from urgent
+situations pertaining to incident response, scheduled visits in support of
+operational readiness and preparation, as well as contingencies affecting a
+DLA site. The Fly-Away team will be led by a government appointed Fly-
+Away Team Lead. The Fly-Away team must be capable of activating
+within established time thresholds depending on the urgency of the
+situation:
+
+(1) Critical: Depart within 8hrs of notification
+
+(2) Urgent: Depart within 24hrs of notification
+(3) Important: Depart within 96hrs of notification
+(4) Routine: Depart as soon as possible
+
+(b) Cybersecurity assessments under this subtask include but are not
+limited to basic penetration testing, vulnerability scanning, and STIG
+compliance. These assessments are intended to be preventative measures
+for systems that may be targets of cybersecurity attacks. These
+assessments will be performed when identified as needed and directed by
+the CERT Incident Response branch chief. DLA CERT estimates up to 4
+assessments per year may be required.
+
+(c) This team will be required to maintain a software and hardware
+Fly-Away kit that 1s portable and capable of performing all functions to
+assess, analyze and mitigate a cybersecurity incident locally. These
+capabilities include but are not limited to:
+
+(1) Malware analysis/removal
+(2) Log Review
+(3) Forensic Analysis
+
+(4) Investigation Documentation
+
+Page 87 of 256

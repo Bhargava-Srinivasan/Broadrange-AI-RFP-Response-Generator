@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+C.
+
+touch labor, transport/removal/installation of IT equipment. In
+some locations such as flight lines or other restricted areas, the
+contractor will be expected to follow all local command
+requirements for access to these areas to include command-
+sponsored training and approval
+
+(3) Advanced Technical Support Service is the highest level of support
+
+in a three-tiered technical support model responsible for handling
+the most difficult or advanced problems. Advanced Technical
+Support Service providers are most often commercial hardware or
+software manufacturers or vendors. IT support will be escalated to
+Advanced Technical Support Service at the direction of the COR
+or PM COR.
+
+Single Vender Integrator (SVI) manages the execution of IT
+support services across DLA and DLA service providers to ensure
+all the individual components that make up the IT services are
+managed in an end-to-end manner.
+
+SVI will ensure that Information Technology Infrastructure
+Library (ITIL)-based processes effectively integrate with the
+processes, functions and roles deployed within and used by DLA,
+DLA customers, and DLA service providers. Assist with the
+developing, documenting, and managing processes regarding
+interfaces, interaction, and responsibilities between Initial
+Response Support, Technical Support Service and Advanced
+Technical Support Service and any other internal or external
+persons or entities that may either submit or receive an IT Incident
+or Service Request.
+
+Change Management: The contractor shall assist the Government with change
+management strategy and implementation for all DLA information operations in
+accordance with ITIL (v3) processes.
+
+I.
+
+Front door process: The contractor shall assist the government to evaluate
+proposed investments to change existing systems or add new systems or products
+to the DLA portfolio, or identify already existing solutions to requirements, to
+include evaluation and assessment of all technical requirements and specifications
+including related funding.
+
+Enterprise Configuration Management Process: The contractor shall be
+responsible for the configuration management and change evaluation process
+covering the enterprise infrastructure. The contractor shall be responsible for the
+configuration management and change evaluation process covering enterprise
+
+Page 49 of 256

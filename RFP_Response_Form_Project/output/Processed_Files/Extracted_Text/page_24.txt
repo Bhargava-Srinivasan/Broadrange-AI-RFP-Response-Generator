@@ -1,0 +1,54 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(b) The Contractor shall:
+
+(1) Provide expert knowledge and expertise with Vmware ESXi1 6.x
+and 7.x bare-metal hypervisor and Vmware ESXi host’s actions
+and operations. Tasks and duties in this area include:
+
+Perform ESXi hypervisor installations and upgrades
+Install, upgrade, and patch ES.X1 hosts; stop, start, and
+restart host services; stop, start, restart host Management
+Network; test host Management Network settings; reset
+host system configuration; view system logs; configure
+host firewall settings; configure host networking, including
+physical network adapters, TCP/IP configuration,
+Vmkernel adapters, virtual switch configurations, and
+firewalls.
+
+Configure host storage, including local storage and virtual
+Storage Area Networks (vSAN), connections to Storage
+Area Networks (SAN), Datastores and Logical Unit
+Numbers (LUNs) Configure host storage adapters, storage
+devices, host profiles, licensing, time configuration, power
+management, authentication services, certificates, advanced
+system settings, security profiles, host profiles, firewall
+connections and settings, services, lockdown modes, and
+system swap.
+
+Install Vmware ESXi host hardware and perform host
+hardware upgrades and rack host hardware and associated
+hardware for new projects and existing technical refresh
+requirements
+
+Secure hosts and apply security settings for compliance
+with all DLA Cybersecurity and Security Technical
+Implementation Guide (STIG) requirements and findings.
+
+(2) Provide expert knowledge and expertise with Vmware and
+Microsoft Azure virtual machine actions and operations. Tasks and
+duties in this area include:
+
+Perform virtual machine (VM) provisioning, including
+manual creation, deploying through vendor-supplied Open
+Virtualization Format (OVF) packages and files, vendor-
+supplied Open Virtual Appliance (OVA) packages and
+files, or through other manual or automated techniques.
+VM naming and renaming; virtual hardware versioning and
+compatibility upgrades; disk consolidations, scheduled and
+unscheduled snapshot creations, snapshot deletions,
+reversions to snapshots, consolidating snapshots; virtual
+
+Page 24 of 256

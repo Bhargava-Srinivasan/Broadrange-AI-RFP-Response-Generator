@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+tasks and to identify where automation can be used to improve
+processes. The contractor will use tools such as PowerShell to
+create and modify scripts which automate processes and assist
+teams outside of the Windows group with automation.
+
+2. System Administration (Unix): The contractor shall provide system
+administration and assist government system administrators on specified IT assets
+to include UNIX/Red Hat Linux virtual and stand-alone operating systems,
+monitoring, and performance measurement software, and Commercial Off the
+Shelf (COTS) applications. The contractor shall:
+
+(a) Perform system deployment for physical/virtual servers, onboard
+administrator (OA) support of HP-UX operating systems for Remote
+Server Management tools for administration in adherence to DLA
+lifecycle management policies and procedures.
+
+(b) Perform configuration/policy changes in compliance with all relevant and
+required Cybersecurity and security implementation/compliance
+requirements, including Life Cycle Assessment (LCA)
+artifacts/documentation, DISA Security Technical Information Guides
+(STIGs), for initial server standup, and annual or identified STIG reviews.
+
+(c) Apply system security patching monthly as vendor patches are released for
+Red Hat Linux, HP-UX, and Solaris Operating systems. Remediate any
+vulnerabilities for all operating environments produced from vulnerability
+scans.
+
+(d) Perform/assist with initial application installs after system deployment and
+for application upgrades.
+
+(ec) Perform system/application diagnostics using Government-provided
+maintenance tools to ensure availability and to provide a notification
+vehicle of problems to system and application administrators.
+
+(f) Install, configure, and maintain COTS software products that provide
+operating system support/monitoring such as McAfee/Host Based Security
+System (HBSS), Tanium, Tripwire, and Satellite/ansible/puppet/insights.
+Ensure remote connections to ACAS, Application Discovery and
+Dependency Mapping (ADDM)/Discovery and SolarWinds are
+maintained, and other products per J6 direction.
+
+(g) Conduct research and investigation into technological developments in
+such areas as operating systems and software systems for installing,
+monitoring, and maintaining operating systems and executive software.
+
+Page 21 of 256

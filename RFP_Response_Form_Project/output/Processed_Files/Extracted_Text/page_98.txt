@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+must follow Government (OMB) policies, and recognized industry practices.
+Document BCA findings and results.
+
+8. Prepare and document recommendations of alternative approaches to executing
+any Congressionally directed funds added to the DLA R&D program annually.
+
+9. Assist with organizing and facilitating meetings or workshops and working group
+sessions with industry, academia, and/or other Government agencies. These
+meetings and workshops may:
+
+(a) Facilitate the prompt identification of emerging logistical or industrial
+base problems and identify potential solutions.
+
+(b) May conduct In-Progress Reviews (IPRs) of technical projects.
+
+(c) Compile information presented during each meeting/workshop and
+produce a report summarizing the meeting and any action items
+identified during the meeting.
+
+(d) Use the established DLA financial management systems, R&D
+Knowledge Management Portal (KM Portal), Enterprise Business
+System (EBS) and eProcurement to accomplish budgeting/funding
+support.
+
+C.4.8 TASK AREA 8 — Enterprise Support Services
+
+The contractor shall provide professional and technical support to the Program Executive Office
+(PEO) Support Offices, which include the PEO, the Chief of Staff, the Acquisition Support
+Office (ASO), and the Business Support Office (BSO). The contractor shall also provide
+enterprise support services to other areas of DLA Information Operations, as required. This
+support may include the following areas:
+
+Provides subject matter expertise to government personnel on policies, processes and
+procedures.
+
+a. Prepare, revise, and/or update required program lifecycle products and documents,
+subject to Government direction, review, and approval, including the coordination,
+review and archival of such documentation for current and emerging IT systems of all
+stages of acquisition.
+
+b. Support strategic direction and initiatives for the PEO, Chief of Staff (CoS), ASO, and/or
+BSO, including development and recommendations of dynamic key business elements
+
+such as:
+
+1. Technology enhancements
+
+Page 98 of 256

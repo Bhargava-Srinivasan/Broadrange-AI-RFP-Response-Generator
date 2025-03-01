@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Action and Milestones (POA&M) and are tracked until the Government
+has implemented adequate mitigation measures.
+
+5. Coordination Support - As directed, the contractor will assist the Government to:
+
+(a) Coordinate with or participate in meetings, with other Federal,
+DOD, and private/ industry organizations in support of the RMF efforts
+for the Programs under their purview.
+
+6. Security Documentation Support - The contractor will:
+
+(a) Document RMF packages, and provide accreditation
+recommendations that are supported by the identified vulnerabilities,
+weaknesses, and status of packages
+
+(b) As required, develop inputs for the update of policy, guides,
+handbooks, and training material on the RMF process, operating
+procedures, and best practices
+
+(c) Support DLA in its compliance assessment efforts by developing,
+implementing, and operating the Cybersecurity Control Validation
+compliance assessment program. The evidence gathered and archived
+during these Cybersecurity assessments will be analyzed against the
+security findings detailed in the target system’s RMF package to
+determine the level of adequateness with which the developed RMF
+packages are authored.
+
+7. Information Technology Integration - The contractor may be required to:
+
+(a) Provide technical support in developing and integrating
+Cybersecurity Tools solutions, incorporating emerging technologies.
+
+(b) Provide technical support in demonstrating technology, prepare
+and give briefings, and provide copies of the briefings
+
+(c) Produce technical reports describing the demonstrations.
+Information technology security 1s dynamically changing; therefore, an
+incremental strategy to securing DLA’s Net Centric Environment is
+required.
+
+8. General Support - The contractor shall provide general Cybersecurity engineering
+capabilities and services per individual task orders. General support includes:
+
+(a) Participating in Integrated Product Teams (IPTs), working group
+meetings, design reviews, specific project meetings, other meetings
+
+Page 79 of 256

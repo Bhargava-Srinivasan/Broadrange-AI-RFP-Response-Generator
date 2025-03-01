@@ -1,0 +1,45 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(d) Modify primary objects, as necessary, from information given by the
+application developers
+
+(ec) Enroll users and maintain system security
+(f) Control and monitor user access to the database
+(g) Monitor and optimize the performance of the database
+
+(h) Update and maintain database standards and conventions with respect to
+the application
+
+(i) Analyze impact of data changes
+
+(j) Resolve scheduling, operational and change control problems and
+procedures
+
+(k) Assist developers in application performance tuning
+
+(1) Provide database response and availability as needed to support database
+applications
+
+C.4.5 TASK AREA 5 - Lifecycle Program Support Services
+
+The contractor shall provide full lifecycle support and services for Defense Business Systems
+and IT Project Planning and Management.
+
+a. Project Services
+1. The contractor shall:
+
+(a) Assist the Government in planning, initiating, executing, and closing out
+programs and projects as directed.
+
+(b) As directed, provide analysis, and recommend topics associated with
+project/program objectives, to include but not limited to:
+
+(1) Project leadership and communications with stakeholders
+(2) Project planning and scheduling
+(3) Earned value management support
+
+(4) Project management, including performance monitoring and
+measurement
+
+Page 62 of 256

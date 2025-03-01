@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+expertise to determine the point of failure between the RF
+equipment and the network. The contractor shall perform this
+work in compliance with all applicable licensing, training, and
+certification requirements.
+
+(3) Maintain and repair all wireless/RF and RFID handheld vehicle
+and wearable wireless devices, to include but not limited to:
+vehicle mounted terminals (VMT), handheld terminals (HHT) and
+Wearable Voice Headsets (WVH); mounting solutions; mobile
+carts; active and passive RFID portals and scanners; wired bar
+code scanners; Bluetooth barcode scanners, printers; antennas;
+wireless LAN controllers. The contractor shall install, configure,
+and maintain software related to the terminals, devices, or RF
+system. The contractor shall process requests for warranty service
+from the equipment manufacturer as needed.
+
+(4) Perform remote and on-site software updates to the handheld,
+vehicle and wearable devices and terminals as well as their
+associated peripherals which includes, but 1s not limited to,
+scanners and printers. The contractor shall assist the Government
+in controlling and managing the software licenses and maintenance
+agreements.
+
+(5) Ensure that the personnel performing the duties in this task have
+completed the required training and have current licenses and
+certifications required to be permitted to work at the DLA, DoD, or
+military service location.
+
+(6) Perform problem reporting and problem resolution for the end
+users utilizing the wireless network supporting the RF/RFID
+devices, and the devices themselves.
+
+(7) Assist end users with access and usage problems.
+(8) Prepare and install new equipment.
+
+(9) Assist with development and documentation operating procedures
+and End-User Knowledge articles.
+
+(10) Perform site surveys and prepare configuration designs for
+the site’s wireless/RF network and devices.
+
+(11) Develop management reports providing information
+regarding such items as usage, problems and resolutions, and
+
+performance, as examples.
+
+h. Active Directory, Email and Mobile Device Support:
+
+Page 39 of 256

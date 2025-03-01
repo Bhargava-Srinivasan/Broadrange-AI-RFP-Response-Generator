@@ -1,0 +1,44 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+d. Implementation
+1. The contractor shall:
+(a) Manage assigned tasks and resources associated with the project.
+
+(b) Coordinate activities with the government, affected Authorized Users, and
+affected Third Party Contractors.
+
+(c) Develop site survey reports as directed.
+e. Compliance
+1. The contractor shall:
+(a) Comply with DLA policies and standards and regulations applicable to
+
+DLA for information, information systems, personnel, physical and
+technical security.
+
+(b) Conform to changes in laws, regulations, and policies.
+
+(c) Propose major changes on a project-by-project basis to alter the
+environment to conform to the new requirements.
+
+f. Technical Advisor Support
+1. The contractor shall:
+(a) Continuously monitor technical trends through independent research.
+
+(b) Document and report on products and services with potential use for DLA
+as it aligns with DLA’s business and technology strategy.
+
+(c) Evaluate new technologies for the implementation of new technologies
+that best meet DLA business needs and meet cost, performance, and
+quality objectives.
+
+(d) Make recommendations for enterprise level and program-specific project
+management policies, procedures, and requirements (e.g., project
+feasibility analysis, cost benefit analysis, scheduling, costing, resource
+planning, communication planning, procurement, risk management and
+quality management).
+
+(e) Conduct technical reviews and provide recommendations for
+improvements to the infrastructure that increase efficiency and
+
+Page 64 of 256

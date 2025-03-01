@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+party tools/applications. Once the Government has approved the strategy, the contractor
+shall assist in testing, tuning, configuring, implementing, setting up and supporting those
+tools and application. Additional applications may include, but are not limited to,
+products such as OCS/Lync, SharePoint, CITRIX, webMethods, WebLogic, Websphere
+MQ, US, Apache, Vontu, ServiceNow, Oracle EBS application suite, etc. as identified
+within the Task Order.
+
+e. Asset Management and Inventory
+
+I.
+
+Physical Inventory — The contractor shall assist with the physical inventory and
+accountability of all IT hardware assets within an operating location. All assets
+shall be tracked from receipt of hardware to the disposal of the equipment which
+includes the management of all tracking forms. The contractor shall conduct asset
+management reporting in accordance with contractual and governmental
+requirements and maintain and report software usage, including, but not limited
+to, Federal Information Processing Standards (FIPS) and Section 508.
+
+Licensing Management and Compliance — The contractor shall provide support to
+manage commercial software licenses obtained by the Government. The
+contractor shall assist the government in assembling documentation packages for
+internal use software (software developed by the Government for its own use) and
+recording and maintaining the audit documentation packages for that software.
+Commercial software is often divided into application software and system
+software (which includes operating systems and any program that supports
+application software) and both must be managed and recorded in automated
+systems used by the Government for asset management and audit compliance.
+Commercial software licensing includes any follow-on maintenance/license to use
+software in DLA or DoD.  AII procurement documentation such as purchase
+order, Military Interdepartmental Purchase Requests (MIPRs), as well as other
+pertinent information for each software license shall be collected and maintained
+in the appropriate automated tool.
+
+Physical Inventory Control— The contractor shall perform physical inventory
+control program services that maintain integrity in mission material IT asset
+balances, in accordance with (LAW) Department of Defense (DOD), DLA, and
+other standard Asset Management policies. This includes the tasks listed below:
+
+(a) Perform periodic Data Center Physical Inventories using established
+baselines to include all equipment, software, and all IT environmental and
+facility equipment that support the data center. (Environmental and
+facility equipment includes all Heating, Ventilation, Air Conditioning
+(HVAC), Uninterruptible Power Supply (UPS), Power Distribution Units
+(PDU), batteries, generators, water detection systems, etc.)
+
+(b) Blueprinting and diagramming with industry software tools
+
+Page 28 of 256

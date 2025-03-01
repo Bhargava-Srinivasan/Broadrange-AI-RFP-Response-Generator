@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+device (virtual hardware) upgrades and updates, including
+adding devices, removing devices, increasing device
+resources, decreasing device resources, mounting Compact
+Disc/Digital Video Disc (CD/DVD) devices and
+International Organization for Standardization (ISO)
+devices and images
+
+e Assigning networks, assigning/managing media access
+control (MAC) addresses; assigning VM Guest Operating
+Systems (OS), assigning, updating, and removing
+permissions and access; VM deletions; VM shutdown,
+restart, power on, power off, suspend, and reset operations
+
+e Verification of VM console access and operations
+interactively and to users; managing VM settings for
+remote console options, Tools and scripts, power
+management, boot options, encryption, debugging, logging,
+and swap file management; managing VM host and storage
+rules
+
+e Perform migrations to different host (compute) resources
+and storage resources, moving applicable components to
+different Datacenters, clusters, hosts, storage, networks,
+folders, and containers
+
+e Cloning and/or converting to other virtual machines or
+templates; adding, removing, enabling, and disabling alarm
+definitions
+
+e Updating VM attributes; managing VM performance and
+providing recommendations on performance
+improvements.
+
+(c) The Contractor shall:
+
+(1) Provide administrative and technical support for current and future
+virtualization technologies used by DLA or DoD with the various
+Cloud providers chosen by DLA or DoD.
+
+(2) Provide administrative support for all Cloud-based support
+offerings where DLA or DoD hosts virtualized infrastructure,
+including but not limited to Microsoft Azure, Amazon Web
+Services (AWS), Google Cloud Platform, and Oracle Cloud.
+
+(3) Provide expert knowledge and expertise with the various Cloud
+offerings where DLA or DoD operates. The day-to-day support
+and administration in the various Cloud environments will be
+commensurate with the administration and support of the on-
+premises infrastructure, including the day-to-day support tasks and
+administrative support provided. Contractor staff will manage and
+
+Page 25 of 256

@@ -1,0 +1,41 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+2. Utilize the Agency’s documentation templates
+3. Follow Standard Naming Conventions
+
+4. Allow for proper testing
+
+5. Document design considerations
+
+6. Document application or data base components
+7. Document interface designs
+
+8. Document requirements traceability
+
+9. Address section 508 compliance requirements
+e. The contractor shall develop Code and Configuration Rationales which:
+1. Support Configuration Management
+
+2. Capture all requirements
+3. Are efficient (do not contain unnecessary looping or internal data tables)
+
+4. Provide sufficient performance based on existing database table indexes
+f. The contractor shall develop Test Plans which:
+1. Map to each requirement in the government approved functional specifications
+2. Include both positive and negative test conditions
+3. Address error handling and atypical system/data conditions
+4. Include performance stress testing as applicable
+
+g. The contractor shall execute Required Tests (Unit, System, Functional, Interface,
+Regression, Performance, Integration and/or Interoperability and section 508 testing)
+
+1. Generate necessary test data and transactions in the test environments to exercise
+all applicable data values which enables execution of required tests.
+
+2. Coordinate testing with selected end users in test environment as applicable
+
+h. The contractor shall fully document the process required to integrate New/Revised
+Software Modules into the Production Environment.
+
+Page 52 of 256

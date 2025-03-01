@@ -1,0 +1,40 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+CONTENTS
+REMINDERS 2.0... occ ccc nnn ERLE EEE EEE EEE EEE EEE EEE E EEE EEE EEE; EE EEE nnn EERE EEE EEE ES 6
+PART I — THE SCHEDULE ..... 0... ccc ccc ccc nee n nn EEE EEE EEE ee eee e en EEE EEE ES 7
+SECTION B: SUPPLIES OR SERVICES AND PRICE/COSTS ....... 0.0... ee 7
+B.1 Firm-Fixed Price Labor Rates .............cccccc ccc ccc cece eee eee eee e eee e eee e eens 9
+B.2 Contract Maximum Dollar Value ............. cece ccc ccc cece e tenet e eee e eee e etna 11
+B.3 Guaranteed Minimum ............ 00. c cece cece cece cece eee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 11
+SECTION C: STATEMENT OF WORK (SOW) ........... 0... cece cece cece cece ee ee eee eee eee e eee e neers 12
+C.1 Background ....... 0... eee eee e eee e eee e eee e eee eee Eee eee eee enn nee eee 12
+OPP 0) 0) (101 8 12
+ORS S01 0) oo a 14
+C.4 Task Area Requirements ............. ccc cece ccc n eee e nee e eee e eee e eee e esse eeeaanees 15
+C.4.1 Task Area 1 — Network and Telecom Services ................. ccc eceeeeeeeees 15
+C.4.2 Task Area 2 — Technology Services ............. cece eeeeeeeeeeeeeeeeeeeeeeeeeees 17
+C.4.3 Task Area 3 — Enterprise Service Delivery (ESD) .................... 0c cece eee 47
+
+C.4.4 Task Area 4 — Defense Business Systems (DBS) Life Cycle Management:
+Acquisition, Development, Sustainment, Maintenance, and Technical Support ..50
+
+C.4.5 Task Area 5 — Lifecycle Program Support Services ................cceeeeeeees 62
+C.4.6 Task Area 6 — Cybersecurity Support Services ............ cc cceeeeeeeeeeeeeeees 71
+C.4.7 Task Area 7 — Program/Project Management Support ....................00 6. 88
+C.4.8 Task Area 8 — Enterprise Support Services ............. ccc cece cece cece cece eens 98
+C.4.9 Task Area 9 — Technical Support .......... 0... cece cece cece cece cece eee eeeenes 100
+C.4.10 Task Area 10 — Cloud Hosting Services .......... 0... cece cece cece cece eee e ees 122
+
+C.4.11 Task Area 11 — Data and Information Governance Analytics Services ..123
+
+C.4.12 Task Area 12 — Modernization of Application Hosting Environments ..127
+
+C.5 Place of Performance .......... ccc cece cece enn n ene n EERE REED EERE EE EERE EEE EEE 132
+C.6 Ordering Period ........ 0... cece cece eee e eee e ee ee eee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 132
+C.7 Travel and Other Direct Costs (ODCs) 2.0.00... ccc cece cece cece cece cece eee eeneeennnnnes 133
+
+Oe ee a.) 133
+
+Page 2 of 256

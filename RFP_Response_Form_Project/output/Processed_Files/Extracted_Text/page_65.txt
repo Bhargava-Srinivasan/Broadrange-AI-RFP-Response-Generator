@@ -1,0 +1,46 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+effectiveness and reduce costs per the planning and analysis policies and
+procedures.
+
+g. Project Benchmark
+1. The contractor shall:
+
+(a) Examine and evaluate functional and technical programs for integration
+implications.
+
+(b) Review factors such as operational scope, functional and process
+relationships, business practices, resource requirements, and cost impacts.
+
+h. Functional Benchmark
+1. The contractor shall:
+
+(a) Review and analyze defined work processes and information needs of users
+within and across the functional area being examined. This includes
+functional and _ cross-functional requirement definition, functional
+descriptions, functional architectures, and requirements validation.
+
+1. Technical Benchmark
+
+1. The contractor shall:
+
+(a) Examine current and emerging technologies for effectiveness and/or
+potential to support customer needs.
+
+j. Data Benchmark
+1. The contractor shall:
+
+(a) Review and analyze data, databases, and cross-functional data sharing
+relating to the effectiveness of the information support provided to
+functional elements of the DOD, other Federal agencies, state and local
+Governments, and U.S. allies.
+
+k. Benchmark Tools and Methods
+1. The contractor shall:
+(a) Assist in the development of new tools and methods or modifications to
+
+existing tools and methods to enable a disciplined process of benchmarking.
+Examples include templates, checklists, models, and guidelines.
+
+Page 65 of 256

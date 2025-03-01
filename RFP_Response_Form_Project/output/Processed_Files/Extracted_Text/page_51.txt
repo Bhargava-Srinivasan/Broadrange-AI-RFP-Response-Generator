@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+b. Documentation
+
+1. The contractor shall assist the Government in developing, updating, and
+maintaining lifecycle support documentation which:
+
+(a) Meet the Agency’s Gold Documentation standard
+
+(b) Utilize the Agency’s documentation templates
+
+(c) Identify the business requirement
+
+(d) Include Internal and External Interface requirements
+(e) Include Cybersecurity (RMF) impacts/requirements
+
+(f) Include requirements for error handling or unexpected system/data
+conditions
+
+(g) Include System Resource Requirements (hardware impacts and
+performance considerations)
+
+(h) Document Training requirements
+
+(1) Permit Requirements Traceability
+
+(j) Include analysis of required changes to other objects impacted by the
+change to the primary object
+
+(k) Address 508 compliance requirements
+2. The contractor shall assist the Government in developing, updating, and
+maintaining Enterprise Architecture models commensurate with the current
+
+version of the DOD Architecture Framework (DODAF).
+
+c. The contractor shall participate in Work Breakdown Schedule (WBS) development and
+execution.
+
+1. WBS Completion Dates: The contractor shall meet or exceed estimated
+completion dates for each assigned WBS task unless special circumstances
+
+approved by government project manager permit missing the completion date.
+
+d. The contractor shall assist the Government in updating and maintaining Technical
+Specifications (TS) which:
+
+1. Meet the Agency’s Gold Documentation standard
+
+Page 51 of 256

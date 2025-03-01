@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+solutions aligned to customer requirements and problems that cross
+multiple IT service areas.
+
+(c) Situational Awareness: The contractor shall provide agency senior IT
+leadership with sustained situational awareness of incidents, problems,
+projects, and any events that have real or potential mission impact.
+
+(d) Local Team Coordination: The contractor shall coordinate with multiple
+J6 service functions/organizations
+
+2. End User Support
+
+(a) The IT Management process is handled in a tiered approach. Initial
+Response Support, or Tier 1, 1s the call center or "help desk" and provides
+first call resolution. Technical Support Services, or Tier 2, provides in-
+depth troubleshooting and documentation, remote and/or touch labor
+support for hardware/software, configuration/inventory of GFEs,
+deployment and issuance of GFE's, end of life cycle management, and
+elevation to Tier 3 as needed. Support services consist of multiple tiers as
+described below:
+
+(1) Technical Support Service is a more in-depth technical support
+level than Initial Response Support; Technical Support Services is
+more experienced and knowledgeable on products or services. It 1s
+synonymous with level 2 support, support line 2, administrative
+level support, and various other headings denoting advanced
+technical troubleshooting and analysis methods. Technical Support
+Service technicians are responsible for investigating elevated
+issues by confirming the validity of the problem or requesting and
+seeking solutions related to these more complex issues. The most
+common Technical Support Service is desktop management which
+includes but is not limited to other IT support such as application
+support, systems administration, network management, video
+teleconferencing system support, print management support,
+printer configuration and troubleshooting for multi-functional
+devices, label printers, bulk scanners, and various other peripheral
+devices. Within the Desktop Management aspect of Technical
+Support Services, technicians will be expected to configure,
+troubleshoot, and repair various mobile devices, mobile operating
+systems, and mobile applications.
+
+(2) Technical Support Services 1s to be administered via remote
+support systems and touch labor as needed. Additionally, the
+contractor will be expected to provide transportation (Privately
+Owned Vehicle / Golfcart / etc.) to navigate from main location of
+operations to ancillary buildings on campuses for the purpose of
+
+Page 48 of 256

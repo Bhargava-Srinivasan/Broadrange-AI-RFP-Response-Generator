@@ -1,0 +1,61 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(13)
+
+Known vulnerabilities regarding configuration and use of
+administrative (1.e., privileged) functions
+
+User documentation for the information system, system
+
+component, or information system that describes:
+
+(14)
+
+User-accessible security functions/mechanisms and how to
+effectively use those security functions/mechanisms
+Methods for user interaction, which enable individuals to
+use the system, component, or service in a more secure
+manner
+
+User responsibilities in maintaining the security of the
+system, component, or service
+
+Design Specification that:
+
+Is consistent with and supportive of the organization's
+security architecture which is established within and is an
+integrated part of the organization's enterprise architecture
+Accurately and completely describes the required security
+functionality, and the allocation of security controls among
+physical and logical components
+
+Expresses how individual security functions, mechanisms,
+and services work together to provide required security
+capabilities and a unified approach to protection
+
+(c) Produce and provide documentation as required to document component
+construction and maintenance
+
+(d) Document how-to aides, guides, or manuals to support the migration fixes,
+code, patches, updates to application components/modules
+
+(e) Provide problem analysis, activity reports and white papers as required
+
+(f) Provide architecture description documentation per NIST SP800-53
+
+(g) Provide system component description document per NIST SP800-53
+
+(h) Provide System Software and Architecture Component design and
+configuration guides per NIST SP800-53
+
+(1) Provide problem analysis guides, runbooks, and triage templates.
+
+8. Provide Technical/Application Support
+
+(a) Resolve technical/application related issues.
+
+(b) Coordinate with system/database administrators to resolve Production
+
+Page 59 of 256

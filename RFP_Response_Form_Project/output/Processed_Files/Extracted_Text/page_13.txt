@@ -1,0 +1,85 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e Center of Planning & Excellence (CoPE)
+
+e Commercial and Government Entity (CAGE)
+
+DoD DATA (DDATA)/DoD Gateway Services (DGATE) / e-Business Gateway
+(EBUS)
+
+Defense Agencies Initiative (DAT)
+
+Defense Automatic Addressing System (DAAS)
+
+Defense Enterprise Data Standard Office (DEDSO)
+
+Defense Medical Logistics Standard Support (DMLSS-W)
+Defense Property Accountability System (DPAS)
+
+Digital Business Transformation
+
+Disposition Integration Web (DIW)
+
+Distribution Standard System (DSS)/ Warehouse Management System (WMS)
+DLA Distribution Mapping System (DDMS)
+
+Document Automated Content Services (DACS)
+
+Document Services Online (DSO)
+
+Electronic Document Access (EDA)
+
+Employee Activity Guide for Labor Entry (EAGLE)
+
+Energy Readiness Program
+
+Enterprise Application Program
+
+Enterprise Business System (EBS)
+
+Enterprise Data Warehouse (EDW)
+
+Enterprise Media
+
+Federal Logistics Information Portfolio Data Warehouse (FPDW)
+Federal Logistics Information System (FLIS)
+
+Federal Logistics Information System Web Inquiry (WEB-FLIS)
+Federal Mall (FEDMALL)
+
+Fuels Manager Defense (FMD)
+
+Functional Executive Agent Medical Support (FEAMS)
+
+Global Exchange Services (GEX)
+
+Governance Risk & Compliance (GRC)
+
+Hazardous Material Management System (HMMS)
+
+Human Resource Management (HRM)
+
+Integrated Data Environment (IDE)
+
+Joint Additive Manufacturing Model Exchange (JAMMEX)
+Joint Contingency Contracting System (JCCS)
+
+Joint Contingency Expeditionary Services (JCXS)
+
+Legacy System Modernization
+
+Mapping Enterprise Business System (MEBS)
+
+Procurement Integrated Enterprise Environment (PIEE) Common Operating
+Environment (COE)
+
+Purchase Card Online System (PCOLS)
+
+Robotic Process Automation (RPA)
+
+Standard Procurement System (SPS)
+
+Strategic Distribution and Disposition
+
+Page 13 of 256

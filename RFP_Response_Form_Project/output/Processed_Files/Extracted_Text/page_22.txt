@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(h) Manage file systems and troubleshoot alerts from monitoring tools.
+Monitor the system logs for growth patterns, trends, and intrusion
+detection.
+
+(1) Perform system failure analysis and recovery; ensuring the consistency
+and integrity of the Operating System.
+
+(j) Administer accounts and user access control using Red Hat Identity
+Management (IDM) for the systems that the contractor 1s appointed to
+administer.
+
+(k) Provide test support to include supporting integration testing, analyzing
+test results and assisting in acceptance testing of software components.
+
+3. Virtual Platform Administration - The Contractor shall be responsible for the
+security and system administration of the various virtualization platforms. The
+roles and responsibilities will be in support of the on-premise and off-premise
+virtualization infrastructure, which includes all DLA Non-Secure Internet
+Protocol Router Network (NIPRNET) and Secret Internet Protocol Router
+Network (SIPRNET) networks, systems within the Continental United States
+(CONUS) and outside the Continental United States (OQCONUS) to support on-
+premise Vmware virtualized infrastructure and Cloud-based offerings which
+include Infrastructure as a Service (JaaS), Platform as a Service (PaaS), and
+Software as a Service (SaaS) and any other virtualization initiatives that support
+the virtualization operations and infrastructure in all Government and Commercial
+Cloud-based offerings where DLA or DoD hosts infrastructure, including
+Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform, and
+Oracle Cloud.
+
+(a) The Contractor shall:
+
+(1) Provide administrative and technical support for current and future
+virtualization technologies.
+
+(2) Provide expert knowledge in DLA or DoD’s current virtualization
+technologies:
+
+e Cisco Unified Computing System (UCS) B-series and C-
+series blade servers and chassis, Cisco UCS Mini blade
+servers and chassis
+
+Cisco UCS HyperFlex
+
+Vmware vSphere/vCenter Server 6.x, 7.x and above
+Dell PowerEdge (PE) servers
+
+HP ProLiant Servers
+
+Page 22 of 256

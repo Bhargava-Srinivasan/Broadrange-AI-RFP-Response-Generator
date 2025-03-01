@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) The contractor shall provide Enterprise Architecture Support and
+Compliance to assist DLA in ensuring compliance with DOD and DLA
+Cybersecurity policy and perform the daily activities required for
+successful Cybersecurity Architecture.
+
+(1) Document the current “as-is” DLA Cybersecurity Architecture.
+(2) Develop and revise DODAF models
+(3) Deliver Implementation Plan for Target Cybersecurity Architecture
+
+(4) Provide Architectural Development Support to current (programs
+in sustainment) and emerging DLA Programs
+
+2. Cybersecurity Engineering Support
+
+(a) The contractor shall provide systems engineering and engineering
+support as identified in individual tasks. This effort may include, but not
+be limited to:
+
+(1) Developing network models
+
+(2) Participating in modifications and improvements to existing
+Cybersecurity products.
+
+(3) Support for Cybersecurity Scanners (Assured Compliance
+Assessment Solution (ACAS) as well as Proxy Analysis)
+
+(4) Supporting and engineering Cybersecurity solutions for the
+upgrade of programs to conform to Federal, DOD, or DLA
+initiatives such as Defense-in-Depth (DID) and DODIN Joint
+Information Environment (JIE).
+
+(5) Providing advice during technical reviews and selection,
+development, and testing of Cybersecurity components.
+
+(6) Providing technical support in assessing the function, security
+vulnerability, usefulness, and potential applications of current and
+future technology, available from commercial, Government, or
+other sources.
+
+3. Cybersecurity General Support
+
+(a) The contractor shall provide general Cybersecurity engineering
+capabilities and services per individual tasks. General support includes:
+
+Page 74 of 256

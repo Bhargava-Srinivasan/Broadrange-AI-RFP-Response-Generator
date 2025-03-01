@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+10. R&D Financial Process Integration and Maintenance - Current R&D processes
+include use of an R&D Knowledge Management (KM) Portal for funds
+management. The KM Portal is a Microsoft SharePoint collaboration site hosted
+in the DLA Enterprise Infrastructure (Microsoft SharePoint Online (SPO)) Office
+365 cloud environment.
+
+(a) Assist with identifying opportunities to integrate financial
+processes across the Financial Management function to minimize manual
+data entries on the existing R&D KM Portal.
+
+(b) Assist with refining existing financial reports and implementation
+of new reports to support greater visibility, transparency, and availability
+of financial and program information.
+
+11. KM Portal Performance Monitoring - Provide ongoing KM Portal Tool
+monitoring, improvement, and support to sustain the overall capability. The
+contractor shall monitor the KM Portal for issues affecting functionality and day-
+to-day use, and submit report of issues, recommended changes, and the priority of
+fixes and improvements over the period of performance to the COR.
+
+(a) Assist with maintaining R&D KM portal technical functionality on
+the SharePoint Online/Office 365 site and SharePoint Online (SPO).
+
+(b) Assist with post-transition following future SPO migration efforts
+and document any problems identified that impact the KM portal
+operations.
+
+(c) Assist by completing the documentation required for KM Portal
+Issue Submissions and submitting a request to the DLA Service Portal,
+DISA Global Service Desk or approved process for the J6 SharePoint
+Online Administrator to take action to correct site issues (e.g., errors with
+site landing page, lists, workflow, libraries and content, or user access).
+
+c. Research And Development (R&D) Technical Program Manager Support
+
+The J68 R&D Technical program is executed through contracts with external
+organizations including industry, universities and other Government organizations and
+managed by a Government Program Manager (GPM). The Technical programs include
+Acquisition Modernization Technology Research, Logistics Technology Research
+(formerly Weapons Systems Sustainment), Supply Chain Management, Energy
+Readiness, Strategic Distribution and Disposition, Additive Manufacturing, Advanced
+Microcircuit Emulation, Battery Network, Defense Logistics Information Research,
+Military Unique Sustainment Technology, Castings (Procurement Readiness
+Optimization Advanced Casting Technology), Forgings (Procurement Readiness
+
+Page 96 of 256

@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) Provide support to the government Project Manager and technical leads in
+developing the initial rough cut project plan and the work breakdown
+structure (WBS).
+
+(b) Ensure projects meet Capability Maturity Model Integration (CMMI)
+guidelines.
+
+(c) Prepare, revise, and/or update required program lifecycle products and
+documents, including the coordination, review and archival of such
+documentation for current and emerging DBS systems of all Acquisition
+Category (ACAT) levels (DOD 5000.x series), Chairman of the Joint
+Chief of Staff Instruction (CJCSI) 6212, and CJCSI 3170, throughout all
+phases of the DBS lifecycle (pre-Milestone A through Decommissioning
+activities).
+
+(d) Ensure support plans cover all lifecycle elements (early planning,
+requirements, design, development, and integration deployment/delivery
+and post product delivery).
+
+(e) Identify deviations from standards and from Preliminary Cost Estimate
+(PCE)
+
+(f) Identify potential issues with critical path, project tracking and oversight,
+to include analysis, recommendation on changes, potential impact on
+project cost and schedule.
+
+(g) Analyze impact on project and recommend options that will allow project
+to meet mandated dates.
+
+(h) Gather and analyze historical and best practice information on identified
+project risks and recommend options/course of action to the cognizant
+government representative.
+
+n. Analysis including Risk Assessment and Impact
+1. The contractor shall:
+
+(a) Provide analysis of, and/or suggestions and recommendations for input to
+program management and financial documentation, such as program
+management baselines, work breakdown structure, program management
+reviews, master program schedules, performance measures, and program
+
+plans.
+
+(b) Conduct Pre and Post Investment Analysis to capture the actual costs and
+benefits.
+
+Page 67 of 256

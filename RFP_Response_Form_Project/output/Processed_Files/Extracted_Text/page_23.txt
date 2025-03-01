@@ -1,0 +1,57 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(3) Provide skilled technical support and administration in the various
+virtualized infrastructure components using vendor “best practices’
+
+9
+
+(4) Provide expert knowledge and expertise with Vmware
+vsphere/vCenter Server 6.x and 7.x actions and operations. Tasks
+and duties in this area include:
+
+e Perform vSphere and vCenter installations, upgrades and
+patching; create, update and delete Resource Pools.
+
+e Assign resources to Resource Pools sufficient to meet
+Resource Pool requirements
+
+e Configure Host Distributed Resource Scheduling (DRS)
+
+e Configure Storage Distributed Resource Scheduling (DRS)
+
+e Create, update, and delete virtual standard switches, virtual
+distributed switches, and port groups; create, update, delete,
+and manage host clusters
+
+e Create, update, delete and manage storage clusters
+
+e Manage and maintain host clusters to ensure availability of
+compute resources to all virtual machines participating in
+the cluster; manage and maintain storage clusters to ensure
+availability of storage resources to all virtual machines
+participating in the cluster
+
+e Create, update, and delete vSphere Folders; create, update,
+and delete vSphere Roles; create, update, and delete
+vsSphere Users and Groups
+
+e Grant access to vSphere to authorized users through the
+assignment of vSphere Roles, Groups, and Permissions.
+
+e Configure vSphere Policies, Identity Sources, Certificates
+and Security Assertion Markup Language (SAML) Service
+Providers; assign, unassign and manage vSphere Licenses;
+configure vSphere Client Plug-Ins; manage and configure
+vCenter Server Extensions; manage and maintain vSphere
+System Configuration, Nodes, and Services
+
+e Monitor Host and Storage clusters for performance issues,
+alarms, scheduled and unscheduled tasks and events;
+manage and maintain vSphere Host and Storage DRS for
+faults, DRS history, CPU utilization, memory utilization
+and network utilization, taking corrective actions to resolve
+performance issues; manage and maintain vSphere High
+Availability.
+
+Page 23 of 256

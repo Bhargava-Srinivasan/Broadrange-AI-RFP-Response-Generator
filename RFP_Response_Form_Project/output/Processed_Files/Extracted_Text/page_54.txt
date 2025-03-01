@@ -1,0 +1,45 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+4. The contractor shall identify best practices for developing the requisite skills
+needed to effectively lead in a virtual environment such as communication, team
+building and ground rules.
+
+5. The contractor shall provide training 1n the form of multiple sessions at the
+executive, managerial and employee level in the form of Seminars, Webinars,
+teleconferencing, video teleconferencing, individual and group meetings.
+
+6. The training shall be tailored to ensure the desired outcomes of providing
+effective virtual leadership training to DLA Information Operations.
+
+k. Testing
+1. The contractor shall:
+(a) Perform initial component/module testing and implementation; upgrade
+and enhancement testing; capacity, interface and site expansions testing
+
+prior to go-live.
+
+(b) Perform performance, regression, stress, and integration testing, and
+document and report on the results.
+
+(c) Identify and resolve issues identified during testing.
+
+|. Knowledge Warehouse
+1. The contractor shall:
+(a) Provide, support, maintain, update, and manage:
+
+(1) A knowledge management environment and a data archiving
+system that is consistent with the Enterprise Data Strategy as
+referenced in the assigned Task Area.
+
+(2) A business warehouse, as applicable
+
+(3) Data standardization and modeling.
+
+m. Technical Advisory
+1. The contractor shall:
+
+(a) Provide assistance in the sizing of application components, usage,
+configurations, and technical support requirements.
+
+Page 54 of 256

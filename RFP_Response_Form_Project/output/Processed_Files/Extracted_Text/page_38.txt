@@ -1,0 +1,58 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e ANSI/TIA/EJA-568B; Commercial Building
+Telecommunications Cabling Standard
+
+e ANSI/TIA/EIA-569A, Commercial Building Standard for
+Telecommunications Pathways and Spaces
+
+e ANSI/TIA/EIA-606, Administrative Standard for the
+Telecommunications Infrastructure of Commercial
+Buildings
+
+e Occupational Safety and Health Act (OSHA), Code of
+Federal Regulations Title 29
+
+e Occupational Safety and Health Act (OSHA), Code of
+Federal Regulations Title 40
+
+e NEC 2005, National Electric Code
+
+e UFC 3-580-01 Telecommunications Interior Infrastructure
+Planning and Design
+
+(2) Maintain and monitor the health of the RF, RFID, and print
+databases. This includes, but is not limited to, troubleshooting,
+applying patches, and handling exceptions. The contractor shall
+escalate to the appropriate Government point of contact any
+problems encountered in meeting Service Level Agreements
+(SLAs) supporting RF/RFID IT services.
+
+5. Wireless and RFID Support - The contractor shall provide support to install and
+maintain the wireless/RF hardware and software supporting the active and passive
+RFID devices used in the government locations where this technology is in use,
+including DLA Distribution sites worldwide, DoD and Recruit Depots associated
+with the military services.
+
+(a) The contractor shall:
+
+(1) Maintain the existing wireless/RF hardware and software. The
+contractor shall troubleshoot user problems and equipment failures
+for wireless/RF and RFID. The contractor shall resolve
+wireless/RF and RFID equipment related problems using
+enterprise and /or third-party tools such as Stay-Linked and Soti
+Mobi Control (example) plus all the tools that those
+enterprise/third-party tools encompass, such as Mobi scan and
+Mobi control manager (example). The contractor shall perform
+basic network troubleshooting and repair for wireless/RF and
+RFID networks and devices in all locations utilizing AIT
+technology.
+
+(2) Monitor and report on the RF/RFID wireless network connection
+between the building’s wireless network and the wireless
+equipment that performs RF and RFID. This includes checking for
+intrusions, security compliance, and rogue detection on the
+wireless network connection. The contractor shall provide
+
+Page 38 of 256

@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+I.
+
+System Administration (Windows): The Contractor shall perform duties and
+functions in the management and administration of Microsoft Windows or
+versions that follow operating systems, which includes Windows 2012r2, 2016,
+2019 and future versions of all DLA Microsoft Windows Servers. Tasks in
+support of System Administration (Windows) include:
+
+(a) Operations Support - Provide day-to-day operational support for Windows
+Servers in DLA’s Information Infrastructure across DLA Non-Secure
+Internet Protocol Router Network (NIPRNET) and Secret Internet
+Protocol Router Network (SIPRNET) and all DLA domains and
+subdomains for both physical and cloud-based computing environments.
+System administration may be performed on stand-alone operating
+systems or virtual and may be spread across multiple domains on global
+secure networks located either on premises at DLA and DoD locations or
+cloud-based environments (to include but not limited to): Microsoft Azure,
+Amazon Web Services (AWS), Google Cloud Platform, Oracle Cloud, and
+future commercial cloud-based environments. The contractor shall
+perform the following tasks:
+
+(1) Work Orders and Incident Support received through ServiceNow
+work orders and/ or incidents.
+
+(2) Info Spot Support and provide Mission critical outage support.
+
+(3) Server Performance Monitoring and Notification Tools
+Administration/Support utilizing Monitor software products.
+
+(4) File Management Support to include file shares, permissions,
+troubleshooting access issues, data discovery, and recovery.
+Support migration initiatives to cloud locations (MS Cloud 0365,
+OneDrive).
+
+(5) Print and Fax Server Support to include Enterprise print and fax
+services support.
+
+(6) Infrastructure Support to include on premise infrastructure;
+hardware, software, applications, and vendor appliances on DLA’s
+Information Infrastructure (SIPRNET/NIPRNET) in DLAs Data
+Centers and satellite locations.
+
+(7) On-premises infrastructure may include (but is not limited to):
+e Enterprise Facility Monitoring Systems
+
+e Enterprise Installation Support Systems
+e Enterprise Cybersecurity Operations Systems
+
+Page 18 of 256

@@ -1,0 +1,46 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(t) Follow the documented SDLC development process
+o. Data Management
+1. System Database Administration
+(a) Install and upgrade the database server and application tools
+(b) Perform database backups and restores
+
+(c) Work with the application administrators to resolve database related
+problems
+
+(d) Coordinate and assist production Database Administrators (DBAs) with
+database upgrades and changes
+
+(e) Ensure compliance with database license agreements
+
+(f) Perform database security hardening including quarterly patch
+installations
+
+(g) Ensure that production databases have satisfactory performance and
+operational characteristics (including data integrity and security)
+
+(h) Recommend shared data strategies
+
+(1) Allocate system storage and assess and recommend future storage
+requirements for the database
+
+(j) Review any development project deliverables at turnover that directly
+affect production database design implementation or performance (e.g.,
+action diagrams)
+
+(k) Assist the Government in establishing database standards
+
+(1) Review needs for duplicate production data structures
+
+(m)Perform stress-testing on databases (1.e., ensure adequate response time
+with larger databases and/or high hit rates on the tables)
+
+2. Application Database Administration
+(a) Work with development team to install/configure applications
+(b) Resolve database related problems
+
+(c) Create primary objects (tables, views, indexes)
+
+Page 61 of 256

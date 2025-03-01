@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Assistive Technology supporting 508 Compliance, GitHub, Oracle, Microsoft
+Office Products, Micro Focus LoadRunner and any other tools/applications the
+Government may require and provide 24/7 on-call support for the Enterprise
+Level applications.
+
+(a) Contractor shall also perform the following activities 1n support of the
+tools/applications referenced above:
+
+(1) Perform system deployment and adherence to lifecycle
+management policies and procedures.
+
+(2) Install software, apply patches/system fixes, manage file systems,
+monitor performance, and troubleshoot alerts from monitoring
+tools in compliance with all relevant and required Cybersecurity
+and security implementation/compliance requirements, including
+DISA Security Technical Information Guides (STIGs) identified
+during STIG reviews, Gold Disk and vulnerability Scans.
+
+(3) Maintain system/application configuration for the
+Build/Development/System.
+
+(4) Test/Stage. Assist the hosting provider with Production
+Environment readiness as required.
+
+(5) Maintain the integrity of application/system baseline and provide
+audit checks as required.
+
+(6) Perform application/system diagnostics using maintenance tools to
+ensure availability and to provide a notification vehicle of
+problems.
+
+(7) Coordinate with Enterprise partners (e.g., technical, functional,
+production, infrastructure operations) to support environment
+refreshes, urgent fixes such as service packages, and security
+patches which simultaneously affect the environment, operating
+system, database, and applications.
+
+(8) Provide government project managers with estimated completion
+dates for each software development lifecycle phase to meet
+government deadlines for completion of the Work Breakdown
+Structure (WBS).
+
+(9) Meet or complete before estimated completion dates for each
+assigned WBS task unless special circumstances approved by
+government project managers permit missing the completion date
+
+Page 35 of 256

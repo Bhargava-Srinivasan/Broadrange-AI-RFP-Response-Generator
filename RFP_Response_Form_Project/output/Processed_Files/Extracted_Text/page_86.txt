@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) The contractor will use tools defined in Threat Hunting SOPs and
+TTPs to engage in Threat Hunting exercises at the direction of DLA
+CERT leadership. During threat hunting exercises the contractor will
+identify potential detection signatures to assist in identifying threats to
+DLA’s environment and implement them. Rules of Engagement will be
+created and followed, and all contract employees assigned to perform
+threat hunting will stay within scope for all threat hunting exercises
+
+(c) The contractor will make recommendations on improvements to
+tools and recommend any new tools necessary to the performance of threat
+hunting
+
+(d) All actions taken while performing a threat hunting exercise will
+be fully documented following guidelines provided in the Threat Hunting
+SOP, Cyber Security Compliance and Reporting Support, Cyber Security
+Service Provider Program Audit Support.
+
+(e) The contractor will assist DLA staff in preparation of CSSP
+evaluations and compliance with established CSSP ESM requirements
+
+(1) The contractor will support DLA CERTs annual CSSP self-
+assessment effort as well as other inspections and audits as
+applicable
+
+(2) The contractor shall coordinate obtaining and compiling
+information for CSSP metrics
+
+(3) The contractor shall perform continuous review of DLA Cyber
+Security SOPs and TTPs looking for areas of improvement and
+ensuring they remain compliant with DoD policies
+
+(4) The contractor shall update DLA Cyber Security SOPs and TTPs
+as required
+
+(5) The contractor shall provide updates to DLA CERT and DLA
+Cyber Security management on status of CSSP preparations
+
+(f) The contractor shall prepare training materials to assist in the
+transition of procedures and policies for Incident Handling and Analysis to
+government system administrators, information assurance personnel and
+incident response teams. Training materials shall usually be in the format
+of a presentation and/or briefing format that covers policy, procedures, and
+guidelines. The contractor will conduct training in a classroom setting or
+remotely using video teleconference.
+
+Page 86 of 256

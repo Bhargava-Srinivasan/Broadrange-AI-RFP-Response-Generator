@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Sustainment operational issues.
+
+(c) Respond to production issues and assist in initiating recovery or restart
+Services.
+
+(d) Recommend application performance improvements
+(ce) Install security patches in the sustainment environments
+(f) Support sustainment environment refreshes, “hot packages”
+
+(g) Provide Root Cause Analysis (RCA) for problem situations impeding
+operations.
+
+(h) Support implementation of mandated security patches and configuration
+changes
+
+(1) Support and provide subject matter expertise for functionally driven
+sustainment support projects, technical must-do projects, new function and
+
+/or technology implementation projects
+
+(j) Perform configuration management (CM) during system, component, or
+service development and operation
+
+(k) Document, manage, and control the integrity of changes to the system,
+component, or service
+
+(1) Document approved changes to the system, component, or service and the
+potential security impacts of such changes
+
+(m) Track security flaws and flaw resolution within the system, component, or
+service and report findings to the government
+
+(n) Provide and enable integrity verification of software and firmware
+components
+
+(0) Create and implement a security assessment plan
+(p) Perform system cybersecurity testing/ evaluation
+
+(q) Produce evidence of execution of the security assessment plan and the
+results of the security testing/ evaluation
+
+(r) Implement a verifiable flaw remediation process
+
+(s) Correct flaws identified during cybersecurity testing/ evaluation
+
+Page 60 of 256

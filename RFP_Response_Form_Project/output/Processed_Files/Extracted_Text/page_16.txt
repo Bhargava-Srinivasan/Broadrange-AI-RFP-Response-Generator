@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+design to include heatmapping, installation and support. Supports WAN acceleration to
+optimize network traffic and reduce latency. Support includes those network segments
+assigned to DLA as part of the whole end-to-end network capabilities delivery shared by
+DISA and other 3” party entities in support of DLA.
+
+b. Service Desk Support - The contractor shall provide real-time monitoring of DLA’s
+WAN (both classified and unclassified) using state of the art network monitoring and
+management tools, responding to anomalies depicted by automated network alerts, and
+conducting initial triage to resolve errors within the network infrastructure to ensure
+continuous operation of DLA’s critical applications and business services.
+
+c. Firewall - The contractor shall update/change Access Control List (ACL) rules, Intrusion
+Detection System/Intrusion Prevention System (IDS/IPS) infrastructure, refresh security
+hardware and firmware, research and apply compliance requirements (Security Technical
+Implementation Guide (STIGs), etc.). Involves administration as well as preventive and
+corrective measures. Performs troubleshooting.
+
+d. Cabling/Wiring — The contractor shall install outside plant (OSP) and inside plant (ISP)
+network, voice/data, and Storage Area Network (SAN) infrastructure platform and
+products and may be required to complete Campus Area Network (CAN) and LAN
+cabling/wiring projects as identified in the individual task orders.
+
+e. Voice over Internet Protocol (VoIP) — The contractor shall provide design, engineering,
+implementation, and sustainment expertise to implement, test and/or deploy Government
+Furnished Equipment (GFE). The contractor shall provide special reports as required on
+the usage of the system.
+
+f. Private Branch Exchange (PBX) - The contractor shall maintain PBX/systems, circuits,
+and associated hardware. Interfaces with the commercial carrier(s) to troubleshoot and
+resolve issues.
+
+g. Video/Video Teleconference (VTC)
+
+1. Video/VTC Engineering - The contractor shall be responsible for planning,
+engineering, testing, tuning, configuration, and support of VTC technologies such
+as media servers and associated software on both classified and unclassified VTC
+infrastructure. Additional responsibilities include streaming video engineering.
+Provides client consulting and training on control, interfaces, and use of the
+Audio/Video, VTC and streaming video equipment and software. Tests and
+registers new customer sites, ensures operation and STIG compliance.
+
+2. Video/VTC Support — The contractor shall be responsible for setup and support of
+VTC technologies such as media servers and associated software. Additional
+responsibilities include streaming video support. The contractor shall provide
+technical response and advanced technical response support for incident
+management and provide touch labor as required. The contractor shall build,
+
+Page 16 of 256

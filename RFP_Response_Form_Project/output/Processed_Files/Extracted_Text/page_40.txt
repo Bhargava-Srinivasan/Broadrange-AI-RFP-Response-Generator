@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+1. Email migration and sustainment services:
+(a) Migration responsibilities:
+
+(1) The contractor shall assist with the creation of architecture and
+design diagrams for a high availability solution for improving the
+existing DLA-Wide Enterprise email service.
+
+(2) The contractor shall assist with the planning and migrations of
+existing DLA messaging solutions (MS Exchange/M365 Exchange
+online) to new locations or service as necessary and for the
+upgrade of services to current versions of the chosen solution.
+
+(3) The contractor shall recommend a migration strategy including
+milestones and deadlines for migration activities.
+
+(4) Contractor shall assist with the development of a plan for the
+migration and configuration of the system and assist in
+implementing the designated solutions.
+
+(b) Sustainment responsibilities:
+
+(1) The contractor shall provide sustainment support for the
+installation, configuration, and maintenance of the DLA-Wide
+Enterprise Email services
+
+2. Mobile Device (e.g., 10S, Android, Windows, etc.) Migration and Sustainment
+Services.
+
+(a) Migration responsibilities:
+
+(1) The contractor shall provide support with the development of
+architecture and design diagrams for a high availability solution for
+the Mobile Device services.
+
+(2) The contractor shall assist with the migration of existing legacy
+Mobile Device Servers to new locations as necessary and for the
+upgrade of Mobile Device services to current versions of the
+software or to new contractor selections.
+
+(3) The contractor shall recommend a migration strategy including
+
+milestones, needed resources and deadlines for migration
+activities.
+
+Page 40 of 256

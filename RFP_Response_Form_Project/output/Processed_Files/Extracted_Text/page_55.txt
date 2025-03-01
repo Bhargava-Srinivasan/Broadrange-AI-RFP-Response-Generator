@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Provide recommendations on appropriate hardware and interfaces,
+processes, and procedures.
+
+(c) Assist with demand management planning and forecasting for future
+growth.
+
+(d) Provide quality assurance and security advisory services.
+
+(e) Provide recommendations on scheduling product upgrades consistent with
+Technology Roadmap planning.
+
+(f) Identify COTS component incompatibilities and recommend solutions for
+seamless integration for technology upgrades and projects requiring
+technology upgrades.
+
+(g) Assist in evaluating customer requirements and assist in determining the
+best approach for fulfilling those requirements using core COTS
+functionality (instead of customization) to the largest extent possible.
+
+n. Technical Change Support
+1. The contractor shall:
+
+(a) Support implementation of additions and changes to user environment.
+
+(1) Provide and perform application performance measurement and
+reporting.
+
+(2) Provide release management, transport management, and
+configuration management support.
+
+(3) Provide administration support for the release management and
+configuration management tool
+
+(4) Update and maintain code using existing software suites, such as
+but not limited to Visual Basic, Java, Perl, HTTP, XML, and IBM
+Rationale, to support the release management and configuration
+management tool
+
+(b) Provide Post-Production Support
+
+(1) Ensure code changes were correctly installed 100 percent of the
+time
+
+Page 55 of 256

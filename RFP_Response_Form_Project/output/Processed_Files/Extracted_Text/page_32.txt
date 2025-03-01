@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(6) The contractor shall meet with the government monthly or as
+needed. These meetings can be conducted via telephone or face to
+face, at a time that is mutually convenient to the Government in
+support of Data Center Inventory Management tasks and activities
+and progress reports.
+
+2. Data Architecture & Modeling - The contractor shall design and develop
+architecture for data models and integration solutions for the enterprise's
+integration strategy or initiatives. Research and provide to Government personnel
+modeling standards, guidelines, best practices and approved modeling techniques.
+Support the creation of all conceptual, logical and physical data models.
+
+3. Data Analysis - The contractor shall provide support for data services, Business
+Intelligence, data quality, data integration and data warehouse. Assist and/or
+provide recommendations to define the requirements for analysis within a given
+business area. Perform root cause and detailed data analysis, identifying trends
+and anomalies.
+
+4. Database Backups — The contractor shall be responsible for the implementation of
+products such as Oracle Recovery Manager (RMAN) and ensuring adequate
+backups are performed within security controls.
+
+5. Database Management Support - The Contractor shall provide database
+management support for the enterprise operating environment to include Oracle
+(version 12c or higher) and MS SQL (version 2016 R2 or higher) platforms. The
+Contractor shall be proficient in Oracle Real Application Cluster (RAC), Oracle
+Enterprise Manager (OEM), Oracle Advanced Replication, Oracle Dataguard, and
+Oracle Recovery Manager (RMAN) software.
+
+6. The contractor shall provide support services as described in the database
+administration items above for any COTS deployed database technology to
+include but not limited to Oracle, MySQL, PostegreSQL, SAP HANA, IBM DB2
+etc.
+
+7. Provide a Patch Report Analysis required to support maintenance and operations.
+This includes providing a detailed analysis of the Quarterly Critical Patch Updates
+(CPUs) and functional patches released by Oracle. Develop and maintain a
+methodology to apply Oracle patches and ensure patches.
+
+(a) Patching shall include working with hosting provider to ensure the OS
+maintenance runs optimally and compatibly with Oracle EBS and database
+software.
+
+g. Automated Identification Technology Support
+
+Page 32 of 256

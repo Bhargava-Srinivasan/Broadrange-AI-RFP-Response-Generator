@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) Support DLA in the implementation of the RMF
+
+(b) Recommend processes in accordance with the RMF
+
+(c) Participate in the process’ activities
+
+(d) Document the results of those activities
+
+(e) Track the expiration of all Authorization Decisions and the
+submission of RMF packages throughout the system’s development
+lifecycle.
+
+(f) Track incomplete RMF packages and completed authorizations
+
+(Authorization to Operate (ATO), ATO w/Conditions, and Interim
+Authorization to Test (ATT) through the HQ DLA review and approval
+process until signed by the Authorizing Official (AO).
+
+(g) Maintain status tracking and vulnerability information in the DLA
+approved status tracking tools.
+
+4. Analysis Support - The contractor shall perform analyses to validate established
+security requirements and to recommend additional security requirements. This
+will include, but not be limited to:
+
+(a) Analyze the RMF package, assess the adequacy of the required
+protective measures, assess residual risk, and provide support to DLA to
+determine the readiness of the system for Authorization.
+
+(b) For detected vulnerabilities that could preclude management,
+operational, or technical controls to include human procedures, software
+configuration parameters, recommend system changes, or combinations
+thereof to mitigate the risk associated with the vulnerability.
+
+(c) Perform technical reviews of documented security certification
+results normally submitted in the RMF format to assess their completeness
+and identify system vulnerabilities and weaknesses.
+
+(d) Perform security reviews and verify and validate implementation
+of security controls based on the security control baseline.
+
+(e) Verify compliance with NIST Special Publication 800-37 (RMF)
+and DLA policy requirements.
+
+(f) Analyze vulnerability scans and Security Readiness Review (SRR)
+results, STIG compliance and deficiencies of all forms identified during
+internal and external Cybersecurity reviews. Contractor support personnel
+shall ensure that deficiencies and vulnerabilities are included in a Plan of
+
+Page 78 of 256

@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e TASK AREA 7: Program/Project Management Support
+
+TASK AREA 8: Enterprise Support Services
+
+e TASK AREA 9: Technical Support
+
+e TASK AREA 10: Cloud Hosting Services
+
+e TASK AREA 11: Data and Information Governance Analytics Services
+e TASK AREA 12: Modernization of Application Hosting Environments
+
+In accordance with FAR Part 7.503(d) and OFPP Policy Letter 11-01, task orders issued for any
+Task Area that involves functions closely associated with inherently governmental functions
+shall include measures to ensure that DLA J6 has sufficient internal capability to maintain
+control over functions that are central to DLA’s mission and operations, and that appropriate
+levels of government oversight exist in the task order level PWS.
+
+The place of performance for these tasks is within the DLA Headquarter complex located at Fort
+Belvoir, Virginia as well as satellite offices in and around the Northern Virginia/Washington
+D.C. metro area and DOD locations both CONUS and OCONUS. All solutions and services
+must meet DLA policies, standards, and procedures as identified by individual Task Orders
+(TOs) (e.g., enterprise architecture, information assurance, and personnel, physical and system
+security). Additional place of performances may be required for outside agency support.
+
+C.4 TASK AREA REQUIREMENTS
+C.4.1 TASK AREA 1 —- NETWORK AND TELECOM SERVICES
+
+The Contractor shall provide operations support, application support and full lifecycle support
+for the range of solutions and services supporting DLA’s Business, Operations and Logistics
+System, including full lifecycle solution and service support necessary to meet requirements of
+this contract and individual TOs as related to Enterprise Technology Services.
+
+Operations Support: All solutions and services must meet DLA policies, standards, and
+procedures as identified by individual TOs (e.g., enterprise architecture, information assurance,
+and personnel, physical and system security). All contractor solutions and services shall perform
+routine maintenance during regular periods scheduled in advance and approved by DLA J6. The
+contractor will ensure that systems will be unavailable during maintenance windows only to the
+extent necessary for systems maintenance purposes.
+
+The contractor may be required to perform the required services as follows:
+
+a. Network Management (Local Area Network (LAN)/Wide Area Network (WAN)) - The
+contractor shall update/change configuration files, provide support doing refresh of
+hardware and firmware, research and apply compliance requirements (patch
+management). This support involves preventive and corrective measures and shall
+comply with configuration management documentation requirements. Evaluates the
+introduction of new network sites, services, and products. Plans, designs, implements,
+tests and/or deploys the new products. Includes Office and Industrial Wireless Network
+
+Page 15 of 256

@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+environments. The contractor shall assist in the design,
+comparison analysis, implementation, and maintenance of all AIT
+wireless equipment, such as handheld scanners, wearable voice-
+enabled headsets, RFID Reader technologies comparison, or
+middleware comparison, as examples.
+
+(5) Provide maintenance, operations, and repair services for
+Wireless/Radio Frequency and Radio Frequency Identification
+equipment. The contractor shall maintain the physical and virtual
+servers supporting the active and passive RFID equipment and
+printers. The contractor shall submit a project plan prior to
+beginning work under the task order. The project plan shall detail,
+at a minimum, the resources, time, schedule, and any special
+requirements that must be supported to successfully perform the
+task. The project plan will be reviewed and approved by the
+Government prior to the contractor beginning the work. The
+contractor shall provide detailed reports of work accomplished that
+associate the proposed resources, time and schedule in the project
+plan to the results of the work accomplished.
+
+(6) Manage the assets used in maintenance, operations, and repairs for
+AIT/REF/RFID equipment. The contractor shall record serial
+numbers, asset tags, locations and assigned property holders for all
+government owned equipment. The contractor shall assist the
+Government in recording this asset information in the automated
+tools that DLA uses for this purpose. Those tools are ITAMS and
+EBS.
+
+(7) Active RFID and passive RFID are both in use at DLA distribution
+centers, and at DoD and military service depots where DLA has a
+presence. The ability to print transportation documentation and
+active and passive RFID tags, and the capability to write and read
+those tags are essential to operating the distribution centers and
+depots. The contractor shall provide expert analysis support for
+active and passive RFID print devices and strategies for more
+efficient use of said print devices and for uses for those devices
+that DLA 1s planning but has not yet implemented. The contractor
+shall have the knowledge and ability to transfer information
+captured from the active and passive RFID devices to printed tags,
+reports, and other documents. The contractor shall provide
+maintenance, repair, and operations support for the print devices.
+
+2. Application Support - The contractor shall assist with developing the strategy to
+test, tune, configure, implement, setup, troubleshoot and support SAP and Non-
+SAP Enterprise Planning software products and systems, common enterprise third
+party tools/applications including Adobe, JAVA, SharePoint, TomCat, Apache,
+
+Page 34 of 256

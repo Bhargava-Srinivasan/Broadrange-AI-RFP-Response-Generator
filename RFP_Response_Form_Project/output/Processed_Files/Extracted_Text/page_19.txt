@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e Enterprise Network and Telecommunications Services
+Systems
+
+e Enterprise Information Operations Systems
+
+e Enterprise Technology Foundation Services Systems
+
+e Application Support: (Support common enterprise third
+party tools/applications).
+
+(b) Cloud Computing Support - Support DLA’s Cloud Hosting Strategy to
+gain efficiencies, increase performance, improve security, and to support
+Department of Defense (DoD) enterprise objectives. The contractor will
+support the DLA Information Operations Windows Operating System
+Administration Branch, Windows Cloud Services Team with the required
+skills to provide project facilitation, oversight, system administration and
+system security for Server Build projects that support Virtualization, and
+geographical re-alignment initiatives to ensure effective daily operation
+and to resolve problems as they arise. The contractor shall perform the
+following tasks:
+
+(1) Project Facilitation to include Server Build Requests and/or Project
+taskings received via ServiceNow.
+
+(2) Windows Server Build Administration to include securely
+configuring and deploying Windows Server Operating Systems
+(OS) server builds that minimize the operating system’s exposure
+to threats and mitigate risks.
+
+(3) Provide Supporting Documentation to include Server Build
+Documentation and Build processes, Remedy Template Support,
+RMF Artifact Documentation, and Asset Management System
+Support.
+
+(c) System Security and Vulnerability Management Support - Provide skilled
+technical support in the areas of securely configuring and maintaining
+Windows Server Operating Systems (OS). System Administration tasks
+include software updates, patch management, OS registry modifications,
+removing unnecessary applications and services, applying local or domain
+group policy settings, creating and/or applying security templates and
+configuration baselines. Perform research, identification and resolution of
+software bugs, application changes, updates and/or system related changes
+that minimize the operating system’s exposure to threats and mitigate
+risks. Requires support in systems administration, systems security and
+vulnerability management and is further broken down into the following
+specific subtasks:
+
+Page 19 of 256

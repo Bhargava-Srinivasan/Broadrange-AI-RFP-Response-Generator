@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(1) Remediation Plans of Action to include identify high priority
+findings or failures in patching and develop Remediation Plans of
+Action.
+
+(2) Audit Readiness Support to include providing support for audit
+readiness and inspections, to include Cybersecurity Vulnerability
+Assessment (CVA) Support and Command Cyber Readiness
+Inspections (CCRI).
+
+(3) Security Incident Support to include providing technical support
+and impact analysis for investigations and breaches at the request
+of government cyber security teams to include Cert, Inspector
+General and FOIA Teams.
+
+(4) Patch Management by performing manual and/or automated patch
+management support in remediation plans of actions; execute
+system security patching, firmware updates, upgrades, and
+configuration/policy changes manually or through use of
+government-furnished automated patch systems.
+
+(5) Group Policy Support to include ensuring DOD STIG compliance
+of physical and virtual systems in both NIPR and SIPR on domain
+joined as well as off domain systems.
+
+(6) Operating System Hardening to include conducting Operating
+System (OS) hardening for server build creations and sustainment
+in accordance with current Security Technical Implementation
+Guides (STIGs) as identified by Security Content Application
+Protocol (SCAP), Assured Compliance Assessment Solution
+(ACAS) Scans, and Security Readiness Reviews (SRRs).
+
+(7) Application Vulnerability Support to include identifying
+application related vulnerability findings, and coordinate with
+Application POCs to test, deploy, and upgrade common enterprise
+third party tools/applications including, but not limited to, products
+such as Java, Adobe Products, .NET, Mozilla, VMWare, etc. as
+identified within the Task Order.
+
+(8) PKI Support to include providing Public Key Infrastructure (PKI)
+services support, troubleshooting, ordering, installing, and
+maintaining Operating System PKI Certificates. Assist Application
+POCs in identifying application certificate need for renewal.
+
+(9) Automation Support to include providing skilled technical support
+in the areas of configuring scripts where necessary to automate
+
+Page 20 of 256

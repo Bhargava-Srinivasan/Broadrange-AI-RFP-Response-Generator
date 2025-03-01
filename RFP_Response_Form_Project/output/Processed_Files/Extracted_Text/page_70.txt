@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+government in planning, preparing, and implementing any transition or
+change services.
+
+(b) Provide approved changes to government equipment, software, processes,
+and overall environment to support such consolidation or relocation.
+
+(c) Consider economies of scale and other synergies between the acquired
+operations of DLA.
+
+q. Asset Management Process Improvement.
+1. The contractor shall:
+
+(a) Develop an enterprise plan/process to ensure all IT assets are maintained
+and up to date daily. This process is to include but is not limited to
+creating, modifying, and marking appropriately for disposal of IT assets
+using the IT management database through DLA’s enterprise asset
+management system. This enterprise process will need to work with the
+Data Center Services Asset Lifecycle Team and J64 Asset Management
+team to standardize all data center asset processes on how to add, modify
+and delete IT assets at an enterprise level.
+
+(b) The contractor shall analyze and submit recommendations for
+improvements for the Data Center Services IT asset management
+list/database and associated processes. This includes providing process
+improvement recommendations, standardization of data, and documenting
+efficiencies needed for the overall betterment of the inventory data and
+records.
+
+r. Asset Lifecycle Support
+1. The contractor shall actively assist in documenting procedures to track IT assets
+from ordering, to delivery, to installation, to decommission and/or disposal to
+
+include:
+
+(a) Track incoming physical assets into the DLA data centers and satellite
+locations.
+
+(b) Assist with tracking new, changes, and/or decommissions of virtual assets
+in the DLA data centers and satellite locations.
+
+(c) Track initial purchase and maintenance contracts for all IT assets.
+
+(d) Track rack to rack movement and/or site to site movements
+
+Page 70 of 256

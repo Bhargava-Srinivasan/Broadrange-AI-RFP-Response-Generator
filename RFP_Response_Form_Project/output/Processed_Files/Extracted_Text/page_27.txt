@@ -1,0 +1,54 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+b.
+
+d.
+
+Backup Support - The contractor shall provide skilled technical support in the areas of
+Backup and Recovery, Tape Management, Disk to Disk backup technology, Cloud
+backup technology, Job scheduling, execution, and monitoring. The contractor shall
+provide support to manage backup and recovery operations including interaction with
+government provided backup software such as Veritas NetBackup, Azure Recovery
+Services, and AWS Backup. The contractor shall ensure that backups occur as scheduled
+and that read/write errors do not occur and shall reschedule backups as required. The
+Contractor shall also analyze backups with Veritas NetBackup OpsCenter Analytics and
+Veritas APTARE IT Analytics tools. The Contractor shall provide skilled technical
+support and administration in the areas of creating, testing, implementing, and removing
+backup policies as required for various systems including, but not limited to Windows,
+UNIX, and Linux operating systems.
+
+Storage Area Network (SAN) Support - The contractor shall support storage planning,
+data migrations and problem-solving activities across various distributed disk
+environments. The contractor shall help resolve advanced technical response storage
+issues reported within the enterprise. Tasks shall include configuration on multiple
+platforms, data migration planning and execution, support planning and migration,
+storage virtualization technology implementation, storage mirroring and replication,
+system monitoring and reporting, storage equipment replacements, and industry best
+practice execution. Problem solving shall include troubleshooting connection problems,
+equipment failures and outages, issues raised by customers, and performance issues, and
+providing technical response and advanced technical response.
+1. Responsibilities include, but are not limited to, the following:
+
+(a) Storage Array administration
+
+(b) LUN/Volume administration
+
+(c) Fiber switch administration
+
+(d) Storage File Sharing
+
+(e) Security Implementation
+
+(f) Data Migrations
+
+(g) Fallover Testing
+
+(h) Pilot Projects/ Proof of Concept
+
+(1) Cloud Tier Support and Administration
+
+COTS Application and Administration - The contractor shall assist with developing the
+strategy to test, tune, configure, implement, setup and support common enterprise third
+
+Page 27 of 256

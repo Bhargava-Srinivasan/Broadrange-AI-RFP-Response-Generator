@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Providing minutes of meetings
+
+(c) Providing recommendations
+
+(d) Responding to action items
+
+(e) Reviewing documents and providing comments
+
+(f) Providing informal consultation
+
+(g) Providing briefings at meetings or to specific audiences
+(h) Supporting other regular program activities
+
+9. Cybersecurity Policy Support - This task provides technical support with
+government approval in the review, analysis and development of Cybersecurity
+processes, policy, doctrine, directives, regulations, and implementation of
+instructions for the DLA enterprise.
+
+(a) The contractor shall provide technical expertise for government
+consideration for the review, consolidation, and development of policy in
+accordance with DOD and DLA requirements.
+
+(b) The contractor shall provide technical support to DLA and assess
+DOD and DLA information technology policies, standards, guidelines, or
+procedures to ensure compliance with DOD Directives, to include
+collecting, consolidating, and providing documentation input to taskings
+from other DOD entities.
+
+10. Information System Security Manager (ISSM) Contractor Duties
+
+(a) Provide oversight of all appointed Information System Security
+Officers ISSOs) and other ISSMs under the contractor’s purview ensuring
+they follow established Cybersecurity policies and procedures to include
+meeting all access requirements
+
+(b) Develop and maintain a Cybersecurity Program, subject to
+Government approval, for the applicable business area or information
+system that identifies the Cybersecurity architecture, requirements,
+objectives, and policies.
+
+(c) Ensure that information ownership responsibilities are established
+for each information system under the contractor’s purview to include
+accountability, access approvals, and special handling requirements.
+
+Page 80 of 256

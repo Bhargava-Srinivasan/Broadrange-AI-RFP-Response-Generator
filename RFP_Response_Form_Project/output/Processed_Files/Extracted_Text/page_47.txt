@@ -1,0 +1,56 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e Perform on-site system upgrades, security enhancements
+and performance tuning to VDI infrastructure that cannot
+be resolved remotely.
+
+e Provide white glove support to the DLA VIP front
+office/leadership suite in Ft. Belvoir for VDI environmental
+changes and solutions implementation support Monday
+through Friday during core business hours (9:00 AM — 5:00
+PM). White glove support 1s defined as dedicated
+onsite/deskside support for VIPs. VIP = Very Important
+Persons (pre-determined by the Government).
+
+e Perform on-site administration, management, and
+maintenance of VDI servers, storage and databases
+supporting DLA’s VDI environment that cannot be
+resolved remotely.
+
+e Provide on-site support to VIP and other DLA customers
+with technical changes associated with large-scale VDI
+projects that cannot be resolved remotely.
+
+C.4.3 TASK AREA 3 - Enterprise Service Delivery (ESD)
+
+a.
+
+Total Helpdesk Solution. The contractor shall provide the government with an integrated,
+centrally managed customer service solution that focuses on customer support and
+problem resolution at the lowest level possible.
+
+NOTE: This work 1s currently being provided by DISA and therefore, this is not currently
+anticipated as a requirement under JETS 2.0, however it is identified as within the scope
+of JETS 2.0 should it be required by DLA at a future date.
+
+Customer Support. The contractor shall provide for a range of customer support model
+(CSM) functions to include the following:
+
+1. Customer Liaison
+
+(a) Business Relationship Management: The contractor shall assist with all
+levels of customer communications to include Enterprise Business System
+(EBS) Customer Relationship Management (CRM)
+documentation/management, Memorandum of Understanding/A greement
+(MOU/MOAs), Service Level Agreements (SLA), Organization Level
+Agreement (OLAs), Interface Control Agreement (ICA), and related
+metrics; includes all aspects of managing relationships to include customer
+satisfaction, escalation management, customer communications and
+customer requirements management to include defined VIP liaison
+standards.
+
+(b) Integration Project Management: The contractor shall manage the
+integration of IT services, as directed, with effectively orchestrated
+
+Page 47 of 256

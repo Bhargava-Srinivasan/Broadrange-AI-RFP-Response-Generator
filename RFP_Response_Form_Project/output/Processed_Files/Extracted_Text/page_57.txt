@@ -1,0 +1,33 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Resolve overwrite and dependency checks for objects.
+(c) Resolve questions regarding transports in a timely manner.
+3. Review Technical Specifications
+(a) Review how changes impact current Sustainment Environments
+(b) Identify and resolve application conflicts
+4. Provide Integration Support
+(a) Establish sustainment environments (Development, System Test, Stage)
+(b) Review and update install documentation
+(c) Perform application installs in the sustainment environments
+(d) Assist with production installs
+(e) Support regression test activities (defects, problem tickets)
+(f) Provide on-the-job training to other environment support team members
+5. Provide Product Delivery Support
+(a) Provide on-site implementation support
+6. Provide Post-Production Support
+(a) Support post-maintenance window activities in the production environment
+
+(b) Validate transports and ensure code changes were correctly installed 100
+percent of the time
+
+(c) Participate in conference calls or meetings to address user questions as
+needed after migration of new/revised code
+
+7. Produce and Provide documentation
+(a) Produce and provide a System Development Lifecycle (SDLC) plan that:
+(1) Explicitly addresses the security requirements
+
+(2) Identifies the standards and tools used in the development process
+
+Page 57 of 256

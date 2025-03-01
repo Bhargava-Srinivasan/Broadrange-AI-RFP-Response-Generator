@@ -1,0 +1,54 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+SECTION C: STATEMENT OF WORK (SOW)
+C.1 BACKGROUND
+
+Defense Logistics Agency (DLA) Information Operations J6 is the Agency’s knowledge broker,
+providing comprehensive, best practice Information Technology (IT) support to the Department
+of Defense (DOD) and DLA Business Community resulting in high quality information systems,
+customer support, efficient and economical computing, data management, electronic business,
+and telecommunications services.
+
+The DLA IT Enterprise manages the execution of IT projects across the Agency. Specifically, it
+serves as the Information Operations business services broker, assessing, developing, and
+delivering a full range of IT solutions necessary to support the transformation and sustainment of
+the Information Operations mission and its associated commitment to the warfighter. Mission
+areas include the sustainment and evolution of an overarching DLA enterprise architecture,
+determination of proposed solutions, delivery of desired solutions (including oversight of related
+field activities, and sustainment of those solutions that are initially developed and delivered
+under a program manager), assurance that the solutions meet customer needs, and the effective
+integration of DLA’s IT solutions with other existing or planned logistics IT solutions in DOD.
+J6 Mission also includes applied research and development efforts to investigate and deliver new
+capabilities to address DOD and DLA logistics and industrial base challenges and deliver those
+to the DLA Sustainment team. Additionally, J6 guides and oversees the operations and ongoing
+transformation of related field and headquarters activities that provide cataloging and
+transactional processing support for the entire DOD logistics system and our numerous Federal
+customers.
+
+This statement of work describes overall IT requirements supporting DLA’s near-term and future
+needs and goals. A more detailed Performance Work Statement will be included as part of each
+task order.
+
+C.2 OBJECTIVE
+
+This acquisition 1s intended to support technology service requirements across the DLA
+Information Operations Enterprise, the DLA Program Executive Offices (PEO), Research and
+Development Program Management Office, and all other technology service requirements
+currently supported through DLA Contracting Services Office (DCSO) acquisitions.
+
+The below list (while not all inclusive) provides a sample of the active DLA systems,
+applications, programs, and initiatives that may be supported under the resultant [DIQ awards:
+
+Account Management and Provisioning System (AMPS)
+
+Acquisition Modernization Technology Research
+
+Acquisition Streamlining and Standardization Information System (ASSIST)
+Advanced Microcircuit Emulation
+
+Automated Testing
+
+Business Intelligence (BI) Platforms
+
+Page 12 of 256

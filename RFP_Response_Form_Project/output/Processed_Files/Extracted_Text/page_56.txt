@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(2) Perform post-maintenance window operational checkpoints in the
+production environment to verify continued system operations
+within the required time threshold
+
+(3) Participate in conference calls or meetings to address user
+questions as needed after migration of new/revised code
+
+(4) Develop and review solution alternatives, and perform impact
+analysis with customers and system users for fixes, enhancements,
+and other changes
+
+(5) Elicit customer requirements through facilitation sessions, joint
+application development sessions, or one-on-one meetings and
+interviews
+
+(6) Analyze operational problems, develop solutions, and take
+corrective action as appropriate to ensure continued Automation
+Information System (AIS) operation. Assist specialists in analysis
+and corrective action. Assist with problem identification and
+resolution in existing applications by analyzing system processes,
+interrelationships, interfaces, and data
+
+(7) Coordinate System Change Request (SCR) and problem solution
+deliveries with interface partners.
+
+(8) Train additional contractor resources, without impact to other
+ongoing Sustainment activities/deliverables
+
+(9) Ensure that applicable updates to the Enterprise Architecture
+model are completed as required by current DLA policies
+
+o. Environment Software Support - As required by the task order the contractor shall
+perform the following tasks:
+
+1. Provide government project managers with estimated completion dates for each
+software development lifecycle phase to meet deadlines for completion of the
+WBS. Meet or complete before estimated completion dates for each assigned
+WBS task unless special circumstances approved by government project
+managers permit missing the completion date.
+
+2. Prepare and/or assist in the preparation of New/Revised Software Modules into
+Production Environment
+
+(a) Correctly prepare migration documents, transport, and installation
+instructions for migrating new code to the production environment.
+
+Page 56 of 256

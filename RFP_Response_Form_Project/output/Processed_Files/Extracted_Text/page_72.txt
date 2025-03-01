@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+identified by the individual Task Order PWS. The contractor shall provide support for the
+following Cybersecurity Support solutions and services Subtasks:
+
+1. Cybersecurity RMF Services
+(a) The contractor shall:
+
+(1) Provide Cybersecurity program support to assist DLA in ensuring
+compliance with DOD and DLA Cybersecurity policy and perform
+the daily activities required for successful RMF program
+completion.
+
+RMF Process Support
+
+RMF Analysis Support
+
+RMF Coordination Support
+
+RMF Security Documentation Support
+
+2. Cybersecurity Support Services
+
+(a) The contractor shall:
+
+(1) Provide technical support in the review, analysis and development
+of cybersecurity processes, policy, doctrine, directives, regulations,
+and implementation of instructions for DLA.
+
+Cybersecurity Policy Process Support
+Cybersecurity Policy Analysis Support
+Cybersecurity Policy Coordination Support
+Cybersecurity Policy Documentation Support
+
+3. Cybersecurity POA&M and AORA Services
+(a) The contractor shall:
+
+(1) Monitor and track the status of all Plans of Action & Milestones
+(POA&M) weaknesses through to a resolution for DLA and
+requests for Authorizing Official Risk Acceptance (AORA).
+
+POA&M and AORA Process Support
+POA&M and AORA Analysis Support
+POA&M and AORA Coordination Support
+POA&M and AORA Documentation Support
+
+Page 72 of 256

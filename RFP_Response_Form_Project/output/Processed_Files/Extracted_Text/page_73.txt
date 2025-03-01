@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+4. Cybersecurity Workforce Management
+(a) The contractor shall:
+
+(1) Provide Cybersecurity Workforce program support to assist DLA
+in ensuring compliance with DOD and DLA policies to include the
+DoD Manual 8140.03 Cyberspace Workforce Qualification and
+Management Program or superseding guidance while performing
+the daily activities required for successful Cybersecurity
+Workforce program completion.
+
+Cybersecurity Workforce Training Process Support
+Cybersecurity Workforce Training Analysis Support
+Cybersecurity Workforce Training Coordination Support
+Cybersecurity Workforce Documentation Support
+
+5. FISMA Tracking and Reporting
+(a) The contractor shall:
+
+(1) Responsible for validating, compiling, tracking, and reporting
+information in the Federal, DOD or DLA approved Federal
+Information Security Management Act (FISMA) tracking tool.
+
+FISMA Process Support
+FISMA Analysis Support
+FISMA Coordination Support
+FISMA Documentation Support
+
+b. Cybersecurity Technology Assessment
+
+The contractor is responsible for performing preventative and analytical activities aimed at
+enhancing the overall Cybersecurity posture of DLA networks, information systems, and
+applications. The contractor shall provide full Cybersecurity support for the range of solutions
+and services as specified in respective Subtask as stated below, which are necessary to meet the
+requirements of this contract and individual Task Orders as related to DLA’s Cybersecurity. The
+contractor shall ensure compliance with Federal, DOD and DLA information technology and
+security requirements, policies, procedures, and standards as applicable.
+
+All solutions and services must meet DLA policies, standards, and procedures as identified by
+individual Task Orders (e.g., enterprise architecture, cybersecurity, etc.). The contractor shall
+
+provide support for the following Cybersecurity Support solutions and services Subtasks:
+
+1. Enterprise Architecture Support and Compliance
+
+Page 73 of 256

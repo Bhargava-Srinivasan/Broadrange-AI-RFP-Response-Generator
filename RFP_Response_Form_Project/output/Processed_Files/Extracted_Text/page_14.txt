@@ -1,0 +1,56 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Subsistence Total Order and Receipt Electronic System (STORES)
+Supply Chain Management (SCM)
+
+Technical Data Management Transformation (TDMT)
+
+Technical Order Distribute and Print Gateway (TODPG)
+
+Voucher Attachment System (VAS-TPS)
+
+Wide Area Workflow (WAWE)
+
+C.3 SCOPE
+
+JETS Contractors shall provide the full range of IT services, technical and management expertise
+that support applications, software, hardware, infrastructure, systems, and research and
+development across the DLA IT Enterprise. Support will be provided for information
+technology solutions, technical support, maintenance, and sustainment; operations support;
+application development, maintenance, and technical support; and lifecycle management. This
+acquisition also supports administrative program management support for IT program offices
+and the DLA Information Operations (J6) Office. Additionally, this contract will support the
+DLA Information Technology R&D program which executes programs and projects for all of
+DLA participating in programs in the Defense Industrial Base Manufacturing and Small Business
+Innovation Research. To ensure support for the entire DLA R&D Program, a broad range of
+scientific, technical, and engineering disciplines are needed to support the established programs.
+While JETS will primarily support DLA IT services requirements, the resultant contracts will
+also allow for de-centralized ordering by other DoD agencies.
+
+While this SOW identifies the general service areas, the suite of resulting contracts and
+subsequent task orders are intended to satisfy the full range of IT-related requirements within
+these areas of services. With the pace of technology change, it is difficult to anticipate how the
+Government’s IT requirements and individual programs will evolve over the life of these
+contracts.
+
+All Task Orders (TOs) issued off the Indefinite Delivery Indefinite Quantity (IDIQ) contract(s)
+will be performance-based acquisitions utilizing a Performance Work Statement (PWS).
+
+Following the award of the IDIQ contracts, the specific scope of each effort will be based on the
+specific tasks to be set forth 1n individual task orders, but may include lifecycle tasks in one or
+more of the following areas:
+
+e TASK AREA 1: Network and Telecommunication Services
+
+e TASK AREA 2: Technology Services
+
+e TASK AREA 3: Enterprise Service Delivery (ESD)
+
+e TASK AREA 4: Defense Business System (DBS) Life Cycle Management: Acquisition,
+Development, Sustainment, Maintenance and Technical Support
+e TASK AREA 5: Lifecycle Program Support Services
+
+e TASK AREA 6: Cyber Security Support Services
+
+Page 14 of 256

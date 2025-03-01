@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Provide Command Cyber Readiness Inspections (CCRI) Support -
+CCRI inspections utilize the DoD Security Technical Implementation
+Guides (STIGs), checklists, Joint Forces Headquarters (JFHQ)
+Department of Defense Information Network (DODIN) Orders, and
+USCYBERCOM CCRI contributing factors as the evaluation criteria to
+validate compliance with DOD Cybersecurity policy, best practices, and
+configuration requirements. DLA performs two types of CCRIs: staff
+assistance (SA), and formal. The same methodology is used for both types
+of CCRI. The contractor shall:
+
+(1) Assist DLA in its CCRI efforts by developing and/or updating the
+DLA CCRI methodology that defines the approach, actions and
+appropriate responses used in conducting an inspection.
+
+(2) Participate in SA CCRIs by performing the review of each area of
+validation with the assistance of appointed network and system
+administrators.
+
+(3) Participate in formal CCRIs by assisting with preparation through
+pre-inspection review and assisting required POCs with identifying
+data and documentation that will need to be prepared to allow for a
+smooth inspection.
+
+(c) Penetration Testing Support - DLA employs Penetration testing to
+evaluate the security of a computer system, web application or network by
+simulating an attack from either outside or inside DLA’s network
+boundary. The contractor shall:
+
+(1) Assist DLA in its compliance assessment efforts by developing
+and/or updating the Penetration Testing methodology that defines
+the approach, actions and appropriate responses used in conducting
+a test.
+
+(2) Participate in Penetration testing, as directed by the appointed
+government representative. Testing done outside DLA’s network
+boundary will be accomplished from a safe, secure facility under
+the contractor’s control.
+
+(3) Develop scoping documents and Rules of Engagement (ROE),
+participate in preparation calls, generate daily updates during each
+exercise and provide a formal report of findings at the conclusion
+of each exercise.
+
+(d) Cybersecurity Assessment Tool Identification and Selection - The
+contractor shall identify CCR software tools and assist in the development
+of software tool requirements and selection criteria to include the
+
+Page 76 of 256

@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(3) Documents the specific tool options and tool configurations used
+in the development process
+
+(b) Produce and provide RMF required cybersecurity documentation for the
+system to include:
+
+(1) Information System security roles and responsibilities
+
+(2) Security functional requirements
+
+(3) Security strength requirements
+
+(4) Security assurance requirements
+
+(5) Security-related documentation requirements
+
+(6) Requirements for protecting security-related documentation
+
+(7) Description of the information system development environment
+and environment in which the system 1s intended to operate
+
+(8) Acceptance criteria
+
+(9) Description of the functional properties of the security controls to
+
+be employed
+(10) Ports, Protocols, and Services intended for use
+(11) Design and implementation information for the security
+
+controls to be employed that include:
+e Security-relevant external system interfaces
+High-level design
+Low-level design
+Source code
+Hardware schematics
+Design information
+Implementation information
+
+(12) Administrator documentation for the information system,
+system component, or information system that describes:
+e Secure configuration, installation, and operation of the
+system, component, or service
+e Effective use and maintenance of security
+functions/mechanisms
+
+Page 58 of 256

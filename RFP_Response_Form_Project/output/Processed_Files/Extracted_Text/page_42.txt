@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(10) Integrate public key infrastructure (PKI) services
+
+(11) Support Domain-based Distributed File System (DFS)
+
+(12) Support Microsoft Active Directory Federation Services
+(ADFS)
+
+(13) Support Azure Active Directory (AD), and AD Connect
+
+(14) Perform Site and Services Configuration
+
+(15) Support Third Party Active Directory Management
+Solution
+
+(16) Support AD Cloud Services
+
+4. Enterprise End-user Endpoint Configuration Management
+
+(a) The contractor shall assist in endpoint software distribution, configuration
+
+and support operations which includes the identification, testing,
+packaging, and deployment of software to Microsoft and Non-Microsoft
+endpoints throughout DLA’s global enterprise which includes NIPRNet
+and SIPRNet enclaves.
+
+(b) The contractor shall use endpoint management tools which includes
+
+Microsoft Endpoint Configuration Manager (MECM), Microsoft Active
+Directory (AD) Group Policy Management (GPM), TANIUM, ForeScout,
+Microsoft 365 (M365) Admin Console, Menlo Security Isolation Platform
+Console, Dell Wyse Management Suite (WMS), and PowerShell.
+
+(c) The activities required include:
+
+(1) Ensure DLA’s Software Catalog is up to date within Microsoft
+Endpoint Configuration Manager’s (MECM) Software Center as
+well as all government defined manual-software-repositories for
+both NIPRNet and SIPRNet environments.
+
+(2) Sustain and maintain MECM Central and Distribution Points for
+both SIPRNet and NIPRNet which includes providing updates,
+ensuring currency of all certificates, maintaining required service
+accounts, optimizing workstation and server imaging task
+sequences.
+
+(3) Conduct STIG Checklist reviews every 6-months on applicable
+
+Group Policy templates, Workstation and Server Images as well as
+MECM, WMS and Secureview Infrastructure. File applicable
+
+Page 42 of 256

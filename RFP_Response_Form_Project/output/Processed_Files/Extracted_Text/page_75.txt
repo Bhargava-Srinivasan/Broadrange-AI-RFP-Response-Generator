@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+C.
+
+(1) Quality Assurance Support
+(2) Program Reviews Support
+
+(3) Centralized administrative, clerical, and related support and
+documentation for application work order tickets.
+
+(4) Progress/status reporting Support
+Cybersecurity Assessment Program (CAP)
+
+The objectives of this task are to improve the cybersecurity posture of all DLA activities
+and to enforce compliance with OMB, DOD, DLA, and other applicable cybersecurity
+policies. The Government requires certified, highly knowledgeable, and skilled personnel
+with proper security clearances in performing cybersecurity assessments to meet these
+objectives.
+
+The contractor shall provide Cybersecurity Compliance Review (CCR) Support. DLA’s
+Cybersecurity Compliance Reviews (CCR) consists of several types of assessments:
+
+1. The contractor shall:
+
+(a) Provide Cybersecurity Vulnerability Assessment (CVA) Support -
+The CVA identifies, quantifies, prioritizes, and suggests the best method
+for eliminating or mitigating the vulnerabilities that exist in systems and
+enclaves. Moreover, it points out which systems are noncompliant with
+DOD and DLA security policies.
+
+(1) The contractor shall perform a CVA on individual segments of
+DLA’s network or may be tasked to focus on a particular
+compliance area across the DLA Enterprise at the direction of the
+appointed government representative.
+
+(2) In cases where STIGs, SRGs and DOD policy is absent such as
+with emerging technologies, the contractor will provide review
+based on vendor and current industry best practice.
+
+(3) The contractor will document non-compliance and assist DLA
+Network and System Administrators with identifying a course of
+action for remediation.
+
+(4) The contractor will develop and document repeatable processes for
+performing each type of assessment to be compiled into a DLA
+CVA Standard Operating Procedures (SOP). The contractor will
+identify lessons learned and generate after action reports as
+required for the CAP.
+
+Page 75 of 256

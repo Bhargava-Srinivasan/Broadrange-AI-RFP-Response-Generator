@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(e) The contractor will assess the scope of suspected or confirmed
+cyber incidents and take immediate action to prevent the spread of the
+activity and to restore affected DLA systems and data.
+
+(f) All actions in the detection, containment, eradication and restoral
+of DLA systems and data will be thoroughly documented in accordance
+with established DLA SOPs.
+
+(g) The contractor shall follow established Tactics, Techniques and
+Procedures (TTPs) in responding to a cyber incident.
+
+(h) If a weakness in the established TTPs or SOPs is identified during
+an incident the contractor shall create an After-Action Report.
+
+(1) The After-Action Report shall identify strengths and weaknesses in
+the processes as they relate to the affected incident as well as an action
+plan for mitigating weaknesses in the process.
+
+(j) After-Action Reports will be performed in accordance with current
+CSSP Evaluator's Scoring Metrics requirements.
+
+(kx) The contractor will monitor and enforce incident
+handling/response and overall cybersecurity practices and procedures of
+CSSP subscribers in accordance with DLA and DoD policies and
+procedures.
+
+(1) The contractor will ensure DLA maintains compliance with
+reporting timeframes within the CJCSM 6510.01B or any superseding
+document as well as following DLA requirements 1n the notifications and
+reporting of cyber incidents affecting DLA to include notification to:
+
+(1) DLA CERT
+
+(2) DLA Program Managers (PMs) and Information Systems Security
+Managers (ISSMs)
+
+(3) USCYBERCOM or appointed CSSP Tier I representative
+
+(4) Other CSSP Tier II entities across the DoD
+
+(5) Law Enforcement
+
+(6) Other affected stakeholders as required by established SOPs or
+
+agreements.
+
+Page 83 of 256

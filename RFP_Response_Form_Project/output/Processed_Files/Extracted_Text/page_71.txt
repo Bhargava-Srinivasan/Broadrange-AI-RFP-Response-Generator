@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(e) Track IT assets for decommission and physical removal from all data
+center/satellite sites.
+
+(f) Provide IT asset support documentation for submission into Enterprise
+Business System (EBS).
+
+(g) Maintain a list of equipment marked for decommission from each site
+prior to being sent to Defense Reutilization Marketing Office (DRMO).
+
+C.4.6 TASK AREA 6 — Cybersecurity Support Services
+
+DLA relies on information systems to carry out its mission and business functions in a
+global setting. These systems are susceptible to exploitation through targeted attacks,
+natural disasters, and human and system errors. Compromise of any information system
+could jeopardize logistical operations and endanger other organizations and national
+interests. To combat these threats, the Department of Defense utilizes cybersecurity as its
+first line of defense.
+
+Cybersecurity is the collection of tools, policies, security concepts and safeguards,
+guidelines, training, and best practices, used to protect the cyber environment, and
+organizational assets. These assets include connected computing devices, applications,
+services, telecommunications systems, and the transmitted or stored information in the
+cyber environment. Cybersecurity strives to ensure the confidentiality, integrity, or
+availability of such information.
+
+a. Cybersecurity Support
+
+The contractor is responsible for performing preventative and analytical activities aimed
+at
+
+enhancing the overall Cybersecurity posture of DLA networks, information systems, and
+applications. The contractor shall provide full Cybersecurity support for the range of
+solutions and services as stated below, which are necessary to meet the requirements of
+this contract and individual Task Orders as related to DLA’s Cybersecurity. The
+contractor shall ensure compliance with Federal, DOD and DLA information technology
+and security requirements, policies, procedures, and standards as applicable.
+Cybersecurity support will include:
+
+Cybersecurity Risk Management Framework (RMF) Services
+Cybersecurity Policy Services
+
+Cybersecurity Plan of Action and Milestones (POA&M) Services
+Cybersecurity Workforce Management
+
+FISMA Tracking and Reporting
+
+All solutions and services must meet DLA policies, standards, and procedures as
+identified by individual Task Orders (e.g., enterprise architecture, cybersecurity, and
+personnel, physical and system security). All contractors supporting Cybersecurity Tasks
+are required to be certified in accordance with the specific Cybersecurity certification
+
+Page 71 of 256

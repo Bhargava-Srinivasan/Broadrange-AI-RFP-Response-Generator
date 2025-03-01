@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+maintain all virtualized infrastructure in conjunction with Virtual
+Platform Management team staff.
+
+(4) Coordinate all project tasks, development, planning, support, and
+administration in cooperation with the government’s Virtual
+Platform Management Team and approval of the Virtual Platform
+Management Team Lead. All Project Initiatives will be
+coordinated through and approved by the Virtual Platform
+Management Team Lead
+
+(5) Provide support to the Virtual Platform Management Team in the
+development, support, and sustainment of critical applications
+supporting the infrastructure in all environments.
+
+(6) Provide expert knowledge and expertise with the Vmware vRealize
+Suite and Vmware vCloud Suite. The vRealize Suite 1s comprised
+of vRealize Automation, vRealize Operations, vRealize Log
+Insight (Log Analytics), vRealize Business, and vRealize Lifecycle
+Manager. The vRealize Suite is a cloud management platform for
+managing a heterogeneous, hybrid cloud. The vCloud Suite
+includes the vRealize Suite and vSphere Enterprise Plus for
+vCloud Suite.
+
+(7) Perform daily system checks in the virtualized infrastructure to
+observe any abnormalities, outages, resource constraints, or
+performance issues.
+
+(8) The Contractor shall coordinate with the various teams, fellow
+Virtual Platform Management Team members, and vendors to
+maintain the sustainment of virtualization operations.
+
+(9) The contractor shall provide mission critical outage support for the
+virtualized infrastructure by communicating and troubleshooting
+issues/errors with internal DLA teams and external commercial
+vendors/providers to identify the root cause. The contractor will
+work to resolve the issue/errors and return the system to
+operational status.
+
+(10) Open and track work orders with external vendors and
+continue working with vendors until final resolution.
+
+(11) Coordinate with the Virtual Platform Management Team
+Lead and
+supervisor on all supported outages.
+
+Page 26 of 256

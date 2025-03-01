@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Updating and maintaining a master list of all IT assets located in each
+Data Center/satellites. The Visio diagrams will be of the server rack and
+the data center rooms. The server rack diagrams will include rack name,
+rack location, server name, server type, IP addresses, serial numbers,
+barcodes, and device location of each device within the rack. Building
+diagrams will include locations, model types, and serial numbers of AC
+units, power distribution units (PDU), UPS, batteries, generator(s), and if
+there are any water detection systems.
+
+(d) Update and assist in updating and maintain Government furnished asset
+databases, trackers, and server information repositories, including, but not
+limited to, the Data Center Services IT asset management list/database and
+all DLA and DoD's Enterprise Asset Systems.
+
+(e) Provide support in facility closures or downsizing through asset and
+inventory management and work alongside deskside services support to
+decommission and remove existing assets and reinstall and/or provision
+assets and inventory, where applicable, at new facility.
+
+(f) Collect various asset and inventory data elements and perform detailed
+analysis to include drawing diagrams of the Data Centers using DLA and
+DOD platforms (ServiceNow; Assured Compliance Assessment Solution
+(ACAS); Host Based Security System (HBSS); System Center
+Configuration Manager (SCCM); Active Directory (AD); ArcSight; etc.).
+
+(g) Provide process improvement recommendations to include the
+standardization of data and document efficiencies needed for the overall
+betterment of the inventory data and records.
+
+4. Inventory and Asset Reconciliation Reporting - The Contractor shall maintain and
+validate inventory for each data center/satellite. In addition, reconciliation reports
+against other IT inventory reports, lists, systems, and/or databases should be
+performed, and deltas/issues reported to the government. This includes a weekly
+update on all the tasks listed below:
+
+(a) Wall to wall 100% inventory at each site. To include all IT equipment,
+software, and all environmental and facility equipment that support the
+data center. (Environmental and facility equipment includes all HVAC,
+UPS, PDU’s, batteries, generators, water detection systems, etc.).
+
+(b) Ensure all IT asset information requirements are documented in all
+Government furnished asset databases, including, but not limited to, the
+Data Center Services IT asset management list/database and is updated
+accordingly in all DLA and DoD's Enterprise Asset systems.
+
+Page 29 of 256

@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+(m) The contractor will develop countermeasures such as custom SEIM
+and IDS rules/signatures to strengthen DLA’s ability to prevent and detect
+attacks against DLA assets and data
+
+(n) Creation and implementation of countermeasures shall be
+thoroughly documented in accordance with DLA SOPs.
+
+2. Incident Handling
+
+(a) The contractor shall maintain an initial triage and response process
+for cyber incidents. This should include a method of incident prioritization
+
+and the development of a course of action.
+
+(1) Triage is to include basic malware analysis to determine indicators
+of compromise and confirm infection.
+
+(2) Final analysis of all events must include root cause analysis.
+
+(3) During the handling of an incident the contractor shall thoroughly
+document each action taken in an operations log accessible to all
+DLA CERT personnel to ensure continuity of operations for each
+
+incident.
+
+(b) The contractor shall ensure proper reporting to law enforcement
+and intelligence groups in the event of incidents involving classified data
+spillages, incidents involving cleared defense contractors or where
+suspected criminal activity has occurred in accordance with DOD and
+
+DLA SOPs, TTPs and policy.
+
+(c) The contractor will work with DLA ISSMs and PMs to identify
+operational or technical impact of an incident as well as the criticality of
+the system/data affected by the incident. The contractor shall ensure
+forensically sound acquisition and preservation of incident data. Data can
+
+be volatile, persistent, or environmental as applicable. This includes
+enforcing the maintenance of chain of custody documentation
+
+(d) The contractor will support DLA Applications/Programs incident
+response process through:
+
+(1) Coordination of countermeasure deployment
+(2) Maintaining incident escalation procedures
+
+(3) Maintaining points of contact for each Application/Program
+
+Page 84 of 256

@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(4) Participating in annual Incident Response Tabletop exercises as
+requested
+
+(5) Providing threat intelligence tailored to the Application/Program.
+
+(e) The contractor shall follow established DLA Procedures to identify
+and develop Lessons Learned as appropriate.
+
+(f) The contractor shall develop and distribute countermeasures and
+course of action tailored to specific DLA Applications/Programs for all
+DLA incidents.
+
+(g) The contractor shall assist DLA Cyber Security staff in defending
+DLA assets from unauthorized and malicious activity.
+
+(h) The contractor shall provide knowledge and expertise from
+contractor personnel to DLA field sites and DLA CERT personnel to
+enhance incident handling operations
+
+(1) The contractor shall ensure actions are performed and reporting
+made within time requirements set forth by DoD and DLA regulations and
+Standard Operating Procedures (SOPs), including but not limited to:
+
+(1) Continuous review of and response to IDS alerts.
+
+(2) Creation, updating, modification, mitigation and closing of all
+Incident Reports.
+
+(3) Providing awareness to stakeholders of changes to DLA’s Incident
+Handling procedures, Cyber Defense protective measures and
+emerging threats
+
+(4) Reporting to USCYBERCOM and/or appointed CSSP Tier I
+representative
+
+(5) DLA CERT Incident report to Applications and Programs
+
+3. Threat Hunting
+
+(a) The contractor shall provide recommendations for hunting targets
+within DLA’s Area of Responsibility (AoR) based on potential threats
+identified in Intelligence Agency reporting and/or Open-Source
+Intelligence (OSINT)
+
+Page 85 of 256

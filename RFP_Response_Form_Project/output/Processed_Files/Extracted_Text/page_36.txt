@@ -1,0 +1,44 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(10) Prepare and/or assist in the preparation of New/Revised
+Software Modules into Production Environment
+
+(11) Prepare migration documents, transport, and installation
+instructions for migrating new code to the production environment
+
+(12) Resolve “overwrite” and “dependency” checks for objects
+(13) Resolve questions regarding transports in a timely manner
+(14) Review Technical Specifications
+
+(15) Review how changes impact Environments
+
+(Build/Development/System Test/Stage/Production)
+(16) Identify and resolve application conflicts
+
+(17) Support implementation of mandated security patches and
+configuration changes
+
+(18) Support and provide subject matter expertise for
+functionally driven sustainment support projects, technical must-do
+projects, new function and /or technology implementation projects
+
+3. Performance Stress Test Support - The contractor shall provide technical support
+and services to conduct performance stress testing for new and existing
+applications to identify capacity issues related to application performance,
+stability and sustainability which could negatively impact government business
+systems. When required, the Contractor shall provide a detailed report to include
+root cause analysis, metrics and remediation action taken. The contractor shall
+develop, maintain, and provide test plans that consist of mapping to each
+requirement in the government-approved functional specifications, include both
+positive and negative test conditions, address error handling and atypical
+system/data conditions and perform stress testing as applicable.
+
+(a) Contractor shall also:
+(1) Provide administration and support for Micro Focus LoadRunner
+(2) Respond to and troubleshoot performance issues
+
+(3) Conduct performance traces with end users to address performance
+issues
+
+Page 36 of 256

@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+SOW. Include productivity and management methods such as Quality Assurance,
+Progress/status reporting, and Program Reviews at the Task Order level. Provide
+the centralized administrative, clerical, documentation, and related functions.
+
+(a) The contractor shall provide a monthly status report consisting of
+routine and special difficulties encountered under this SOW and a detailed
+listing of all work performed by task in electronic format and hardcopy.
+This Monthly Status Report (MSR) must be submitted in advance of any
+Invoicing.
+
+(b) The contractor shall submit a monthly invoice of dollars billed per
+month by Contract Line-Item Number (CLIN).
+
+(c) Upon task order award, contractor shall be required to submit a
+Project plan to the COR. The contractor shall also be required to update
+the staffing plan that was submitted with the task order proposal on a
+quarterly basis.
+
+(d) The contractor shall provide a compliance tracking report quarterly
+which identifies that contractor employees are certified in accordance with
+DODM 8140.03 or superseding guidance.
+
+(e) Develop and maintain a Government Furnished Equipment (GFE)
+Report used to identify resource and equipment information. The
+Contractor shall submit the initial GFE Report within ten (10) business
+days after award. The Contractor shall update all employee changes and
+send an electronic copy of the updated report to the COR within ten (10)
+business day of onboarding/offboarding employees. The report will
+include, at a minimum, the following information:
+
+(1) Employee name
+
+(2) Contract number
+
+(3) Company name (working for prime or subcontractor)
+
+(4) Work site/specific location
+
+(5) GFE assigned (make, model, serial number, asset numbers)
+
+(f) All documentation will be in the latest version of the Government-
+supplied Microsoft Office format unless another format is required and
+agreed to by the COR, the contractor, and Contracting Officer.
+
+Page 89 of 256

@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Update, maintain, and consolidate virtual asset information and records in
+all Government furnished IT asset databases, including, but not limited to,
+the Data Center Services IT asset management list/database and all DLA
+and DoD's Enterprise Asset systems.
+
+(d) Create, update, and maintain Visio/blueprinting of data center rooms and
+racks at each site.
+
+(ce) Document and correlate all DLA applications running on each server at
+each site. To include all environments, testing, staging, development,
+production and Continuity of Operations Planning (COOP).
+
+(f) Document and maintain accurate software and version installed on each
+server located at each site to include identifying and documenting if it is a
+valid and approved software product on the IT Solutions Document
+(ITSD).
+
+(g) Document and maintain up-to-date information on all hardware contracts
+(both initial purchase/original and maintenance) for each IT asset located
+at each site.
+
+(h) Document and maintain up-to-date information all software contracts
+(both initial purchase/original and maintenance) for all software that is
+located on each of the servers at each of the sites.
+
+(4) Document and maintain up-to-date information all maintenance contracts
+(both initial purchase/original and maintenance) for all HVAC’s, UPS,
+PDU, generators, batteries and water detection systems that support the
+data center.
+
+(j) Document and maintain up-to-date information of all databases running on
+each server at each site.
+
+(k) Identify, document, and maintain up-to-date hardware configuration to
+include processors, processor types, and memory of each device.
+
+(1) Identify, document and maintain up-to-date information of all the local
+Asset Manager, Data Center Manager for each site, Application
+owners/POCs and other support POCs for each IT asset.
+
+(m) Perform reconciliation of all IT asset data and records against reports,
+lists, systems, and/or databases and report deficiencies, deltas, and/or
+issues to the government.
+
+Page 30 of 256

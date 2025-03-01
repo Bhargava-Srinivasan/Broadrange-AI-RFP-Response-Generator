@@ -1,0 +1,59 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+(J)
+
+adjusted schedules for each alternative or the proposed investment
+program schedule.
+
+The contractor shall summarize the cost analysis conducted to generate
+high-confidence lifecycle cost estimates for each alternative. Include the
+lifecycle cost estimate for each alternative. Cost estimates will be
+presented in base-year and in out-year dollars. Summarize sensitivity
+analysis performed on cost drivers and the effect of technical, schedule
+and cost risk on program cost and schedule.
+
+The contractor shall summarize benefits analysis activities conducted to
+generate high-confidence lifecycle benefit estimates for each alternative.
+Include the lifecycle benefit estimates for each alternative. For an initial
+investment decision, the summary should provide enough information to
+show the differentiation and relative merits of each alternative. For the
+final investment decision, the summary should provide more detailed,
+possible site-specific information, based on a greater definition and
+understanding and less uncertainty about the proposed investment. The
+contractor shall include at a minimum the ground rules and assumptions,
+relevant measures for the program, a description of the pre-investment
+baseline, quantified and non-quantified benefits impacts, user benefits, and
+an overall summary of benefits.
+
+(k) The contractor shall summarize the economic analysis conducted for each
+
+(I)
+
+alternative or proposed investment. Include the designated discount rate
+per guidelines to calculate the present-value cost and benefits based on
+risk-adjusted estimates for benefits and costs. Include passenger value of
+time, benefit cost ratio, net present value, and payback period at a
+minimum.
+
+The contractor shall summarize risk assessment activity and results.
+Include the overall risk ratings for each alternative or for the proposed
+investment program. Identify major risks and planned mitigation strategies
+for each alternative. Discuss the comparative risk assessment for the
+initial investment decision.
+
+(m)The contractor shall identify the recommended alternative, if any, and
+
+summarize the rationale for the recommendation.
+
+p. Transition Services (Those services required to address impacts to operations due to
+relocation, deployment, and breakdown)
+
+1. The contractor shall:
+
+(a) Provide transition services associated with the consolidation or divesture
+
+of DoD and/or DLA workload or uninterrupted operations. Assist the
+
+Page 69 of 256

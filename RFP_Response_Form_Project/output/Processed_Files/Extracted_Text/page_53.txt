@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+1. Correctly prepare migration documents, transport, and installation instructions for
+migrating new code to the production environment
+
+2. Resolve questions regarding transports in a timely manner
+1. Training
+1. The contractor shall:
+
+(a) Provide usage level training for new and existing or reassigned Authorized
+User personnel.
+
+(b) Develop, document, maintain, manage, archive, and provide all training
+materials.
+
+(c) Provide all training facilities as required by the Task Order.
+
+(d) Establish, maintain, schedule, and manage delivery of continuous training
+programs.
+
+(ec) Provide functional use and operation of each of the application
+components/modules.
+
+(f) Provide Train-the-Trainer classes for personnel designated by the
+government.
+
+(g) Conduct skills assessments of DLA-designated personnel, such as
+executive managers, project team members, and Authorized Users.
+
+(h) Perform the appropriate skills development and transfer in the most
+efficient manner.
+
+j. Virtual Workforce Training
+
+1. Evaluation of the Organizational Environment. - The contractor shall evaluate and
+provide analysis, review and explanation of the most critical virtual workforce
+skills at DLA for all leaders and employees as needed.
+
+2. The contractor shall establish and conduct leadership training plans based on the
+extent and mix of leaders and employees for both internal employees and
+customers of J6 relying on technology and focusing on the greatest challenges for
+leaders and employees managing distance.
+
+3. The contractor shall conduct training as directed for approximately 3,000
+
+employees in the Information Operations Department in the CONUS and
+OCONUS locations.
+
+Page 53 of 256

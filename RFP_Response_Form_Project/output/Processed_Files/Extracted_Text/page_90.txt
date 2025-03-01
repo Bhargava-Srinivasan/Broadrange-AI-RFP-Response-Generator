@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+2. The Contractor’s Project Manager shall provide Transition Support for a period of
+up to 30 days before the end of the task order in the event there 1s a follow-on task
+order, and the incumbent 1s not issued the follow-on task order award. The
+contractor shall:
+
+(a) Provide a transition plan to include risks and costs associated with
+the transition of contractor support from the current incumbent to the new
+incumbent within 5 days of the notice of the need for a transition. The
+transition plan shall address impacts to operations due to relocation,
+deployment, and breakdown.
+
+(b) Provide transition services associated with the consolidation or
+divesture of DoD and/or DLA workload or uninterrupted operations.
+
+(c) Assist DLA in planning, preparing, and implementing any
+transition or change services.
+
+(d) Provide approved changes to DLA equipment, software, processes,
+and overall environment to support such consolidation or relocation.
+
+(e) Consider economies of scale and other synergies between the
+acquired operations of DLA.
+
+(f) Provide transition cost analysis, propose schedules, and document
+risks associated with such transition.
+
+b. Research and Development Program Management Support
+
+This Task supports sound program management through Standard and Repeatable
+Process (SRP), which 1s a set of procedures and processes, including external process
+requirements in areas such as information technology, contracting, and budgets, that are
+required to effectively manage a DoD R&D program. In general, the SRP follows the
+guidelines established by the Defense Acquisition University (DAU) guidance for R&D
+program management, and the Project Management Institute’s “Project Management
+Body of Knowledge.” The support will build on previously developed, implemented, and
+maintained R&D SRP procedures and processes. Changes, if any, will be managed
+through a change control process that maintains traceability from the established baseline
+to the revised procedure or process. The contractor will support R&D portfolio
+participation in the DoD-wide ManTech Program led by the Joint Directors of
+Manufacturing Technology Programs (JDMTP), of which the DLA R&D Chief is a
+principal member, and DLA’s participation in the Government-wide Small Business
+Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs.
+
+This support will include:
+
+Page 90 of 256

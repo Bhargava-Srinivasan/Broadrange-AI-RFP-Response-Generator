@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Conduct Risk Assessment.
+
+(d) Provide an analysis of mitigation efforts.
+
+o. Business Case Analysis (BCA) Support
+
+I.
+
+The contractor shall:
+
+(a) Draft cost estimates and provide analysis and documentation for all phases
+of current developmental, or modification, programs, or projects. These
+estimates should consider the benefits and return on investment (ROT)
+associated with the various approaches. This shall include the Cost
+Analysis, Program Office Estimate (POE), and Economic Analysis (EA);
+Lifecycle Cost (LCC) estimates, and "what-if" analysis for any programs
+as identified by the government.
+
+(b) Provide estimates for alternatives, given various budget, schedule and /or
+technical parameter variations.
+
+(c) Assist with Business Case Analysis (BCA) documentation in coordination
+with the project team.
+
+(d) The contractor shall assist the Government in development of an
+Executive Summary, which identifies the project; summarize the
+opportunity, recommendation, and business impact.
+
+(e) The contractor shall provide the required support defining assumptions,
+constraints, and conditions having major influence on the analysis and its
+conclusions. The following should be considered as a minimum: the
+assumed remaining service life of the currently fielded capability, the
+assumed required operational date for the proposed investment, the
+assumed economic service life of any proposed investment, and the
+operational framework within which any new investment must function.
+
+(f) The contractor shall provide alternatives analyzed as part of the business
+case analysis.
+
+(g) The contractor shall provide analysis on alternatives by using the
+government approved evaluation criteria and their relative weighting.
+Such items as payback periods, assumed lifecycle, cost and benefit ratio,
+risk/sensitivity analysis, and return on investment should be considered.
+
+(h) The contractor shall provide general assumptions regarding the schedule
+for each alternative. Summarize the schedule analysis results of each
+alternative’s schedule or the proposed investment program schedule. The
+summary should include a discussion of activities taken to generate risk-
+
+Page 68 of 256
