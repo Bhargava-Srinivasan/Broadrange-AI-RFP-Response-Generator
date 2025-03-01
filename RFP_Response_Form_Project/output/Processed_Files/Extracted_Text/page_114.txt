@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Develop crosswalk plans, scripts, and test results to ensure compliance
+with regulatory requirements, acquisition memorandum requirements,
+the TEMP and the Operational Requirements Document/Capability
+Development Document (ORD/CDD)
+
+(c) Provide a compliance matrix that documents test results with EBS
+program and acquisition program requirements
+
+(d) Monitor test events to ensure results will achieve EBS testing
+objectives and ORD/CDD and Milestone requirements
+
+(e) Work closely with Joint Interoperability Test Command (JITC)
+assessors to ensure EBS releases achieve required interoperability
+approvals and certifications as appropriate
+
+(f) Maintain traceability of requirements (e.g., Reports, Interfaces,
+Conversions, Extensions, Forms, and Workflow (RICE-FW), RICE
+objects) with DT&E test conditions and test cases
+
+(g) Produce reports throughout DT&E phases for all EBS releases that
+reflect the status of Traceability audits and analyses
+
+(h) Maintain configuration control of documents and test results in a
+database
+
+(1) Provide consultant services to enable the early identification and
+solution of problems and provide recommendations to improve the
+testing process
+
+(j) Provide analyses of discrepancies found during testing and provide
+recommendations for resolution
+
+(k) Provide support to the PMO by producing the draft DT&E report for
+each release and with preparation materials for the Test Readiness
+Reviews (TRR) at the start of each DI &E phase.
+
+4. Operational Readiness Testing Support - The contractor shall provide support to
+include, but not be limited to:
+
+(a) Provide support to the Test Team during the conduct of the Operational
+Test Readiness Reviews (OTRR) phase
+
+(b) Perform reviews to ensure the system complies with regulatory
+
+requirements and the approved TEMP requirements and produce
+reports as necessary
+
+Page 114 of 256

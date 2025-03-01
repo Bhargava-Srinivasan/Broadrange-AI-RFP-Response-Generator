@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(g) Participate in meetings, conference calls, and IPRs, as needed.
+
+(h) Support the Government Lead by providing financial reporting support
+used in monthly reports required by the Program Executive Office (J62).
+
+(1) Draft and route funding requests to the appropriate office.
+
+(j) Assist government personnel with analysis of trends, causes and probable
+impacts for related billing accounts.
+
+d. Configuration Management Support
+
+I.
+
+The contractor shall provide Configuration Management (CM) expertise and
+support in planning, documenting, implementing, executing, and monitoring CM
+processes and procedures for Configuration Identification, Configuration Status
+Accounting, Configuration Verification and Auditing, and Configuration Change
+Control.
+
+The contractor shall provide support in gathering functional, technical, and
+interface requirements and ensure all requirement changes are included in final
+design documentation.
+
+The contractor shall provide support in developing, implementing, and
+administering CM in accordance with DLA Enterprise CM process,
+Configuration Control Steering Group (CCSG), and Configuration Control
+Working Group (CCWG) framework, a significant component of the
+requirements gathering and development processes.
+
+The contractor shall support maintaining overall configuration control of the
+project and its deliverables, work products, and configuration items.
+
+The contractor shall provide change management consultation to DLA, as
+required to ensure control and record-keeping is maintained of transitions in
+infrastructure, organization, responsibilities, and products.
+
+The contractor shall develop, recommend implementation for Government
+approval, maintain, and employ appropriate CM applications and tools to
+manage the system change control process, properly identify all requirements,
+track all changes to the requirements and provide system test status reports for
+the program.
+
+The contractor shall coordinate CM inputs with Integrated Process Teams (IPTs),
+to explain any deviations from expectations, regarding capabilities delivered.
+
+The contractor shall update CM databases and generate management reports and
+metrics.
+
+Page 104 of 256

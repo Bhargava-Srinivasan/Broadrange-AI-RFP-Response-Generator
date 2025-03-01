@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) The contractor, upon government direction, shall revise the J6
+Continuous Process Improvement (CPI) Deployment Plan, DLA Manual
+(5309.02) and IT Process Improvement Standard Operating Procedure.
+
+(d) The contractor shall schedule, facilitate, and manage a J6 Executive
+Planning Session to identify and gain approval for Jo Enterprise process
+improvement projects/events.
+
+(e) The contractor shall manage all J6 projects and resources in the DLA J5
+process improvement repository which includes ensuring the required
+documentation and deliverables are completed at an acceptable level of
+quality; Powersteering is the tool solution.
+
+(f) The contractor shall deliver process improvement training to the J6
+workforce. Training events include Awareness (two-day events),
+Champion/Project Sponsor (one-day event), Green Belt (five-day event),
+Black Belt (five-week event).
+
+(g) The contractor shall provide mentoring and project coaching to J6
+process improvement facilitators for J6 process improvement projects.
+
+(h) The contractor shall assist the government staff with continuous process
+improvement projects in the following manner: reviewing CPI forms for
+completeness; assisting CPI candidates with meeting coordination and
+communications; providing subject matter expertise relating to CPI;
+helping CPI candidates stay on track for project completion; and assisting
+CPI candidates with obtaining data for project deliverables such as
+SIPOC (Supplier, Input, Process, Output, Customer) process flow charts.
+
+(1) The contractor shall identify, support, and manage benefits for non-Lean
+Six Sigma (LSS) structured initiatives.
+
+(j) The contractor shall prepare and conduct value stream mapping and
+analysis as required to support process improvement projects and events.
+
+(k) The contractor shall manage and track process improvement savings and
+benefits for J6.
+
+(1) The contractor shall develop monthly status briefings to J61 for status on
+J6 process improvement activities, including projects, resources, benefits,
+
+and training.
+
+(m)The contractor shall support the process for DLA CPI certification
+requirements for J6 employees.
+
+j. IT Audit Readiness Management
+
+Page 119 of 256

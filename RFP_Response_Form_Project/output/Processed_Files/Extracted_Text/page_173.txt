@@ -1,0 +1,72 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+DFARS 252.227-7015 Technical Data — Commercial Products and Commercial Services
+(MAR 2023)
+
+DFARS 252.227-7016 Rights in Bid or Proposal Information (JAN 2023)
+
+DFARS 252.227-7019 Validation of Asserted Restrictions-Computer Software (JAN 2023)
+DFARS 252.227-7025 Limitations on the Use or Disclosure of Government-Furnished
+Information Marked with Restrictive Legends (JAN 2023)
+
+DFARS 252.231-7000 — Supplemental Cost Principal (DEC 1991)
+
+DFARS 252.227-7030 — Technical Data—Withholding of Payment (MAR 2000)
+
+DFARS 252.227-7037 — Validation of Restrictive Markings on Technical Data (APR 2022)
+DFARS 252.227-7039 — Patents-Reporting of Subject Inventions (APR 1990)
+
+DFARS 252.232-7003 — Electronic Submission of Payment Requests and Receiving Reports
+(DEC 2018)
+
+DFARS 252.232-7010 — Levies on Contract Payments (DEC 2006)
+
+DFARS 252.235-7003 — Frequency Authorization (MAR 2014)
+
+DFARS 252.237-7010 — Prohibition on Interrogation of Detainees by Contractor Personnel
+(JUN 2013)
+
+DFARS 252.237-7023 — Continuation of Essential Contractor Services (OCT 2010)
+DFARS 252.237-7024 — Notice of Continuation of Essential Contractor Services (OCT
+2010)
+
+DFARS 252.239-7000 — Protection Against Compromising Emanations (OCT 2019)
+DFARS 252.239-7001 — Information Assurance Contractor Training and Certification
+(JAN 2008)
+
+DFARS 252.239-7002 — Access (DEC 1991)
+
+DFARS 252.239-7004 — Orders for Facilities and Services (SEP 2019)
+
+DFARS 252.239-7007 — Cancellation or Termination of Orders (SEP 2019)
+
+DFARS 252.239-7009 — Representation of Use of Cloud Computing (SEP 2015) DFARS
+252.239-7010 Cloud Computing Services (SEP 2022)
+
+DFARS 252.239-7016 — Telecommunications Security Equipment, Devices, Techniques,
+and Services (DEC 1991)
+
+DFARS 252.239-7017 — Notice of Supply Chain Risk (DEC 2022)
+
+DFARS 252.239-7018 — Supply Chain Risk (FEB 2019)
+
+DFARS 252.239-7098 — Prohibition on Contracting to Maintain or Establish a Computer
+Network Unless Such Network is Designed to Block Access to Certain Websites —
+Representation (APR 2021) (DEVIATION 2021-00003)
+
+DFARS 252.243-7001 — Pricing of Contract Modifications (DEC 1991)
+
+DFARS 252.243-7002 — Requests for Equitable Adjustment (DEC 2012)
+
+DFARS 252.244-7000 — Subcontracts for Commercial Items (JAN 2021)
+
+DFARS 252-245-7001 — Tagging, Labeling, and Marking of Government-Furnished
+Property (APR 2012)
+
+DFARS 252.245-7002 — Reporting Loss of Government Property (JAN 2021)
+
+DFARS 252.245-7003 — Contractor Property Management System Administration (APR
+2012)
+
+Page 173 of 256

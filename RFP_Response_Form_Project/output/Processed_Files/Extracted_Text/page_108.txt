@@ -1,0 +1,44 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+The contractor shall:
+
+(a) Assist the Government in ensuring that adequate testing and configuration
+control occurs during the implementation process (e.g., software coding).
+
+11. Risk Management
+The contractor shall:
+
+(a) Support the overarching risk process that includes identification, analysis,
+mitigation planning, mitigation plan implementation, and tracking.
+
+(b) Assist the Government in integrating risk management with systems
+engineering and program management processes.
+
+(c) Identify risk drivers, dependencies, and root causes, and perform
+
+consequence management.
+12. Interface Management
+The contractor shall:
+
+(a) Provide interface definition and compliance support among the elements
+that compose the system, as well as with other systems with which the
+system or system elements interoperate.
+
+(b) Provide support to document all internal and external interface
+requirements in accordance with the Configuration Management (CM)
+Plan and communicate these to all affected configuration items.
+
+13. Integration
+The contractor shall:
+
+(a) Assist the Government in ensuring that individually developed
+components (e.g., Reports, Interfaces, Conversions, Extensions, Forms,
+and Workflow (RICE-FW), RICE objects) are correctly tested,
+documented, and integrated into releases.
+
+14. Verification
+
+The contractor shall:
+
+Page 108 of 256

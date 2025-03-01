@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Unsatisfactory Does not meet most contractual requirements in terms of
+timeliness of delivery and recovery is not likely ina
+timely manner. The timeliness of contractual
+performance contains a serious problem(s) for which the
+contractor’s corrective actions appear or were ineffective.
+
+Quality |
+
+Satisfactory Meets or exceeds contractual requirements in terms of
+quality of work performed. The quality of contractual
+performance reflects some minor problem(s) for which
+corrective actions taken by the contractor appear or were
+satisfactory.
+
+Does not meet some contractual requirements in terms of
+quality of work performed. The quality of contractual
+performance reflects a minor quality problem(s) for
+which the contractor has not yet identified corrective
+actions. The contractor’s proposed actions appear only
+marginally effective or were not fully implemented. The
+minor quality problem(s) do not adversely impact the
+mission of the Agency.
+
+Marginal Does not meet some contractual requirements in terms of
+quality. The quality of contractual performance reflects
+a serious problem(s) for which the contractor has not yet
+identified corrective actions. The contractor’s proposed
+actions appear only marginally effective or were not fully
+implemented.
+
+Unsatisfactory Does not meet most contractual requirements in terms of
+quality and recovery is not likely in a timely manner.
+
+The quality of contractual performance contains a serious
+problem(s) for which the contractor’s corrective actions
+appear or were ineffective.
+
+Disincentives are applied for ratings of “Fair”, “Marginal”, and
+“Unsatisfactory” as follows:
+
+Satisfactory = 100% payment
+Fair = -10% disincentive
+
+Marginal = -20% disincentive
+Unsatisfactory = Payment will be withheld pending resolution of cure
+notice(s). Termination for default or cause may result.
+
+Page 151 of 256

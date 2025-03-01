@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+1. Provide administrative assistance which includes coordinating, recording, and
+documenting events and data in support of DLA in external Data Governance
+groups
+
+2. Coordinate DLA’s feedback and decisions
+3. Provide assistance implementing external standards and procedures
+
+4. Coordinate working groups with other Agencies
+
+h. Provide assistance with Metadata management and business glossary
+
+1. Support determination of DLA critical data elements and critical data element
+determination criteria
+
+2. Support data catalog development and maintenance
+3. Support authoritative data source (ADS)/data lineage initiatives
+
+4. Support coordination of business glossary & metadata initiatives
+5. Support creation of business glossary and metadata processes / standards
+
+6. Support data dictionary development
+
+1. Provide assistance with establishment of a data quality program
+
+1. Support conducting a data quality pilot project (the pilot project will foster a data
+quality strategy, data profiling, data quality assessment and data cleansing.
+
+2. Support with development of data quality strategy (data quality analysis and
+creation of the data quality strategy to include a sequence plan)
+
+j. Provide support with data lifecycle management
+
+1. Provide assistance standing up a DLA data catalog by collecting and managing
+data from shared data assets (data assets shared between multiple organizations
+within DLA and outside of DLA).
+
+2. Provide assistance ensuring data requirements practices support lifecycle data
+management
+
+3. Provide assistance with identification of critical data
+
+4. Provide assistance designating authoritative data sources
+
+Page 125 of 256

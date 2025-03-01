@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Support Areas and Major Subordinate Commands, meetings with DOD partners
+and strategic IT contractors, and annual strategic contractor roundtable events.
+
+b. Robotic Process Automation (RPA) Support Services
+1. The contractor shall:
+
+(a) Implement and document the Robotic Process Automation (RPA) tool to
+achieve resource efficiencies in some of the customer facing Sustainment
+Activities and internal processes for development, test, and deployment.
+
+(1) The contractor shall use tracking tools which are used to receive,
+prioritize, and track Production Service Requests from users and
+maintain Configuration Control and Status reporting for ‘ready to
+deploy’ changes to the production application and status
+accounting of the production environment.
+
+(2) The contractor shall use the RPA tool which will allow the
+contractor to script manual process inputs in selected tracking tools
+as well as the manual steps external to the selected tools as part of
+the normal workflow.
+
+(b) Implement the RPA tool selected by the Government to make required
+adjustments to how the contractors document and execute their contracted
+tasks.
+
+(c) Develop criteria for determining relative value of RPA candidates;
+recommend selection.
+
+(d) Identify internal PMO processes as candidates for RPA.
+(e) Create governance documents for RPA development and use. Document
+and report on products and services with potential use for DLA as it aligns
+
+with DLA’s business and technology strategy.
+
+(f) Participate as directed in OSD and DLA RPA Working Groups and
+Communities of Practice.
+
+(g) Create Template for submission and scoring of RPA Candidates to include
+estimated ROI.
+
+(h) Develop, monitor, and report RPA Development and Usage Metrics
+(Attended vs Unattended)
+
+Page 101 of 256

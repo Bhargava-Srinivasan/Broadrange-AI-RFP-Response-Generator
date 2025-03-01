@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+The Contractor shall support Test and Evaluation of programs/projects in accordance
+with the Defense Acquisition Guidebook’s Testing and Evaluation Technical and
+Technical Management processes, to include but not limited to the following activities:
+
+1. Testing and Evaluation Master Plan (TEMP) — The TEMP documents the overall
+structure and objectives of the Test and Evaluation (T&E) program required to
+demonstrate the Defense Business System (DBS) has met its design and
+performance requirements. The contractor shall provide support to include, but
+not be limited to:
+
+(a) Revising and updating the TEMP in accordance with DOD 5000.2-R,
+as required and subject to Government approval.
+
+(b) Ensure that the TEMP is synchronized with all other relevant program
+acquisition documents, when necessary, in support of specific program
+milestones.
+
+(c) Ensure that the TEMP is updated using the most relevant, current, and
+accurate information obtained from field organizations, integrated
+product teams, and DLA staff as well as industry standard practices,
+procedures, and requirements.
+
+2. Integrated Product Team (IPT) —IPTs are composed of representatives from
+appropriate functional disciplines working together to build successful programs,
+identify and resolve issues, and make sound and timely recommendations to
+facilitate decision making. Working Level Integrated Product Team (WIPT) -
+are working level teams of representatives from all appropriate functional
+disciplines. The contractor shall provide support to include, but not be limited to:
+
+(a) Supporting and providing technical support to assigned IPT and WIPT
+meeting and discussions as necessary.
+
+(b) Provide support in the development and production of material for
+presentation to the Testing WIPT and other internal and external
+oversight organizations (e.g., Supply Chain Integration Group,
+Transformation Executive Board Integrated Product Team, and
+Overarching Integrated Product Team).
+
+3. Developmental Test and Evaluation (DT&E) Support - The contractor shall
+provide support to include, but not be limited to:
+
+(a) Provide support to the Testing Team during the conduct of the
+
+Developmental Test and Evaluation (DT&E) execution phases for all
+DBS
+
+Page 113 of 256

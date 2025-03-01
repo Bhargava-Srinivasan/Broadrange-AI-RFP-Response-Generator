@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(c) Provide support in the development of artifacts that document the
+readiness of the system to proceed to the next test event
+
+(d) Provide support to identify problems and recommend solutions as
+required
+
+5. Operational Test & Evaluation (OT&E) Support — The contractor shall provide
+support to include, but not be limited to:
+
+(a) Draft, maintain, provide input to, and update technical documentation
+such as Information Support Plans (ISP), Program Protection Plans
+(PPP), Capability Development Document (CDD), System Engineering
+Plans (SEP), Capability Protection Document (CPD)
+
+(b) Provide support during preparation and conduct phases of all Operational
+Test and Evaluation (OT&E) events for each release as scheduled
+
+(c) Produce a report of lessons learned from previous Operational
+Assessment or OT&E events in preparation for the next OT&E event
+
+(d) Participate in OT&E planning activities with the Testing Team and JITC
+and produce minutes for each event
+
+(e) Support working closely with JITC prior to and during OT&E events to
+help clarify operational requirements, identify issues / problems, and
+recommend solutions as required
+
+(f) Support OT&E activities at each of the designated DBS test sites (e.g.,
+DLA Headquarters, DLA Land and Maritime, DLA Troop Support, DLA
+Aviation, DLA Distribution, DFAS, and DISA
+
+(g) Support the maintenance of the OT&E documentation (e.g., plans,
+scripts, Measures of Performance (MOP’s) and test results) and track
+each iteration against baseline documents and TEMP/ORD/CDD
+requirements and ensure consistency with regulatory and milestone
+requirements, using the Requirements Traceability Matrix
+
+(h) Provide an OT&E monitor report including analyses of problems / issues
+and recommended solutions
+
+(i) Maintain configuration control of documents and test results in the EBS
+Workbench
+
+(j) Prepare a Lessons Learned Report for use in preparation for the next
+OT&E Event
+
+Page 115 of 256

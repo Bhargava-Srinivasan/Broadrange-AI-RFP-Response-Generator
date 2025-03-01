@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+
+SP4709-23-R-0001
+
+The D&F shall be approved by a contracting officer of the requesting agency
+with authority to contract for the supplies or services to be ordered, or by
+another official designated by the agency head, except that, if the servicing
+agency 1s not covered by the FAR, approval of the D&F may not be
+delegated below the senior procurement executive of the requesting agency.
+
+NOTE: In transactions between DoD activities, if the transaction 1s
+documented on a DD Form 1144 support agreement signed by the head of
+the requiring and supplying agency, then no further written determinations
+are required. If no support agreement exists, then the D&F is required.
+
+A Fee for Service of 2.25% (subject to change) for centralized ordering and
+1% (subject to change) for de-centralized ordering, or a minimum of
+$5,000.00, whichever is higher, will be required by the servicing agency
+(DLA) from the requesting agency on all direct acquisitions and will be
+submitted via a direct fund cite MIPR. MIPRs from the requesting agency
+will be coordinated with the appropriate financial office. The application of
+the Fee for Service is at the sole discretion of the servicing agency.
+
+c. Competition process for all task orders following the award of multiple IDIQs:
+
+a.
+
+Group A will consist of all Small Business IDIQ holders, which includes
+8(a) contractors. All Group A contractors will be eligible to compete on all
+unrestricted task orders and task orders set-aside 100% for small
+businesses. Within Group A, Woman-Owned Small Business, Service-
+Disabled Veteran-Owned Small Business, and HUBZone Small Business
+contractors will be eligible to compete on task orders set-aside 100% for
+their specific socio-economic group(s). Group B will consist of 8(a) IDIQ
+holders. All Group B contractors will be eligible to compete on all
+unrestricted task orders and task orders set-aside 100% for small
+businesses. All task orders appropriate for 8(a) contractors may be
+restricted for Group B competition, in accordance with FAR
+19.803(b)(4)(11), or sole sourced directly to a Group B contractor in
+accordance with FAR 19.803(b)(4)q). All Group C contractors will be
+eligible to compete on all unrestricted task orders.
+
+The Government reserves the right to direct orders to a particular source
+under urgent circumstances, to meet contractual minimums, or to provide
+economy and efficiency as a logical follow-on to an order already issued
+in accordance with FAR 16.505(b)(2). In accordance with FAR 16.505
+(b)(1)(G), the government reserves the right to direct orders under $3,000
+to any contractor. The Government reserves the right to set-aside task
+orders for competition between the small businesses, 1n accordance with
+FAR 16.505(b)(2)(1)(F).
+
+Email will normally be utilized to issue the Request for Quotes (RFQs) for
+the individual task orders and to receive the offers. Upon the completion
+
+Page 157 of 256

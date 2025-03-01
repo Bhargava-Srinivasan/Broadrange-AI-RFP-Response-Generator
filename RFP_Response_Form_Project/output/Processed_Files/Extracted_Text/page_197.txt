@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(Contracting Officer: Insert applicable information or “Not applicable.’’)
+(2) Contact the WAWE helpdesk at 866-618-5988, if assistance is needed.
+
+(End of clause)
+
+Procurement Note C05 Changes to Key Personnel (OCT 2016)
+
+Certain skilled, experienced, professional and/or technical personnel are essential for successful
+accomplishment of the work to be performed under this contract. These are defined as "key
+personnel" and are those persons whose resumes are submitted as part of the technical/business
+proposal for evaluation. The contractor shall use key personnel as identified 1n its proposal
+during the performance of this contract and will request contracting officer approval prior to any
+changes. Requests for approval of any changes shall be in writing with a detailed explanation of
+the circumstances necessitating the change. The request must contain a complete resume for the
+new key personnel and any other pertinent information, such as degrees, certifications, and work
+history. New key personnel must have qualifications that are equal to or higher than those being
+replaced. The contracting officer will evaluate the request and notify the contractor whether the
+requested change is acceptable to the Government.
+
+Procurement Note H11 Section 508 Requirements (JAN 2021)
+
+Contractors shall comply with the Section 508 Accessibility requirements in this contract and the
+current revision of the Voluntary Product Accessible Template (VPAT) Rev 508 at
+https://www.itic.org/policy/accessibility/vpat (copy website address into browser) as stated in
+their proposal, for the duration of contract performance.
+
+Procurement Note H14 Contractor Personnel Security Requirements (JAN 2021)
+
+(a) Work to be performed under this contract or task order may, in full or in part, be performed
+at the Defense Logistics Agency (DLA) Headquarters (HQ), DLA field activity office(s), or
+other Federally-controlled facilities. Prior to beginning work on a contract, DLA requires all
+contractor personnel working on the Federally-controlled facility to have, at a minimum, an
+initiated National Agency Check with Written Inquiries (NACI) or NACI equivalent and
+favorable completion of a Federal Bureau of Investigation (FBI) fingerprint check.
+
+(b) Additionally, in accordance with Department of Defense (DoD) Regulation 5200.2-R,
+Personnel Security Programs, and DLA Issuance 4314, Personnel Security Program, all DoD
+contractor personnel who have access to Federally-controlled information systems must be
+assigned to positions which are designated at one of three information technology (IT) levels,
+each requiring a certain level of investigation and clearance, as follows:
+
+(1) IT-I for an IT position requiring a single scope background investigation (SSBI) or
+SSBI equivalent;
+
+Page 197 of 256

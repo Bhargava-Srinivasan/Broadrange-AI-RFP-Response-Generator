@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+2. Support the continued development and sustainment of DLA’s Enterprise
+Architecture.
+
+(a) Support or provide training and advise the Agency users on Enterprise
+Architecture, the DOD Architecture Framework (DODAF) and, the
+Enterprise Architecture tools and repository in accordance with
+architecture development guidance.
+
+(b) Support Enterprise Architecture modeling, to include Data Architecture
+models, and other documentation development. This may involve travel
+to locales where the business experts are located and holding sessions
+with those experts to capture their knowledge in the architecture models.
+
+(c) Provide Program Support Services for overall investment / requirements
+management efforts within the context of Enterprise Architecture.
+
+(d) Support efforts related to resolving technical issues encountered with
+architecture development tools and repositories, and documentation of
+those changes.
+
+(e) Provide assessment of the DLA Enterprise Architecture relative to the
+Enterprise Architecture Maturity Models and adjust to improve maturity.
+
+(f) Interact with the DLA End-to-End Process owners and other business
+units in DLA J6 Enterprise Services Areas, as well as remote sites to
+capture current business processes and technical/infrastructure
+architecture to ensure they are compliant with the latest version of the
+BEA and document the current or as-is DLA enterprise architecture
+
+(g) Analyze various DOD and DLA IT strategies, objectives, requirements,
+and current technology trends and provide recommendations for
+developing a five-year target/desired end state for the DLA Enterprise
+Architecture.
+
+(h) Develop and maintain a roadmap/transition plan for DLA to migrate
+from the as-is architecture to the target/desired end state for the DLA
+Enterprise Architecture developed in paragraph g. above.
+
+(1) For both the as-is and the target/desired end state for the DLA Enterprise
+Architecture, develop architectural products and document the products
+in the DLA architecture repository. The architectural product shall be
+consistent with the current version of the DOD Architecture Framework
+and DLA architecture development guidance.
+
+(j) Facilitate the management of various Enterprise Architecture working
+groups and boards.
+
+Page 110 of 256

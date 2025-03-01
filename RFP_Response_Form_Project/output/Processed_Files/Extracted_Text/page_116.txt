@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+i. Information Technology (IT) Process Management
+1. IT Process Management — Definition
+
+(a) The contractor shall provide support for developing J6 process
+management framework documentation that defines the strategy,
+structure, and purpose of J6 process management within the J6
+organization and includes elements such as all J6 process/service
+relationships, compliance needs, roles, definitions, measures, reporting,
+sustainment, and governance.
+
+(b) The contractor shall manage and maintain J6 process and service
+alignment to Federal/Department of Defense (DoD)/DLA policy
+requirements via a law, regulation, and policy (LRP) Matrix. This
+includes reviewing, validating, and updating the LRP, and the IT Control
+Matrix data sources as needed throughout the period of performance.
+
+(c) The contractor shall develop templates for supporting process
+documentation, to include J6 internal procedures, training, and job aids.
+
+(d) The contractor shall provide support to all Enterprise Service Areas
+(ESAs) for J6 process and service development and sustainment.
+
+(e) The contractor shall define and manage the J6 Process Inventory process
+with definitions and clear identification of J6 process owners, including
+conceptual architecture depiction.
+
+(f) The contractor, upon direction by the government, shall assist with
+articulating and defining the key process, service relationships and
+dependencies with J6 and non-J6 parties. The government will provide
+business rules for how these defined service relationships and
+dependencies will be managed.
+
+(g) The contractor, upon direction by the government, shall define and
+manage controls processes and services within J6.
+
+(h) The contractor shall develop concept of operations for J6 process
+management working groups to manage J6 processes and services across
+the J6 enterprise to measure performance and manage J6 process and
+service inventory.
+
+(i) The contractor shall implement and maintain the "IT Process Inventory"
+and “IT Service Inventory” capability in the DLA designated artifact and
+document repository (Microsoft (MS) SharePoint) to manage all
+documentation for J6 processes and services; to include an organizational
+view and metrics/performance for each J6 process/service.
+
+Page 116 of 256

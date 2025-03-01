@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this
+clause, the Contractor is not required to flow down any FAR clause, other than those in this
+paragraph (e)(1), in a subcontract for commercial products or commercial services. Unless
+otherwise indicated below, the extent of the flow down shall be as required by the clause-
+
+(1) 52.203-13, Contractor Code of Business Ethics and Conduct (Nov 2021) ( 41 U.S.C. 3509).
+(41) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or
+Statements (Jan 2017) (section 743 of Division E, Title VU, of the Consolidated and Further
+Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in
+subsequent appropriations acts (and as extended in continuing resolutions)).
+
+(1) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or
+Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L.
+115-91).
+
+(iv) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video
+Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
+
+(v) 52.219-8, Utilization of Small Business Concerns (OCT 2022) ( 15 U.S.C. 637(d)(2) and (3)),
+in all subcontracts that offer further subcontracting opportunities. If the subcontract (except
+subcontracts to small business concerns) exceeds the applicable threshold specified in
+
+FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in
+lower tier subcontracts that offer subcontracting opportunities.
+
+(v1) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+
+(vil) 52.222-26, Equal Opportunity (SEP 2015) (E.O.11246).
+
+(vill) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
+
+(ix) 52.222-36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
+(x) 52.222-37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212).
+
+(x1) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC
+2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR
+
+clause 52.222-40.
+
+(x11) 52.222-41, Service Contract Labor Standards (AUG 2018) ( 41 U.S.C. chapter 67).
+
+(x1i1)
+
+(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) ( 22 U.S.C. chapter 78 and E.O
+13627).
+
+Page 186 of 256

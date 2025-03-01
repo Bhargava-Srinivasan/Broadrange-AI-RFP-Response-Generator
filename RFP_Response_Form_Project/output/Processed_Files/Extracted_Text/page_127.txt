@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+2. Communicate and initiate negotiations with requestors
+3. Coordinate searches for responsive documents
+4. Prepare records for release and duplicate materials as necessary
+
+5. Provide technical reports and recommendations for process improvement
+
+C.4.12 TASK AREA 12: Modernization of Application Hosting Environments
+
+The Contractor shall:
+
+a. Provide Project Management Office (PMO) Sustainment Support
+
+1. The Contractor shall provide sustainment support of all related service
+management processes. The contractor shall support the modernization of
+application hosting environments with Project Management, Change
+Management, and Incident Management tasks. The contractor shall identify
+application and infrastructure hosting improvement opportunities to transform
+DLA Enterprise capabilities with minimum interruption to the DLA customer and
+identify cost savings and continuous process improvement opportunities including
+eliminating site-specific solutions and promoting Enterprise solutions.
+
+2. Project Management functions include creating and maintaining records of IT
+inventory, and creating proposed plans to eliminate on-premise systems as much
+as practicable and developing plans to migrate those systems to the cloud. The
+contractor will work closely with J64 Enterprise Infrastructure Services (EIS) to
+identify systems and owners to determine disposition and migration.
+
+(a) These activities include but are not limited to:
+
+(1) Meeting Coordination
+e Organize and conduct Stakeholder meetings
+e Organize and conduct status review meetings
+e Prepare meeting minutes for review
+
+(2) Reporting
+e Prepare presentations for briefings to present objectives,
+current status, future plans and supporting details and
+metrics.
+(3) Maintain the Site Inventory Tracking Worksheet and related
+
+metrics using input from Virtual the Team and Data Center
+Manager's Team:
+
+Page 127 of 256

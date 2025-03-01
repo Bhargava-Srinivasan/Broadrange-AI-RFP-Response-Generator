@@ -1,0 +1,78 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e Systems Engineering Plan (Office of the Under Secretary of Defense, Version
+
+2.01, April 2008)
+
+Government Information Security Reform Act
+
+Government Management Reform Act
+
+Government Performance and Results Act
+
+Paperwork Reduction Act
+
+Privacy Act of 1974, as amended
+
+Government Paperwork Elimination Act
+
+E-Government Act of 202, Sec. 208
+
+Federal Accounting Standards Advisory Board
+
+Generally Accepted Accounting Principles
+
+Standard Financial Information Structure
+
+Chief Financial Officer Act of 1990
+
+OMB Circulars 134 & Memo 05-02
+
+Executive Order 13327 that established the Federal Real Property Council
+
+NIST Special Publications (800 series)
+
+Committee for National Security Systems Instruction 1253 including its
+
+appendices
+
+Federal Information Security Management Act
+
+Public Law 100-235 Security Constraints
+
+Internal Revenue Code 6103 Security Constraints
+
+IRS Publication 1075 Security Constraints
+
+FY 2010 National Defense Authorization Act, Section 1072
+
+DoDI 8500.01 Cybersecurity
+
+DoDI 8510.01 Risk Management Framework (RMF) for DoD Information
+
+Technology (IT)
+
+e DOD Manual 8140.03 Cyberspace Workforce Qualification and Management
+Program or superseding guidance
+
+e Federal Financial Management Improvement Act (FFMIA)
+
+e DoD Cloud Computing Security Requirements Guide (SRG)
+
+Task Orders involving the hosting of DLA applications and data which will also be
+taking on cybersecurity roles for those applications and data must ensure compliance with
+the DODI 8500.01. DLA Cybersecurity Operations (to include but not limited to DLA
+CERT) will still be considered the Cyber Security Service Provider (CSSP) under these
+arrangements and therefore the contractor will perform cybersecurity actions as directed
+by DLA's CSSP. In addition, any contractor performing continuous monitoring and
+incident response will follow reporting and response requirements laid out in the CJCSM
+6510.01 (or superseding documents) as related to cybersecurity incidents and reporting
+through DLA CERT.
+
+C.13.1 POLICIES AND STANDARDS
+
+Throughout the SOW there are references to DLA Policies and Standards that a
+contractor will have to adhere to for a specific task order. DLA's Official Public
+
+Page 144 of 256

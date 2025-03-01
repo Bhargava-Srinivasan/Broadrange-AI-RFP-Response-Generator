@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+SECTION H: SPECIAL CONTRACT REQUIREMENTS
+
+H.1 PROPOSAL EVALUATION / IDIQ AWARD DETERMINATION
+
+a.
+
+The Contractor’s Labor Rate Table Pricing will be used 1n negotiating task order
+pricing. The labor categories and rates will be included in the IDIQ contracts and
+will serve as a ceiling, representing the highest hourly rate an awardee can offer
+during post-award task order competition.
+
+The acquisition will allow for individual task orders to be set-aside for small
+businesses in accordance with FAR 16.505(b)(2)(1)(F). Requirements at the task
+order level may be set-aside, under Group A competition, for all Small
+Businesses, Woman-Owned Small Business, Service-Disabled Veteran-Owned
+Small Business, and HUBZone Small Business only. In addition, all task orders
+appropriate for 8(a) contractors may be restricted for 8(a) competition, in
+accordance with FAR 19.803(b)(4)(1), or sole sourced directly to an 8(a)
+contractor in accordance with FAR 19.803(b)(4)(1).
+
+After IDIQs are awarded, three socio-economic groups will be established as
+Group A (all small business and 8(a) IDIQ contract holders), Group B (all 8(a)
+IDIQ contract holders), and Group C (all IDIQ contract holders). Small Business
+contractors will be eligible to compete on unrestricted task orders competed in
+Group C and 100% small business set-aside task orders competed in Group A.
+8(a) contractors will be eligible to compete on all unrestricted task orders and task
+orders set-aside 100% for small businesses. All task orders appropriate for 8(a)
+contractors may be restricted for Group B competition, in accordance with FAR
+19.803(b)(4)(11), or sole sourced directly to a Group B (8(a) business) contractor
+in accordance with FAR 19.803(b)(4)(). All other-than-small business contractors
+will only be eligible to compete on unrestricted task orders competed in Group C.
+All other task orders will be competed amongst the IDIQ holders unless an
+exception, outlined in FAR 16.505(b)(2), applies. Resulting task orders are
+intended to satisfy the full range of IT related requirements within the area of
+scope outlined in the SOW. Separate groups for socio-economic categories under
+Group A, such as Woman-Owned Small Business, Service-Disabled Veteran-
+Owned Small Business, Veteran Owned Small Business and HUBZone Small
+Business, will not have separate pools established at the IDIQ level. Requirements
+at the task order level may be set-aside, under Group A competition, for all Small
+Businesses, Woman-Owned Small Business, Service-Disabled Veteran-Owned
+Small Business, and HUBZone Small Business only. These set-asides may apply
+when there are 2 or more small businesses under these socio-economic categories
+are able and available to submit proposals to specific requirements.
+
+All Small business contractors that receive IDIQ awards will be authorized to
+receive small business set-aside task orders for the first five years (base period) of
+
+Page 153 of 256

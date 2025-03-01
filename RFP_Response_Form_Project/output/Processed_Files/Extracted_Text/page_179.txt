@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+FAR 52.212-5 - Contract Terms and Conditions Required To Implement Statutes or
+Executive Orders - Commercial Products and Commercial Services (MAR 2023)
+
+(Note: This clause applies to commercial orders only).
+
+(a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR)
+clauses, which are incorporated in this contract by reference, to implement provisions of law or
+Executive orders applicable to acquisitions of commercial products and commercial services:
+
+(1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or
+Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further
+Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in
+subsequent appropriations acts (and as extended in continuing resolutions)).
+
+(2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or
+Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L.
+115-91).
+
+(3) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video
+Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
+
+(4) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
+
+(5) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR
+2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
+
+(6) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(7) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77
+and 108-78 ( 19 U.S.C. 3805 note)).
+
+(b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting
+Officer has indicated as being incorporated 1n this contract by reference to implement provisions
+of law or Executive orders applicable to acquisitions of commercial products and commercial
+services:
+
+[Contracting Officer check as appropriate. |
+
+_X_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (JUN
+2020), with Alternate I (NOV 2021) ( 41 U.S.C. 4704 and 10 U.S.C. 4655).
+
+_X_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV
+2021) ( 41 U.S.C. 3509)).
+
+Page 179 of 256

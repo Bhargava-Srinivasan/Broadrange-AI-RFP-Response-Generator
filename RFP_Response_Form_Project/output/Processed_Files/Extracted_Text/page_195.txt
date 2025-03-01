@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(d) WAWF training. The Contractor should follow the training instructions of the WAWEF
+Web-Based Training Course and use the Practice Training Site before submitting payment
+requests through WAWFE. Both can be accessed by selecting the “Web Based Training” link on
+the WAWE home page at https://wawf.eb.mil/
+
+(e) WAWF methods of document submission. Document submissions may be via web entry,
+Electronic Data Interchange, or File Transfer Protocol.
+
+(f) WAWF payment instructions. The Contractor shall use the following information when
+submitting payment requests and receiving reports in WAWFEF for this contract or task or delivery
+
+order:
+
+(1) Document type. The Contractor shall submit payment requests using the following
+document type(s):
+
+(1) For cost-type line items, including labor-hour or time-and-materials, submit a cost
+voucher.
+
+(11) For fixed price line items—
+
+(A) That require shipment of a deliverable, submit the invoice and receiving
+report specified by the Contracting Officer.
+
+(Contracting Officer: Insert applicable invoice and receiving report document type(s) for fixed
+price line items that require shipment of a deliverable.)
+
+(B) For services that do not require shipment of a deliverable, submit either the
+
+Invoice 2inl1, which meets the requirements for the invoice and receiving report, or the
+applicable invoice and receiving report, as specified by the Contracting Officer.
+
+(Contracting Officer: Insert either “Invoice 2in1” or the applicable invoice and receiving
+report document type(s) for fixed price line items for services.)
+
+(111) For customary progress payments based on costs incurred, submit a progress
+payment request.
+
+(iv) For performance based payments, submit a performance based payment request.
+(v) For commercial financing, submit a commercial financing request.
+(2) Fast Pay requests are only permitted when Federal Acquisition Regulation (FAR)
+
+52.213-1 1s included in the contract.
+
+Page 195 of 256

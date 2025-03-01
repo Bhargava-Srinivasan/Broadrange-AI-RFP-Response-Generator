@@ -1,0 +1,56 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+assessment to determine compliance with Section 508 and provide results to the Government.
+The Contractor shall assist the Government in developing a plan to meet these requirements or
+requesting appropriate exceptions.
+
+The Contractor shall support the Government in its compliance with Section 508 throughout the
+development and implementation of the work to be performed. Section 508 of the Rehabilitation
+Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies, develop,
+procure, maintain, or use electronic information technology, Federal employees with disabilities
+have access to and use of information and data that is comparable to the access and use by
+Federal employees who do not have disabilities, unless an undue burden would be imposed on
+the agency. Section 508 also requires that individuals with disabilities, who are members of the
+public seeking information or services from a Federal agency, have access to and use of
+information and data that is comparable to that provided to the public who are not individuals
+with disabilities, unless an undue burden would be imposed on the agency.
+
+Additional information on Section 508 can be found at:
+http://www.section508.gov/index.cfm?FuseAction=Content&ID=12
+
+Section 508 Technical Standards and their reference numbers are as follows:
+
+1194.21 Software applications and operating systems.
+
+1194.22 Web-based intranet and internet information and applications.
+
+1194.23 Telecommunications products.
+
+1194.24 Video and multimedia products.
+
+1194.25 Self contained, closed products.
+
+1194.26 Desktop and portable computers.
+
+1194.31 Functional Performance Criteria -- Solicitations for EIT should always refer to
+functional performance criteria, according to 36 CFR part1194 Subpart C applied to all E&IT
+acquisition deliverables.
+
+1194.41 Information, Documentation and Support -- Solicitations for EIT must identify whether
+or not information, documentation, and support requirements apply, according to 36 CFR part
+1194 Subpart D applied to support documentation and services provided by agencies to end users
+of the acquired EIT.
+
+GSA's Guidance on Creating 508-Compliant IT Solicitations:
+
+http://buyaccessible.net/blog/wp-content/uploads/201 1/01/Guidance-on-Creating-508Compliant-
+[T-Solicitations.pdf
+
+The U.S. Access Board's Standards for Accessibility:
+http://www.section508.gov/index.cfm?fuseAction=stdsdoc
+
+The BuyAccessible Wizard:
+https://app.buyaccessible.gov/baw/
+
+Page 177 of 256

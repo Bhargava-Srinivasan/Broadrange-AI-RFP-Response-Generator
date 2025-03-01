@@ -1,0 +1,58 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(1) Provide Project Charter Documentations (templates, checklist, models,
+and guidelines.
+
+(j) Provide RPA Return on Investment (ROI) metrics
+
+(k) Manage and document the required process changes.
+c. Financial Budget and Cost Support
+
+The contractor shall provide technical support to J6 in all aspects of the programming,
+planning, budgeting, and execution (PPBE) processes with the refinement and tracking of
+cost data and provision of cost analyses. The contractor shall provide support for the
+updating of financial program reports and support the Government lead with the
+preparation of presentations and staffing of costing documents and analysis. The
+contractor shall provide support for the following tasks:
+
+1. Cost/Financial Management Support
+
+(a) The contractor shall support Budget Planning and Tracking, Cost
+Analysis, Risk Management, and Earned Value Management (EVM)
+processes and procedures to include, but not be limited to:
+
+(1) Developing, recommending for Government approval, and,
+following approval, maintaining program and cost tracking
+methods for Defense Acquisition Executive Summary
+(DAES) reporting requirements.
+
+(2) Identifying, developing, and recommending risk and cost
+mitigation strategies.
+
+(b) Provide support for the maintenance of key program budget/cost
+products including but not limited to:
+
+Economic Analysis updates
+
+Variance analyses
+
+Affordability Assessments
+
+Analysis of Alternatives
+
+Data Reconciliation
+
+Yearly Obligation Planning / Reporting
+
+Earned Value Assessments
+
+Periodic Reporting
+
+Research Inconsistencies and provide mitigation alternatives
+Acquisition Program Baseline
+
+Program Budget Review (PBR), DLA and Corporate
+Program and Review Process (CPRP)
+
+Page 102 of 256

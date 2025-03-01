@@ -1,0 +1,64 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+DFARS 252.215-7010 - Requirements for Certified Cost or Pricing Data and Data Other
+Than Certified Cost or Pricing Data—Basic (JAN 2023)
+
+DFARS 252.215-7011 - Requirements for Submission of Proposals to the Administrative
+Contracting Officer and Contract Auditor (JAN 2018)
+
+DFARS 252.215-7012 - Requirements for Submission of Proposals via Electronic Media
+(JAN 2018)
+
+DFARS 252.215-7014 - Exception from Certified Cost or Pricing Data Requirements for
+Foreign Military Sales Indirect Offsets (DEC 2022)
+
+DFARS 252.216-7004 - Award-Fee Reduction or Denial for Jeopardizing the Health or
+Safety of Government Personnel (SEP 2011)
+
+DFARS 252.222-7006 - Restrictions on the Use of Mandatory Arbitration Agreements
+(JAN 2023)
+
+DFARS 252.223-7004 - Drug Free Work Place (SEP 1988)
+
+DFARS 252.225-7003 - Report of Intended Performance Outside the United States and
+Canada—Submission with Offer (OCT 2020)
+
+DFARS 252.225-7004 - Report of Intended Performance Outside the United States and
+Canada—Submission after Award (OCT 2020)
+
+DFARS 252.242-7004 - Material Management and Accounting System (MAY 2011)
+DFARS 252.242-7005 - Contractor Business Systems (FEB 2012)
+
+DFARS 252.242-7006 - Accounting System Administration (FEB 2012)
+
+4. The following clauses, if applicable, apply to 100% small business set-aside task
+orders.
+
+FAR 52.219-3 - Notice of HUBZone Set-Aside or Sole-Source Award (OCT 2022)
+
+FAR 52.219-6 - Notice of Total Small Business Set-Aside (NOV 2020)
+
+FAR 52.219-27 - Notice of Service-Disabled Veteran-Owned Small Business Set-Aside
+(OCT 2022)
+
+FAR 52.219-29 - Notice of Set-Aside for, or Sole-Source Award to, Economically
+Disadvantaged Women-Owned Small Business Concerns (OCT 2022)
+
+FAR 52.219-30 — Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small
+Business Concerns Eligible Under the Women-Owned Small Business Program (OCT
+2022)
+
+FAR 52.219-33 - Nonmanufacturer Rule (SEP 2021)
+
+5. The following clauses included in Full Text, if applicable, apply to the IDIQ and
+all subsequent task orders:
+
+Section 508 Compliance
+
+All development of Electronic and Information Technology (EIT) products or services shall be
+compliant with Section 508 as imposed by 36 CFR 1194. Solutions implemented by the
+Contractor shall comply with the DLA issuance, DLA Directive (DLAD) 5025.30. When
+directed by the Government, the Contractor shall assist the Government in performing an
+
+Page 176 of 256

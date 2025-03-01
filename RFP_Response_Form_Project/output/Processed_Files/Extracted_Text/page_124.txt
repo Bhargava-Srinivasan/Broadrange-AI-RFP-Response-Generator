@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+c. Provide assistance with data management education and training
+d. Provide assistance with development and delivery of education and training materials —
+topics to include though not limited to, data as a strategic asset, data management
+
+overview, data steward training, importance of data governance
+
+e. Coordinate and facilitate the CDAO data sharing requests from ADVANA and external
+DoD/Federal Agencies and DLA customers
+
+1. Provide administrative assistance to CDAO Strategists with the development and
+maintenance of policies, procedures, and processes
+
+2. Track data sharing requests in tracking tool
+3. Support tracking tool development
+
+4. Provide workflow management support
+5. Provide customer support for requests — respond to status requests and questions
+
+6. Provide assistance coordinating, facilitating, and gathering DLA data for data
+sharing requests
+
+7. Provide assistance with preparing data sharing packaging for customer delivery
+
+f. Internal Enterprise Data Management (EDM) Governance
+
+1. Provide coordination, facilitation, and management of CDAO data governance
+and update DLA’s data governance plan
+
+(a) Develop and maintain governance charters
+
+(b) Provide assistance with EMD governance operations management (1.e.,
+establishing data governance groups, data governance coordinate action
+items among Data Governance (DG) groups, implement governance
+processes, facilitate meetings and provide notes)
+
+(c) Provide assistance with business use case development to enhance the
+proposed EDM governance framework
+
+(d) Provide assistance facilitating workgroups and meetings by walking
+through use cases against the proposed EDM framework
+
+(e) Provide assistance identifying DLA staff with assigned EDM
+responsibilities
+
+g. External Data Governance (DoD level)
+
+Page 124 of 256

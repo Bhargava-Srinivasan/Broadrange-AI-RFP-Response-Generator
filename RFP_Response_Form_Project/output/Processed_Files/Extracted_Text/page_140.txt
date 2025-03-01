@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Directive 8140.01 Cyberspace Workforce Management, DoD Instruction 8140.02
+Identification, Tracking, and Reporting of Cyberspace workforce Requirements,
+and DOD Manual 8140.03 Cyberspace Workforce Qualification and Management
+Program qualification requirements based on the job duties throughout the entire
+period of performance. The ceiling rates proposed for each LCAT should be
+inclusive of the potential work roles and the highest possible proficiency level as
+defined in the DOD Directive 8140.02.
+o The DoD Cyber Workforce Framework (DCWF) Tool 1s available online
+at: https://public.cyber.mil/wid/dewt/
+© Contractors may be required to possess a security clearance as specified in
+the task order at the designated level (Tier 5/IT-I, Tier 3/IT-U, Tier 1/IT-
+III). at time of the Task Order proposal submission.
+e Contractors shall meet Computing Environment (CE) certifications at time of the
+Task Order Proposal submission. See most current version of the DLA Cyber
+Security CE List.
+
+C.10.2 KEY PERSONNEL REQUIREMENTS
+
+Certain skilled, experienced, professional and/or technical personnel are essential for
+successful accomplishment of the work to be performed under task orders against this
+contract. These are defined as "Key Personnel" and are those persons whose resumes
+were submitted as part of the Non-Price and Price Proposals evaluation. The contractor is
+required to adhere to the requirements set forth in DLAD Procurement Notes C05.
+
+Procurement Note C05: Certain skilled, experienced, professional and/or technical
+personnel are essential for successful accomplishment of the work to be performed under
+this contract. These are defined as "key personnel" and are those persons whose resumes
+are submitted as part of the technical/business proposal for evaluation. The contractor
+shall use key personnel as identified 1n its proposal during the performance of this
+contract and will request contracting officer approval prior to any changes. Requests for
+approval of any changes shall be in writing with a detailed explanation of the
+circumstances necessitating the change. The request must contain a complete resume for
+the new key personnel and any other pertinent information, such as degrees,
+certifications, and work history. New key personnel must have qualifications that are
+equal to or higher than those being replaced. The contracting officer will evaluate the
+request and notify the contractor whether the requested change 1s acceptable to the
+Government.
+
+a. If one or more of the key personnel, for any reason, becomes or is expected to
+become unavailable for work under this contract for a continuous period
+exceeding 30 workdays, or is expected to devote substantially less effort to the
+work than indicated in the proposal or initially anticipated, the contractor shall,
+subject to the concurrence of the Contracting Officer or an authorized
+representative, promptly replace personnel with personnel that meet the minimum
+requirements of the key position and have at least equal ability and qualifications
+as the original proposed individual.
+
+Page 140 of 256

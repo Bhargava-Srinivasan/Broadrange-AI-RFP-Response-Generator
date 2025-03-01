@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+C.7 TRAVEL AND OTHER DIRECT COSTS (ODCs)
+C.7.1 TRAVEL
+
+The contractor may be required by the government to perform CONUS and OCONUS
+travel in performance of the resulting task order. Travel in support of a task order will be
+performed on a time and material (T&M), Firm Fixed Price (FFP), or Cost
+Reimbursement basis. Travel rermbursement will be in accordance with the FAR 31.205-
+46. When required, the most reasonable means of ground transportation (1.e., taxi, bus,
+car rental) shall also be used. All contractor travel must be pre-approved by the task order
+Contracting Officer Representative (COR) prior to travel. Following COR conditional
+approval, the contractor shall prepare a travel estimate in accordance with FAR 31.205-
+46 and submit the estimate via email to the COR for final approval. On occasion, short
+duration (1-5 days) site visits may be required as authorized by the Government. All
+travel related expenses (per diem, airfare, transportation etc.) will be reimbursed to the
+Contractor in accordance with FAR 31.205-46. The Contractor shall be required to
+submit travel receipts for reimbursement as outlined by the FAR 31.205-46.
+
+Contractor shall submit copies of expense reports and receipts with monthly invoices for
+payment. Upon completion of the travel contractors will provide a written trip report in
+Word format to the COR as supporting documentation to validate the reimbursable costs.
+
+The government will not retrmburse local travel and related expenses to the contractor for
+daily travel to or from work or off-site travel within the local commuting area (e.g., from
+DLA Headquarters at Fort Belvoir to the Pentagon). Travel within the local commuting
+area (25-mile radius, 50 miles round trip) of the place of performance will be
+accomplished at no additional cost to the Government and is not directly reimbursable.
+
+Any travel required to pick up or drop off government furnished equipment (GFE)
+including CAC cards, Smart Card tokens, Phones, hardware, software, etc. will be
+accomplished at no additional cost to the Government and is not directly reimbursable.
+
+The government shall establish a not to exceed value for travel under each resulting task
+order, and rermbursement for travel will be limited to this amount unless an exception 1s
+approved by the Contracting Officer. Travel is not priced at the IDIQ level.
+
+C.7.2 OTHER DIRECT COSTS (ODCs)
+
+Other Direct Costs (ODCs) are not priced at the IDIQ level. ODCs may be Firm-Fixed
+Price (FFP), Time and Materials (T&M), or Cost, which will be determined at the task
+order level. Time and Material (T&M) and FFP CLINs will be utilized for travel and
+other direct cost (ODC) expenses on Firm-Fixed Price commercial task orders, while
+Cost CLINs will be used for non-commercial task orders. The appropriate CLINS will be
+established for each individual task order, whether commercial or non-commercial.
+ODCs include incidental materials associated with services that do not exceed the micro-
+purchase threshold, such as hardware and software.
+
+Page 133 of 256

@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+If proprietary information is provided to the contractor for use in performance or
+administration of this effort, the contractor may not use such information for any other
+purpose except with the written permission of the Contracting Officer. If the contractor is
+uncertain about the availability or proposed use of information provided for the
+performance or administration, then the contractor will consult with the COR regarding
+use of that information for other purposes.
+
+The contractor agrees to assume responsibility for protecting the confidentiality of
+Government records which are not public information. Each employee of the contractor
+to whom information may be made available or disclosed shall be notified in writing by
+the contractor that such information may be disclosed only for a purpose and to the extent
+authorized herein.
+
+Performance of this effort may require the contractor to access and use data and
+information proprietary to a government agency or Government Contractor which is of
+such a nature that its dissemination or use, other than in performance of this effort, would
+result in adverse effects to the interests of the Government and/or others.
+
+Contractor and contractor personnel shall not divulge, or release data or information
+developed or obtained in performance of this effort, until made public by the
+Government, except to authorized Government personnel or upon written approval of the
+Contracting Officer. The contractor will not use, disclose, or reproduce proprietary data
+that bears a restrictive legend, other than as required in the performance of this effort.
+Nothing herein shall preclude the use of any data independently acquired by the
+contractor without such limitations or prohibit an agreement, at no cost to the
+Government, between the contractor and the data owner that provides for greater rights to
+the contractor.
+
+All data received, processed, evaluated, loaded, and/or created because of a task order
+shall remain the sole property of the Government unless specific exception is granted by
+the Contracting Officer.
+
+C.13 COMPLIANCE
+
+In providing experienced on-site program and management support, the contractor’s
+future performance and work products shall comply and be consistent with, at a
+minimum, the following Federal and Department of Defense (DOD) laws, regulations,
+directives, and guidance:
+e All DOD financial and business regulations, all industry specific requirements
+including compliance with the Federal Financial Management Improvement Act,
+Office of Management & Budget (OMB) Circulars A-123, A-127, A-130, and the
+Clinger Cohen Act
+e DOD Business Enterprise Architecture Global Combat Support System (GCSS),
+the Global Information Grid (GIG), and Net-Centric Data Strategy and OMB
+Circular A-130 and DOD Architecture Policy
+e Sarbanes Oxley Act of 2002
+
+Page 143 of 256

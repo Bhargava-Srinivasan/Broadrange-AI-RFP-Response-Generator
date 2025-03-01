@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+to track, and a list of activities and deliverables completed during the preceding month.
+The format will be provided in each Task Order Performance Work Statement.
+
+F.2.2 The following documents may be required on a continuous, ongoing, every day
+basis: Overarching Detailed Integrated Plan of Actions and Milestones (POAM), EBS
+Program Schedule and Critical Path Method (CPM) Networks, EBS Work Breakdown
+Structure (WBS), Budget Execution Report, Earned Value Analyses, EBS DAES
+Reports, EBS PEO Summary Report, EBS IT 300, Project Assessment, Project Schedule
+Analysis, Decision Support System (DSS) Functional Priority List, Action Item Report,
+Invoice Validation, Proposal Evaluation, Funding Document Processing are examples of
+possible deliverables.
+
+F.2.3 The contractor shall provide electronic copies of deliverables. Electronic copies
+shall be delivered via e-mail attachment or other media by mutual agreement of the
+parties. The electronic copies shall be compatible with Microsoft (MS) Office 2021 or
+other applications as appropriate and mutually agreed to by the parties. The contractor
+shall use best commercial practices for formatting deliverables under this contract. If the
+draft deliverable is adequate, the Government may accept the draft and provide
+comments for incorporation into the final version. All of the Government's comments to
+deliverables must either be incorporated in the succeeding version, or the contractor must
+demonstrate to the Government's satisfaction why such comments should not be
+incorporated.
+
+F.3 MONITORING AND SURVEILLANCE
+
+In fulfillment of this effort, the contractor shall provide the deliverables identified in
+individual task orders. All deliverables shall be submitted to the task order Contracting
+Officer’s Representative (COR) unless otherwise directed by the COR.
+
+The COR will review deliverables, provide comments back to the contractor, and approve
+or disapprove the deliverable(s).
+
+F.3.1 PERFORMANCE REQUIREMENTS SUMMARY
+
+Performance measures will be used to assess the contractor’s performance under each
+task order awarded against the resultant IDIQs in order to determine whether the
+contractor 1s performing at required levels. Performance measures specific to the services
+required under each task order will be defined under the individual task orders.
+
+The Government will make objective and subjective assessments of the contractor’s
+performance to determine whether contract performance is acceptable. The contractor is
+expected to perform all functions 1n a professional manner and prepare accurate and
+timely documentation. Progress will normally be tracked based on the milestone event
+when the contractor receives a specific tasking. Performance may vary with the
+
+Page 146 of 256

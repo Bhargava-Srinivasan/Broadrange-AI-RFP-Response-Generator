@@ -1,0 +1,46 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+9. The contractor shall support creation and maintenance of program CCWG
+charters and CM related procedures.
+
+10. The contractor shall support the DLA Enterprise CM Plan, CCSG and program
+CCWG implementation actions and reporting requirements.
+
+11. The contractor shall provide support in maintaining control and visibility of
+customer functional and technical requirements for the program.
+
+12. The contractor shall support program information, system program reviews,
+system design reviews, system audits and system tests.
+
+e. Systems Engineering Support
+
+The contractor shall support the Systems Engineers and programs/projects in meeting the
+Defense Acquisition Guidebook’s Systems Engineering Technical and Technical
+Management processes, to include, but not limited to, the following activities:
+
+1. Stakeholder Requirements Management
+The contractor shall:
+
+(a) Provide ongoing System Engineering (SE) expertise and support to the SE
+Working Integrated Product Teams (WIPTs) and/or other SE related
+meetings.
+
+(b) Provide Systems Engineers/Program Managers (PM) updates on System
+Integrator (SI) implementation progress, technical review entrance/exit
+criteria, CM assessment criteria and general SE matters as it supports the
+PM's decision-making process.
+
+(c) Assist in the requirements definition process to elicit inputs from relevant
+stakeholders and translate the inputs into technical requirements including
+performance parameter objectives and thresholds, affordability constraints,
+schedule constraints, and technical constraints.
+
+2. Technical Planning
+The contractor shall:
+(a) Create/maintain program System Engineering Plans (SEP), System
+
+Engineering Management Plan (SEMP), and other SE related
+documentation.
+
+Page 105 of 256

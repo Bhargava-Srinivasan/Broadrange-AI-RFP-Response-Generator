@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+100% physical inventory of all IT equipment
+
+100% inventory matches the final spreadsheet
+
+100% inventory matches all Enterprise Asset systems
+Applications listing sent to DLA CyberSwat (formerly
+Information Technology Management Registry (DITMR))
+
+b. Applications and Systems Deployment Coordination Support
+
+1. Deployment coordination functions include supporting the designated application
+or infrastructure systems migrations to objective locations.
+
+(a) These activities include but are not limited to:
+
+(1) Set-Up/Facilitate/Produce Minutes & Artifacts for Change
+Implementation Plan (CIP)/Deployment Plans with POCs
+
+(2) Send Calendar Invite for Go Live Date/Time
+
+(3) Attend all Configuration Control Working Group (CCWG)
+Meetings
+
+(4) Review and track Enterprise Change Requests (ECRs)
+
+(5) Track Post Deployment Actions to Closure to include removal and
+decommission of all IT assets
+
+(6) Maintain Site Inventory Tracking Worksheet where applicable
+c. Systems Decommissions Coordination
+
+1. Decommissioning coordination functions include coordinating assigned
+equipment decommissioning change requests and updating inventory records.
+
+(a) These activities include but are not limited to:
+(1) Create Enterprise Change Requests (ECRs)/Track to Closure
+
+(2) Validate Virtual Decommission Complete with Virtualization
+Scope List
+
+(3) Validate Physicals Decommission Complete with On Site Scope
+Validation List
+
+Page 128 of 256

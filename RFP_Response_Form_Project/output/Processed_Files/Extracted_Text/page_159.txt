@@ -1,0 +1,46 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+offered in response to an RFQ do not exceed the established Hourly Labor
+Rate Table ceiling rates.
+
+H.4 ORGANIZATIONAL CONFLICT OF INTEREST:
+
+The provisions of FAR Subpart 9.5, Organization and Consultant Conflicts of Interest,
+concerning organizational conflicts of interest govern task orders issued under this
+contract. Potential conflicts may exist in accordance with FAR 9.505-1, Providing
+Systems Development and Engineering and Technical Direction, through 9.505-4,
+Obtaining Access to Proprietary Information. The contractor is responsible for
+identifying any actual or potential organizational conflict of interest to the Contracting
+Officer that would arise as the result of the issuance of a task order under this contract.
+The Contracting Officer will determine on a case-by-case, task order by task order, basis
+whether a conflict of interest 1s likely to arise. To avoid or mitigate a potential conflict,
+the task order Contracting Officer will impose appropriate constraints, such as the
+following:
+
+a. The contractor agrees that if it provides, under a contract or task order, systems
+engineering and technical guidance for systems and programs, but does not have
+overall contractual responsibility, it will not be allowed to be awarded a contract
+or task order to supply the system or any of its major components or be a
+subcontractor or consultant to a supplier of the system or any of its major
+components (FAR 9.505-1).
+
+b. The contractor agrees that if 1t prepares specifications for non-developmental
+items or assists in the preparation of work statements for a system or services
+under a contract or task order, it will not be allowed to furnish these items, either
+as a prime contractor, a subcontractor or as a consultant (FAR 9.505-2).
+
+c. The contractor agrees that if it gains access to proprietary data of other
+companies, it will protect such data and it will not use such proprietary data in
+supplying systems or components in future competitive procurements (FAR
+9.505-4). In addition, the contractor agrees to protect the proprietary data and
+rights of other organizations disclosed to the contractor during performance of
+any task order with the same caution that a reasonably prudent contractor would
+use to safeguard highly valuable property. The contractor also agrees that if it
+gains access to the proprietary information of other companies, it will enter into
+an agreement with the other companies to protect their information from
+unauthorized use or disclosure for as long as it remains proprietary and refrain
+from using the information for any purpose other than that for which it was
+furnished.
+
+Page 159 of 256

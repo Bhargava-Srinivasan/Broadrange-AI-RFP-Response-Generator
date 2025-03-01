@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+b. All requests for approval of key personnel substitutions must be in writing and
+provide a detailed explanation of the circumstances necessitating the proposed
+substitutions. The request must contain a resume for the proposed substitute, and
+any other information requested by the Contracting Officer. The Contracting
+Officer shall promptly notify the contractor of approval or disapproval 1n writing.
+
+c. If the Contracting Officer determines that suitable and timely replacement of
+Key Personnel who have been reassigned, terminated or have otherwise become
+unavailable for the contract work is not reasonably forthcoming or not meeting
+task order requirements as to impair successful completion of the contract, the
+Contracting Officer may terminate the contract for default or for the convenience
+of the Government, as appropriate, or make an equitable adjustment to the
+contract to compensate the Government for any resultant delay, loss or damage.
+
+d. All Labor Categories are subject to being Key Personnel and will be defined at
+the Task Order level in which case the contractor will be required to submit
+resumes for that labor category and adhere to all applicable Key Personnel clauses
+for that specific task order.
+
+e. Resumes and required certifications must be submitted for all Key Personnel
+and all personnel proposed as Key Personnel substitutions (1.e., alternative labor
+categories).
+
+C.10.3 NON-KEY PERSONNEL POSITIONS
+
+Personnel positions will be identified as Non-Key Personnel at the Task Order level.
+Submission of resumes for Non-Key Personnel positions are not required.
+
+In situations that may arise for specific purposes (ex: IT access, government site access):
+
+The Government reserves the right to review non-Key resumes prior to
+onboarding.
+
+The Government reserves the right to reyect non-Key personnel that do not meet
+the minimum requirements listed.
+
+If the necessary access credentials are not met, the Government reserves the right
+to bar personnel from accessing government systems, property information, and
+locations.
+
+C.11 PRIVACY ACT REQUIREMENTS
+
+FAR 52.224-1 (Privacy Act Notification) and FAR 52.224-2 (Privacy Act) are included
+in this solicitation by reference. If the contractor is required to design, develop, or
+operate a system of records on individuals to accomplish an agency function, then the
+contractor is subject both to the Privacy Act of 1974 as amended (5 U.S.C. 552a), the
+Defense Logistics Agency privacy program regulation (32 CFR 323), and the Department
+of Defense Privacy Regulation (32 CFR 310). Contractor personnel with access to
+
+Page 141 of 256

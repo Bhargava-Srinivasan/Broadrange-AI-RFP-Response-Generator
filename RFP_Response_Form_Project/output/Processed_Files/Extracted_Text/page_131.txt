@@ -1,0 +1,53 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) J611A/Compliance Management and IT Operations Support
+Services (CMITOSS) meetings
+
+(b) J64 EIS TFS/NTS Configuration Control Working Group (CCWG)
+Meetings
+
+(c) J64D EH Migration Meetings representing Application and
+Infrastructure Hosting Sustainment
+
+(d) J64 TFS or Jo4D EH Ad Hoc Meetings
+f. Provide Datacenter Configuration / Migration Support
+
+1. The contractor shall attend Jo4D EH Migration meetings providing J62
+Project/Program Managers with necessary assistance concerning the operation of
+the Sustainment environment.
+
+2. The contractor shall support DLA J62 application and J64 operations teams in the
+transition to the DLA hosting environments, applications and supporting
+infrastructure.
+
+3. The contractor shall coordinate and provide technical support, for new operating
+environments (OEs) and infrastructure builds.
+
+g. Provide Hosting Environment Configuration / Migration Documentation Support
+
+1. The contractor shall develop or assist in the development of System Life-Cycle
+Documentation (SLCD) necessary to support the PMO support services identified
+earlier in this task.
+
+2. The contractor shall provide technical writing expertise while creating supportive
+documentation. The contractor shall maintain existing SLCD in accordance with
+regulations for review, update, and reissue timelines.
+
+h. Required documentation artifacts may include, but are not limited to:
+
+System Security Plans (SSP)/Security Concept of Operations (CONOP)
+Configuration Management Supplements
+
+Configuration Item (CI) Inventories
+
+Information System Contingency Plan (ISCP) and/or Continuity of Operations
+(COOP) Plans
+
+ISCP/COOP Exercise plans
+
+e ISCP/COOP Exercise After Action Reports
+
+e Risk Analysis and Assessment (RA&A)
+
+Page 131 of 256

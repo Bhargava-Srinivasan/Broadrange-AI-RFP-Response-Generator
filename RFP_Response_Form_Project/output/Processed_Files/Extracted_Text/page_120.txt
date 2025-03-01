@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+1. The contractor shall maintain the Technical Infrastructure Architecture (TIA)
+systems database. The contractor shall provide quarterly change reports reflecting
+changes in the information and ad hoc reports based on specific inquiries. The
+contractor shall manage the TIA tools in accordance with DOD and DLA
+information policies.
+
+2. The contractor shall provide support for the Risks and Controls Management
+Program (RCM). The RCM (also known as the Management Internal Control
+program) is a program that prepares a Statement of Assurance (SOA) of the J6
+Chief Information Officer/Director, Information Operations (J6). The SOA
+represents the agency’s informed judgment as to the overall adequacy and
+effectiveness of internal control with the agency. The contractor’s task may
+include:
+
+(a) Preparing the initiation and overview material for dissemination to J6
+Enterprise Service Areas (ESA) and annual compliance testing.
+
+(b) Prepare templates for use by the ESA to describe and define their critical
+control activities.
+
+(c) Maintain a schedule of testing performed by the ESAs to validate their
+internal controls.
+
+(d) Consolidate all test results and feedback into the appropriate documentation
+for the SOA, which include Internal Controls Over Financial Systems
+
+(ICOFS).
+
+(e) Support the development of the SOA/ICOFS submission and supporting
+materials in accordance with DLA requirements.
+
+3. The contractor shall manage and maintain the J6 Risk Management profile, which
+includes both Enterprise-wide and specific risks focused on organizational or
+
+operational areas. The contractor’s task may include:
+
+(a) Collecting and reporting to DLA management the current risks with risk
+mitigation POAMs.
+
+(b) Developing and delivering supporting briefings that define the J6 Risk
+Management profile.
+
+(c) Providing risk mitigation recommendations for J6 risks.
+
+4. The contractor shall prepare and deliver audit readiness and sustainment training
+material relevant to DLA Audit Readiness.
+
+Page 120 of 256

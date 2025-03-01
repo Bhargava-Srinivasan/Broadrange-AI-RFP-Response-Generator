@@ -1,0 +1,51 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+resignations, reassignments, terminations, or completion of portions of the task order,
+contractor personnel no longer require access to Government computers.
+
+g. Contractor personnel are only authorized to attend meetings, town halls, etc. as they
+relate to the performance of the tasks outlined in the task order PWS.
+
+h. All invoices will be delivered to the task order COR for certification for payment.
+C.9.1 COMMON ACCESS CARD (CAC) PROCEDURES
+
+Performance under this contract may require the contractor to obtain a Common Access
+Card (CAC). If CACs are issued under this contract, the contractor will complete and
+comply with the following steps to obtain, control, and turn-in Government-issued CACs,
+as well as establish procedures to always control and account for contractor CACs. This
+process is only for the issuance and accountability of CACs. Contractors may be required
+to provide additional forms and follow additional procedures for other forms of access
+and/or background/security checks depending on local site/installation requirements.
+
+Common Access Card (CAC) Procedures
+
+1. The contractor has each contractor employee requiring a CAC complete DLAH
+Form 1728 in accordance with Enclosure 3; 2a. Note: Contractors do not
+complete blocks 11, 14, 15.a. or 15.b.; these are completed by the COR.
+
+2. The contractor shall hand carry the DLAH 1728 form(s) or sends via secure
+mail, or encrypted email to (NOTE: The contractor may forward these forms
+individually or as a group to):
+
+a. The Contracting Officer’s Representative (COR) for the contract if a
+COR was designated.
+
+b. The Contracting Officer (KO) for the contract if no COR was
+designated.
+
+3. Each contractor employee shall verify their account information upon receipt of
+an email from the Government containing a username and password for the
+Trusted Associate Sponsorship System (TASS). The web link for TASS 1s
+included in the email.
+
+4. Each contractor employee will receive an email via TASS when their account
+has been approved. The email shall notify the employee to obtain a Government-
+issued CAC from the nearest Real-Time Automated Personnel Identification
+System (RAPIDS) office. The email will also provide a link that identifies the
+locations of RAPIDS offices.
+
+5. Each contractor employee shall obtain their issued CAC from the RAPIDS
+office.
+
+Page 135 of 256

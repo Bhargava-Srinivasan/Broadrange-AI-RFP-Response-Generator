@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+6.
+
+10.
+
+Technical Data Management
+The contractor shall:
+
+(a) Assist the Government in ensuring that SE discipline is applied to the
+policies, procedures, and information technology to plan for, acquire,
+access, manage, protect, and use data of a technical nature to support the
+total lifecycle of the system.
+
+Requirements Management
+
+The contractor shall:
+
+(a) Review the definition, loading and approval of requirements by the
+Functional community and Program Office.
+
+(b) Monitor the System Integrator (SI) progress in implementing and
+ultimately validating the program requirements through the Testing phase.
+
+(c) Document all requirements changes and the rationale for those changes
+(via the configuration management process).
+
+(d) Account for the traceability of system requirements throughout the
+software development lifecycle and confirm at each technical review.
+
+Requirements Analysis
+The contractor shall:
+
+(a) Support the definition and refinement of system, subsystem, and lower-
+level functional and performance requirements and interfaces to facilitate
+the Architecture Design process.
+
+(b) Support the development of measurable and verifiable requirements.
+
+Architecture Design
+The contractor shall:
+
+(a) Assist the Government in ensuring that SE discipline is applied to the
+translation of the Stakeholder Requirements Definition and Requirements
+Analysis processes into alternative design solutions and the selection of a
+
+final solution.
+
+Implementation
+
+Page 107 of 256

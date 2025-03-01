@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+complexity of the acquisition and/or technical document. It is expected that the
+documentation and procedures will comply with all major regulatory and process
+requirements and agency policies and procedures.
+
+F.3.2 METHOD OF SURVEILLANCE
+
+The Government will ensure quality assurance and timeliness of all tasks via COR
+Inspections and Customer Feedback. The Government will normally inspect and
+evaluate performance of each completed task or deliverable required in the task order
+PWS.
+
+F.3.2.1 INSPECTION AND ACCEPTANCE CRITERIA
+Actual deliverable requirements will be detailed under resultant Task Order(s).
+
+Final inspection and acceptance of all work performed, reports and other
+deliverables will be performed at the place of delivery by the COR. All
+deliverables will be inspected for content, completeness, accuracy, legibility and
+conformance to contract requirements by the COR. At the discretion of the COR,
+inspection may include validation of information or software through the use of
+automated tools and/or testing of the deliverables, as specified in the task order
+PWS.
+
+If the COR finds that a draft or final deliverable contains spelling errors,
+grammatical errors, improper format, or otherwise does not conform to the
+requirements stated within the contract SOW and/or task order PWS, the
+document may be immediately rejected without further review and returned to the
+contractor for correction and re-submission. If the contractor requires additional
+Government guidance to produce an acceptable draft, the contractor shall arrange
+a meeting with the COR.
+
+The basis for acceptance shall be compliance with the requirements set forth in
+this SOW and/or the task order PWS, the contractor's proposal and other terms
+and conditions of the contract. Deliverable items rejected shall be corrected in
+accordance with the applicable clauses. Reports and document deliverables will
+be accepted when all discrepancies, errors or other deficiencies identified in
+writing by the COR have been corrected to the Government’s satisfaction.
+
+F.3.2.2 SURVEILLANCE SCHEDULE/STAFF
+The specified checks and measures will be completed on daily, weekly and
+
+monthly schedules depending on the task. Specific surveillance schedules for
+tasks will be designated in task orders.
+
+Page 147 of 256

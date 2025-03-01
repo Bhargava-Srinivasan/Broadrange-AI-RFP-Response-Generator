@@ -1,0 +1,64 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+5.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+The contractor shall review, update, and maintain the DLA IT Audit Readiness
+Communication Plan and deliver methods to enable DLA to effectively
+communicate system audit readiness requirements, schedule, and approach across
+the DLA enterprise and with customers.
+
+The contractor shall coordinate and support the management of all DLA system
+related corrective action plans.
+
+The contractor shall manage and update DLA System Assertion Work Products in
+alignment with OSD Financial Improvement Audit Readiness (FIAR) Guidance.
+
+The contractor shall evaluate the System PMOs’ audit readiness preparedness
+using the OSD FIAR Guidance and applicable DLA targeted assertion dates
+monthly and provide DLA a synopsis as to the status.
+
+The contractor shall review and update “Other” DLA Systems and Micro
+Applications, as defined by OSD FIAR, to determine criticality against DLA and
+customer assertion requirements.
+
+The contractor shall provide pre-implementation assessments of system upgrades
+for systems or micro applications.
+
+The contractor shall support the identification and transition of DLA information
+sources supporting audit readiness and the sustainment of the audit environment.
+
+The contractor shall develop, recommend, and following approval, maintain the J6
+Audit Readiness Plan which outlines all activities with owner and or executor
+relevant to J6 preparing itself for DLA’s Annual Financial Statement Audits.
+
+The contractor shall support DLA’s Access, Monitoring, and Verification (AMV)
+activities that include Segregation of Duties (SoD) business rules and Enterprise
+Process Documentation (EPD) analysis. This support shall help ensure
+completeness, identification of potential risk, and alignment with DLA Audit
+Readiness efforts.
+
+The contractor shall provide support and guidance, subject to Government
+approval, to J6 audit readiness and system personnel for audit engagements, which
+may include SSAE16 independent audits. This support shall include reviewing
+requirements and providing DLA with recommended solutions with risk
+considerations.
+
+The contractor shall identify the scope of controls applicable to J6’s annual system
+compliance testing in accordance with Office of Management & Budget (OMB)
+Circular A-123, and DLA’s automated control requirements which include
+business process controls and interfaces. This support shall include the discovery,
+
+Page 121 of 256

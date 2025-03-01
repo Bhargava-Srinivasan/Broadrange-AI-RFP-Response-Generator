@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+FAR 52.216-19 - Order Limitations (OCT 1995)
+
+(a) Minimum order. When the Government requires supplies or services covered by this
+contract in an amount of less than $500, the Government 1s not obligated to purchase, nor is the
+Contractor obligated to furnish, those supplies or services under the contract.
+
+(b) Maximum order. The Contractor 1s not obligated to honor-
+(1) Any order for a single item in excess of $999,999,999, 99;
+(2) Any order for a combination of items 1n excess of $999,999,999.99; or
+
+(3) A series of orders from the same ordering office within 7 days that together call for
+quantities exceeding the limitation in paragraph (b)(1) or (2) of this section.
+
+(c) If this 1s a requirements contract (i.e., includes the Requirements clause at
+subsection 52.216-21 of the Federal Acquisition Regulation (FAR)), the Government is not
+required to order a part of any one requirement from the Contractor if that requirement exceeds
+the maximum-order limitations in paragraph (b) of this section.
+
+(d) Notwithstanding paragraphs (b) and (c) of this section, the Contractor shall honor any
+order exceeding the maximum order limitations in paragraph (b), unless that order (or orders) is
+returned to the ordering office within 5 days after issuance, with written notice stating the
+Contractor’s intent not to ship the item (or items) called for and the reasons. Upon receiving this
+notice, the Government may acquire the supplies or services from another source.
+
+(End of clause)
+
+FAR 5§2.216-22 - Indefinite Quantity (OCT 1995
+
+(a) This 1s an indefinite-quantity contract for the supplies or services specified, and effective
+for the period stated, in the Schedule. The quantities of supplies and services specified in the
+Schedule are estimates only and are not purchased by this contract.
+
+(b) Delivery or performance shall be made only as authorized by orders issued in
+accordance with the Ordering clause. The Contractor shall furnish to the Government, when and
+if ordered, the supplies or services specified in the Schedule up to and including the quantity
+designated in the Schedule as the "maximum." The Government shall order at least the quantity
+of supplies or services designated in the Schedule as the "minimum."
+
+(c) Except for any limitations on quantities in the Order Limitations clause or in the
+Schedule, there 1s no limit on the number of orders that may be issued. The
+Government may issue orders requiring delivery to multiple destinations or performance at
+multiple locations.
+
+Page 188 of 256

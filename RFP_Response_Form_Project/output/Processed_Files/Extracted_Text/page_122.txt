@@ -1,0 +1,55 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+scheduling and testing of controls identified as in scope and may include both
+system-level and Entity-wide controls.
+
+16. The contractor shall assist in reviewing and updating MOUs related to audit
+readiness and follow the DLA Audit Readiness Guidance.
+
+17. The contractor shall review the DISA (infrastructure) provided controls, report
+whether controls are in-place and operating effectively and identify omitted
+controls that should be added to the DISA MOU. In addition, the contractor shall
+support the development of the DLA/DISA Audit Readiness MOU utilizing the
+approved DLA MOU template to ensure responsibilities between stakeholders are
+accurately described and the agreement contains the proper audit readiness
+language.
+
+18. The contractor shall support the development and sustainment of system
+management assertion packages by ensuring all updates are timely and accurate,
+coordinate approval within DLA, and confirm documents are loaded to the
+OSD(C) FIAR website utilizing the FIAR Tool.
+
+C.4.10 TASK AREA 10 — Cloud Hosting Services
+
+a.
+
+The contractor shall provide Cloud Hosting Services to support the full lifecycle for the
+range of solutions and services supporting DLA’s Business, Operations and Logistics
+System, including meeting all Federal, DoD, and DLA Security Laws, Rules, Policies,
+Guidance, and Instructions.
+
+The contractor shall provide the capability to integrate cloud environments with DLA
+enterprise services, to include, but not limited to DLA’s Enterprise Cybersecurity
+Security Tools and Utilities, DLA’s Management Tools and Utilities and DLA’s Support
+Tools and Utilities.
+
+The contractor shall provide the capability to secure and enable enhanced cyber defenses
+throughout the Open System Interconnection (OSI) Model layers with improved
+capabilities including continuous monitoring and auditing, automated threat
+identification, resiliency against persistent adversary threat, and an operating
+environment that meets or exceeds DoD information security requirements.
+
+The contractor shall provide the capability to meet or exceed the DoD Secure Cloud
+Computing Architecture (SCCA) Functional Requirements Document (FRD).
+
+The contractor shall provide the capability to meet or exceed the Cloud Computing
+Security Requirements Guide (SRG).
+
+The contractor shall meet the appropriate FedRAMP and DoD Provisional Authorization
+requirements based on the appropriate data impact level (1.e., [L2, IL4, ILS, IL6).
+
+The contractor shall provide the government access to the required FedRAMP Artifacts at
+the time of Task Order Award.
+
+Page 122 of 256

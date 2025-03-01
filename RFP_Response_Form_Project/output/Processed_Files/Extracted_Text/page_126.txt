@@ -1,0 +1,47 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+5. Provide assistance determining and assigning data owners (stewardship) for
+enterprise data assets
+
+6. Provide assistance with data maintenance (quality)
+
+k. Provide assistance with development of DLA target data architecture
+
+1. Determine DLA data domains (e.g., researching and identifying the collection of
+values that a data element may contain.)
+
+2. Develop DoDAF reference models, conceptual data model (DOV-1), logical data
+model (DIV-2)
+
+3. Provide assistance aligning existing data stores to data domains — systems of
+record by domain identified for target architecture
+
+|. Provide assistance with executing DLA’s Artificial Intelligence and Machine Learning
+mission
+
+1. Gather requirements and model documentation
+
+2. Organize meetings and provide technical support as needed
+
+m. Provide assistance improving supply chain management and distribution logistics
+operations
+
+1. Support the Analytics Center of Excellence (ACE) to develop timely and effective
+logistics policies
+
+2. Provide assistance developing and maintaining specified data measurement and
+reporting functionalities
+
+3. Identify and build the business cases for business reengineering opportunities
+4. Provide qualitative analytical methodology and strategic planning support
+5. Provides Quantitative analytical methodology and strategic planning support
+n. Provide expertise and experience with automated system while executing administrative
+tasks involved with the DLA Freedom of Information Act (FOJA) and Privacy Act
+mission’s intake process.
+1. Receive and interpret incoming requests, recommend processing action, and draft
+
+response letters and other FOIA/Privacy Act correspondence for government
+review and approval.
+
+Page 126 of 256

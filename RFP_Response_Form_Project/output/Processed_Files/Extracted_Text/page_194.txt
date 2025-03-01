@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+FAR 52.233-2 - Service of Protest (SEPT 2006)
+
+(a) Protests, as defined in section 33.101 of the Federal Acquisition Regulation, that are filed
+directly with an agency, and copies of any protests that are filed with the Government
+Accountability Office (GAO), shall be served on the Contracting Officer (addressed as follows)
+by obtaining written and dated acknowledgment of receipt from:
+
+Charles Fitzsimmons, Jr.
+
+DLA Contracting Services Office — Philadelphia (DCSO-P)
+700 Robbins Avenue, Building 6D435
+Philadelphia, PA 19111
+
+(b) The copy of any protest shall be received in the office designated above within one day
+of filing a protest with the GAO.
+
+(End of provision)
+
+DFARS 252.232-7006 - Wide Area Work Flow Payment Instructions (JAN 2023)
+
+(a) Definitions. As used in this clause—
+
+“Department of Defense Activity Address Code (DoDAAC)” ts a six position code that
+uniquely identifies a unit, activity, or organization.
+
+“Document type” means the type of payment request or receiving report available for creation
+in Wide Area WorkFlow (WAWE).
+
+“Local processing office (LPO)” is the office responsible for payment certification when
+payment certification is done external to the entitlement system.
+
+‘Payment request” and “receiving report” are defined in the clause at 252.232-7003 ,
+Electronic Submission of Payment Requests and Receiving Reports.
+
+(b) Electronic invoicing. The WAWFE system provides the method to electronically process
+vendor payment requests and receiving reports, as authorized by Defense Federal Acquisition
+
+Regulation Supplement (DFARS) 252.232-7003 , Electronic Submission of Payment Requests
+and Receiving Reports.
+
+(c) WAWF access. To access WAWF, the Contractor shall—
+
+(1) Have a designated electronic business point of contact in the System for Award
+Management at https://www.sam.gov and
+
+(2) Be registered to use WAWFE at https://wawf.eb.mil/ following the step-by-step
+procedures for self-registration available at this web site.
+
+Page 194 of 256

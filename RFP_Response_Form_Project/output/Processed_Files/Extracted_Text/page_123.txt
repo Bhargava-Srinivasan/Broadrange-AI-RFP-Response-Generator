@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+h. The contractor shall ensure the CSSP has been engaged and CSSP services will be
+provided by a certified DoD provider.
+
+1. For Services that are charged by usage, the Contractor shall provide full disclosure of the
+costs at a minimum interval of monthly for all Cloud Services broken out by Service, rate
+by unit, unit of measure, and actual usage.
+
+C.4.11 TASK AREA 11 — Data and Information Governance Analytics Services
+
+The Chief Data and Analytics Officer’s (CDAO) primary goal is to derive value from data.
+Recognizing and managing data as a DLA strategic asset is foundational to accomplishing this
+goal. More specifically, understanding data in support of the overall DLA Enterprise Strategy, its
+corresponding business goals, and leveraging (e.g., analyzing) that data in new and innovative
+ways. These essential goals require the CDAO to set policy and develop data
+frameworks/guidelines, while giving the mission business lines the flexibility to analyze and
+visualize data in ways that meet their specific needs. The contractor shall provide technical
+support to the Office of the Chief Data and Analytics Officer (J6D). Specific domain
+expertise/knowledge areas include but are not limited to Enterprise Data Management (EDM),
+Data Governance, Freedom of Information Act (FOIA), Privacy, Records and Information
+Management (RIM), Artificial Intelligence (AI), and Machine Learning (ML). The contractor
+shall:
+
+a. Provide administrative support to the CDAO Strategists with the development and
+maintenance of CDAO strategic documentation, policies, procedures, and processes.
+
+1. Coordinate and facilitate working groups through development
+
+2. Promote workforce acceptance and understanding of strategic documentation
+developed by the Office of the CDAO Strategists.
+
+3. Support government personnel during scheduled government-led training sessions
+on use of strategy, policy, procedures, and processes
+
+b. Provide assistance with development and management of the CDAO organizational
+change management (OCM)
+
+1. Develop Enterprise Data Management communications plan
+
+2. Provide assistance with organizational change management procedures and
+processes
+
+3. Develop organization-wide work products
+
+4. Coordinate and assist with execution of communications plan
+
+Page 123 of 256

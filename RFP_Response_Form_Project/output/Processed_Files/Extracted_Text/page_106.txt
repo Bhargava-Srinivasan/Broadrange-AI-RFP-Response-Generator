@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(b) Assist in the planning of technical processes to develop, field, and sustain
+the system in compliance with the DOD 5000 Series guidance and other
+DOD regulations, and industry best practices.
+
+(c) Assist the Government in ensuring that SE processes are applied
+throughout the system’s lifecycle.
+
+(d) Support process development/improvements and related documentation
+for SE processes.
+
+3. Decision Analysis
+The contractor shall:
+
+(a) Recommend, implement, and monitor SE processes, procedures, methods,
+and tools to ensure that decision analysis has identified, represented, and
+formally assessed the alternative options to select an optimum decision.
+
+4. Technical Assessment
+The contractor shall:
+
+(a) Perform periodic program/project technical assessments evaluating
+program status, technical progress, work product quality, and schedule and
+cost management.
+
+(b) Support Engineering Technical Review (e.g., System Requirements
+Review (SRR), Preliminary Design Review (PDR) and, Critical Design
+Review (CDR) Entrance and Exit criteria. Work with the Program
+Management Office (PMO) and SI to communicate expectations and
+successfully achieve Entrance and Exit criteria prior to each review.
+
+5. Configuration Management related to the System Engineering process
+
+The contractor shall:
+
+(a) Establish and control product attributes and the technical baseline across
+the total system lifecycle.
+
+(b) Identify, document, audit, and control the functional and physical
+characteristics of the system design; track any changes; provide an audit
+trail of program design decisions and design modifications.
+
+(c) Provide oversight review and support of Configuration Control Steering
+
+Group (CCSG) and Configuration Control Working Group (CCWG)
+activities and processes.
+
+Page 106 of 256

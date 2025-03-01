@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(a) Provide support to confirm that adequate verification processes exist to
+ensure that the system element meets the design or build specifications as
+defined in the functional, allocated, and product baselines.
+
+(b) Assist the Government in ensuring that the following verification activities
+occur throughout the lifecycle, and are phase appropriate: verification
+planning, verification execution, and verification reporting.
+
+15. Validation
+The contractor shall:
+
+(a) Investigate and document that validation processes exist to confirm that
+the correct solution was selected to solve the stated problem.
+
+(b) Ensure that SE processes support user and functional community input and
+solution validation/acceptance.
+
+16. Deployment
+The contractor shall:
+
+(a) Assist the Government in deploying the solution to the end users. The
+contractor shall provide on-site support to install the solution and train
+the users.
+
+f. Enterprise Architecture Support
+
+Enterprise Architecture (EA) 1s an explicit description and documentation of the current
+(as-is) and desired (to-be) relationships among DLA business and management processes
+and the IT that supports those processes. It also includes a roadmap to migrate the
+agency from the current to the target Enterprise Architecture. Enterprise refers to DLA,
+recognizing that the agency exists within the larger Department of Defense (DOD) and
+Federal enterprises. The DLA EA includes all Agency mission areas, administrative
+functions, systems, and technical infrastructure, as well as external interfaces. The DLA
+EA 1s comprised of six components of architecture: 1) Business Architecture, 2)
+Information and Data Architecture, 3) Applications Architecture, 4) Infrastructure
+Architecture, 5) Cybersecurity Architecture, and 6) Technology Services Architecture.
+Each component will need to be defined to reflect DLA enterprise current and future
+architecture. The defined architecture will need to be documented in architectural
+products that comply with the DOD Framework (current version).
+
+The contractor shall provide support for the following tasks:
+
+1. Support DOD Business Enterprise Architecture (BEA) compliance
+requirements.
+
+Page 109 of 256

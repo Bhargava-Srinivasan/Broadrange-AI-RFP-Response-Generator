@@ -1,0 +1,50 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(3) Collecting and integrating data elements and associated
+metadata used within DLA.
+
+(4) Developing, recommending, and implementing procedures for
+populating and managing a data / metadata repository.
+
+(5) Developing, recommending, and implementing mechanisms
+for data artifact browsing and retrieval as required to support
+DLA and DOD data management and data usage policies and
+procedures, to include development and implementation of
+the Net-centric Enterprise Services standards and capabilities,
+and the DOD Metadata Repository capability.
+
+(6) Identifying enhancements to life-cycle documentation and
+recommending changes to organizational roles and
+responsibilities to enable data governance and accomplish
+compliance monitoring.
+
+(7) Proposing communications activities designed to increase
+awareness of and adherence to data management goals,
+policies, and procedures.
+
+(c) This data strategy implementation effort shall be carried out in
+collaboration with members of the DLA stewardship organization and
+is likely to require liaison and collaboration with Government and other
+contractor personnel who manage various DLA programs, systems, and
+applications and oversee DLA policy development and implementation.
+
+3. Support the DLA data stewardship working groups.
+(a) Provide administrative support by facilitating the activities for working
+groups, scheduling meetings, developing agendas for approval,
+collecting and distributing materials for presentations, and capturing
+
+and publishing minutes and action items.
+
+(b) Provide recommendations for periodic status briefings to senior
+managers and other interested parties.
+
+(c) Collaborate with members of the working group or other interested
+parties as required to enable effective and efficient operations.
+
+4. Provide advice and guidance to resolve problems to meet performance and
+financial objectives.
+
+h. Test and Documentation Support
+
+Page 112 of 256

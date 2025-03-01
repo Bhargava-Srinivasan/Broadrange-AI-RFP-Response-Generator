@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(k) Provide support in the assessment of programs and their architectural
+products to verify their compliance with the DLA Enterprise
+Architecture and the DOD BEA.
+
+(1) Provide support in the development of various architecture models
+required for maintaining Audit Readiness.
+
+g. Enterprise Data Strategy Support
+The contractor shall provide support for the following tasks:
+1. Support the Development of Enterprise Data Strategies
+
+(a) Analyze various approaches on data strategy and provide
+recommendations for DLA approval on the most appropriate strategy to
+implement at the enterprise level.
+
+(b) Support the development of a prioritized list of actionable objectives and
+tasks and include them in an integrated Enterprise Data Strategy Plan of
+Action and Milestones (POA&M) for DLA approval. Ensure that the
+Enterprise Data Strategy POA&M is consistent with industry methods
+and practices and DLA guidelines.
+
+(c) Upon DLA approval of the POA&M, coordinate with action office to
+monitor progress and identify and assist in resolving issues which arise
+during the implementation process.
+
+2. Support the Development of Enterprise Data Strategy Implementation Plans.
+
+(a) Propose an Enterprise Data Strategy Implementation Plan for DLA
+approval.
+
+(b) Upon approval of the plan, implement a methodology for collecting,
+capturing, storing, and presenting those data artifacts identified as
+critical for management oversight by the data stewardship organization.
+Focus will be on:
+
+(1) Proposing actions consistent with the DLA Enterprise Data
+Strategy intended to promote and institutionalize best data
+management practices throughout the Agency.
+
+(2) Recommending metadata management structure, based on
+engineering concepts, industry standards, procedures, and best
+practices that are needed to comply with DLA and DOD
+requirements.
+
+Page 111 of 256

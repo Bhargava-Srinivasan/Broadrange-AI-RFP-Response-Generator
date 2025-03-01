@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Privacy Act data shall be subject to the DLA Privacy Safeguards and Responsibilities.
+Contractor failure to comply with the requirements of the Privacy Act of 1974 as
+amended (5 U.S.C. 552a) may have civil and/or criminal penalties.
+
+C.11.1 PRIVACY AND SECURITY SAFEGUARDS
+
+Performance of this SOW may require the contractor to access data and information
+proprietary to the Government agency or of such a nature that its dissemination or use,
+beyond the scope of actions authorized by the Government in performance of this SOW
+would result in adverse effects to the interest of the Government or others. The contractor
+will not divulge, or release data or information developed or obtained in performance of
+this SOW except to authorized Government personnel or upon written approval of the
+Contracting Officer. The contractor will not use, disclose, or reproduce proprietary data,
+which bears a restrictive legend, other than as required in the performance of this SOW.
+The limitations above do not apply to data or information which has been made public by
+the Government. Further, this provision does not preclude the use of any data
+independently acquired by the contractor without such limitations or prohibit an
+agreement, at no cost to the Government, between the contractor and the data owner that
+provides for greater rights to the contractor.
+
+Contractor personnel visiting any Government facility in conjunction with a task order
+shall be subject to the Standards of Conduct applicable to Government employees. Site-
+specific regulations regarding access to classified or sensitive materials, computer facility
+access, issue of security badges, etc. will be provided as required.
+
+All products produced and their associated work papers are to be considered the property
+of the DLA.
+
+Contractor and contractor personnel shall sign a Non-Disclosure Agreement prior to
+commencing work on a task order.
+
+C.12 DATA USE, DISCLOSURE OF INFORMATION AND HANDLING OF SENSITIVE
+INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION)
+
+The contractor will maintain, transmit, retain in strictest confidence, and prevent the
+unauthorized duplication, use, and disclosure of information. The contractor will provide
+information only to employees, contractors, and subcontractors having a need to know
+such information in the performance of their duties for this IDIQ and resulting task
+orders.
+
+Information made available to the contractor by the Government for the performance or
+administration of this effort shall be used only for those purposes and shall not be used in
+any other way without the written agreement of the Contracting Officer. Contractor
+personnel will be required to sign a non-disclosure agreement.
+
+Page 142 of 256

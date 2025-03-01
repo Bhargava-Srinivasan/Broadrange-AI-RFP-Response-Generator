@@ -1,0 +1,46 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Management-related tools and procedures to be made available via the
+DLA designated artifact and document repository (Microsoft SharePoint)
+
+including:
+(1) IT Service Inventory
+(2) IT Service maturity questionnaire and rating capability
+(3) Internal control compliance assessments
+(4) Dashboard reporting of maturity scores, and internal
+
+control compliance
+
+(5) Performance metric identification, and measurement input
+capability for each service by organization
+
+(6) Dashboard reporting of performance measurements and
+relationship to maturity scores.
+
+(h) The contractor shall manage J6 annual operating plan performance with
+ESAs and develop capability for status view in the DLA designated
+artifact and document repository (MS SharePoint).
+
+(i) The contractor shall complete compliance reviews for a specific Jo ESA
+process within the period of performance of the task order.
+
+(j) The Contractor shall develop plans, processes, and measurement
+methods, to ensure effective change management, communications,
+quality control, governance support, and audit readiness. Customer
+success plans and processes shall help ensure customers achieve the
+outcomes desired while facilitating the deployment of capabilities and
+services.
+
+3. IT Process Management — Improvement
+
+(a) The contractor shall manage and maintain J6 process improvement
+standard operating procedures, templates, examples, checklists, tools, and
+policies.
+
+(b) The contractor shall provide guidance, subject to Government approval,
+to all ESAs for structured (Define, Measure, Analyze, Improve and
+Control (DMAIC)/Rapid Improvement Event (RIE)) and unstructured
+(Just Do It (JDI)) process improvement projects/events.
+
+Page 118 of 256

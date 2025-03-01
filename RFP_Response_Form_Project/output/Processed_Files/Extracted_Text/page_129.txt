@@ -1,0 +1,48 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+e Track ECRs/Service Now Change Requests (CRQ) task
+assignments, address issues and delays in task completions.
+
+(4) Submit Asset Management form for all physical equipment
+decommissions ECRs.
+
+(5) Maintain Tracking Worksheet for All ECRs/Service Now Change
+Requests (CRQs).
+
+(6) Prepare weekly summary of open CRQ decommissioning tasks by
+support teams for management follow up.
+
+e Prepare weekly summary of all ECRs status.
+
+d. Provide Technical Project Management Office (PMO) System Hosting Support
+
+I.
+
+The contractor shall provide support to gathering functional and technical
+requirements needed in support of existing and planned Cloud Environments and
+Installation Service Nodes (ISN).
+
+The contractor shall support identification and elimination of redundant activities
+and minimize rework; and promote standardized IT Governance practices,
+technical and security practices and methodologies, and shared, common
+computing assets across DLA enterprise.
+
+The contractor shall provide DODI 8510.01, Risk Management Framework
+(RMF) assistance and artifacts to hosted Application PMs/ISSMs to reduce
+duplicative work on their part and ensure the datacenter and the applications have
+a common assessment methodology and practice for their RMF Authorization
+packages.
+The contractor shall work to enable DLA Enterprise capabilities, continuous
+process improvement opportunities, and eliminate site-specific solutions and
+promote Enterprise solutions.
+The contractor shall provide or assist with datacenter system lifecycle services
+and associated documentation required for the operation and management of the
+datacenters.
+(a) System Lifecycle services include, but not limited to:
+(1) RMF Control compliance, Configuration Management support
+(2) Contingency and/or Continuity of Operations support
+
+(3) Disaster Recovery support
+
+Page 129 of 256

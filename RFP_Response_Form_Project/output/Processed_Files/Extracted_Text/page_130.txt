@@ -1,0 +1,45 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(4) Cyber Incidence Response and Handling
+(5) Access Control support
+
+(6) Drafting Authorizing Official (AO) Acceptance of Risk
+Memorandums
+
+(7) Data Flow and Network Diagrams support
+(8) Drafting Formal Agreements (e.g., SLA, etc.) support
+
+(9) Configuration Item (CI) Inventories collection and maintenance
+support
+
+(10) Ports, Protocols and Services (PPS) Registration and PPSM
+Component Local Services Assessments (CLSA) support
+
+(11) Risk Analysis and Assessment (RA&A) support
+
+(12) System Security Plans (SSP)/Security Concept of
+Operations (CONOP) data collection and publication support.
+
+6. The contractor shall support the design, implementation, and troubleshooting of
+sustainment for the hosting environments. The contractor shall assist DLA in
+identifying problems and recommending solutions. Support will be provided to
+ensure compliance with DLA technical standards, Cybersecurity compliance with
+DOD standards and practices, and establish and maintain enterprise approach to
+datacenter sustainment.
+
+7. In addition to supporting the management and sustainment of hosting
+environments, the contractor shall be the Subject Matter Expert (SME) for the
+datacenter's Risk Management Framework assessment process and provide
+assessment information and supporting artifacts to the ISSO/ISSM as requested.
+The datacenter SME may be required to maintain an Enterprise Mission
+Assurance Support Service (CMASS) account and review/input assessment
+findings.
+
+e. Provide TFS/EH Project Meeting Support
+
+1. The contractor shall provide expertise, and facilitation support services, as
+required, for the following meetings held with and/or between DLA
+organizational departments:
+
+Page 130 of 256

@@ -1,0 +1,49 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+[Note: The Contractor may use a WAWEF “combo” document type to create some
+combinations of invoice and receiving report in one step. |
+
+(3) Document routing. The Contractor shall use the information in the Routing Data
+Table below only to fill in applicable fields in WAWF when creating payment requests and
+
+receiving reports in the system.
+
+Routing Data Table*
+
+| Pay Official DoDAAC PO
+| IssueByDoDAAC |
+| AdminDoDAAC*™*® Pe
+| _InspectByDoDAAC Pe
+| ShipToCode
+| ShipFromCode
+
+[MarkForCode——SSC—“—~“*~S*éidCSC“‘C™SCSCSCSCSCSCSCSCSCSCS
+Service Approver DAAC). | SSS
+Service Acceptor DDAAG) |
+/“Acceptat Other DoDAAC Sid SSS
+LpopoAacS—~dYS SOS
+[BCAA Auditor DODDAAC |S
+/ Other DoDAACS)—SC~dC SOS
+
+(*Contracting Officer: Insert applicable DoDAAC information. If multiple ship to/acceptance
+locations apply, insert “See Schedule” or “Not applicable.”’)
+
+(**Contracting Officer: If the contract provides for progress payments or performance-based
+payments, insert the DoDAAC for the contract administration office assigned the functions under
+FAR 42.302(a)(13).)
+
+(4) Payment request. The Contractor shall ensure a payment request includes
+documentation appropriate to the type of payment request in accordance with the payment
+clause, contract financing clause, or Federal Acquisition Regulation 52.216-7, Allowable Cost
+and Payment, as applicable.
+
+(5) Receiving report. The Contractor shall ensure a receiving report meets the
+requirements of DFARS Appendix F.
+
+(g) WAWF point of contact.
+
+(1) The Contractor may obtain clarification regarding invoicing in WAWFE from the
+following contracting activity’s WAWF point of contact.
+
+Page 196 of 256

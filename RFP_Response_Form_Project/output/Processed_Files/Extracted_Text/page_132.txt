@@ -1,0 +1,43 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+Disaster Recovery Plans
+
+Cyber Incident Response/Handling Plans (CIRP)
+
+CIRP Exercise plans
+
+CIRP Exercise After Action Reports
+
+Access Control Guidance
+
+Authorizing Official (AO) Memorandums)
+
+Network and Data Flow Diagrams
+
+Formal Agreements (e.g., SLA, etc.)
+
+Ports, Protocols and Services (PPSM) Registration documentation
+PPSM Component Local Services Assessments (CLSA)
+
+C.5 PLACE OF PERFORMANCE
+
+Tasks may be performed within the DLA Headquarter complex located at Fort Belvoir, Virginia
+as well as satellite offices in and around the Northern Virginia/Washington D.C. metro area and
+DLA locations both CONUS and OCONUS. DLA J6 is currently responsible for operations
+across the globe, including the CENTCOM AOR. Travel/support may be required based on
+customer site locations. The following is a non-inclusive list of cities to which travel/support
+
+may be required:
+
+Additional place of performances may be required for outside agency support.
+
+C.6 ORDERING PERIOD
+
+Task orders may be issued during the five (5) year base period and, if exercised, five (5) year
+option period. The total ordering period shall not exceed 10 years from the date of award of the
+
+IDIQ. Task order performance periods are permitted to extend up to two years past the IDIQ
+expiration date.
+
+Page 132 of 256

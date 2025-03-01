@@ -1,0 +1,52 @@
+DLA J6 Enterprise Technology Services (JETS) 2.0
+SP4709-23-R-0001
+
+(j) The contractor shall develop processes and training presentations for J6
+using the DLA templates.
+
+(k) The contractor shall facilitate Jo process management working groups
+through development of monthly briefings on progress/actions for J6
+process management capability, including minutes for all working group
+meetings and posting artifacts to the DLA designated artifact and
+document repository.
+
+(1) The contractor shall develop monthly status briefings to J61 on J6
+process management performance, highlighting risks and
+accomplishments.
+
+(m)The contractor shall support the development of a J6 process and service
+integrated catalog for customer and stakeholder viewing in the DLA
+designated artifact and document repository (Microsoft SharePoint); to
+include process and service page views.
+
+2. IT Process Management — Measurement
+
+(a) The contractor shall assist in defining and managing J6 process and
+service alignment with best practice frameworks (1.e., Defense Enterprise
+Service Management Framework (DESMEF), Information Technology
+Infrastructure Library (ITIL) Capability Maturity Model Integration
+(CMMI), Control Objectives for Information and Related Technology
+(COBIT), Federal Information System Controls Audit Manual (FISCAM)
+controls).
+
+(b) The contractor shall recommend metrics and key performance indicators
+(KPI) for J6 processes and services.
+
+(c) The contractor shall develop and, subject to Government approval,
+provide guidance to all ESAs for metric development and reporting.
+
+(d) The contractor shall recommend best practices/benchmarks to ESAs to
+incorporate into J6 processes/services.
+
+(e) The contractor shall develop a standard operating procedure to measure
+J6 process compliancy, facilitate and coordinate process with ESAs, and
+
+report compliancy with laws, regulations, and policies.
+
+(f) The contractor shall manage and maintain key process internal controls
+inventory and testing status for J6 processes.
+
+(g) The contractor shall develop, recommend, and following approval
+implement IT requirements for the automation of IT Process
+
+Page 117 of 256
