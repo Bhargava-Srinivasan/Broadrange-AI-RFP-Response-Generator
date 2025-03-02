@@ -1,0 +1,831 @@
+The important fields that need to be filled by the responding company are:
+
+1. **Company Information**:
+	* NAME and ADDRESS of the offeror (item 14)
+	* TELEPHONE NUMBER and EMAIL ADDRESS of the offeror (item 14)
+2. **Personnel Information**:
+	* Key personnel resume template (Attachment 4)
+	* Letter of commitment from Program Manager (if applicable)
+3. **Proposal Content**:
+	* Business Proposal (Section L.1)
+	* Non-Price Proposal (Section L.6)
+	* Cost/Price Proposal (Section L.7)
+4. **Scheduling Information**:
+	* Base Period and Option Period quantities (Section B)
+	* Unit prices and amounts for each task area (Section B)
+5. **Other Information**:
+	* Small Business Subcontracting Plan (if applicable)
+	* Letters of commitment from Strategic Alliance(s) (if applicable)
+
+Additionally, the company may need to provide other information and documentation as specified in the solicitation, such as:
+
+* Representation and certifications (Section K)
+* Technical approach and management approach (M.3.1.1 and M.3.1.2)
+* Hourly ceiling rates and total evaluated price (M.4.1 and M.4.2)
+* DCAA-approved accounting services (M.4.3)
+
+It is important to carefully review the solicitation and instructions to ensure that all required information is provided.
+The following are the important fields that need to be filled by the responding company:
+
+1. Firm-Fixed Price Labor Rates:
+	* Government Site Rates (fully burdened personnel rates that do not reflect costs for government-provided resources)
+	* Contractor Site Rates (fully burdened personnel rates that include costs for office space and all normal supplies and services required to support the work)
+	* Rates for each labor category (LCAT) (fully burdened hourly rates that include all direct, indirect, general, and administrative costs and profit associated with providing the required skill)
+2. Ceiling Rates:
+	* Ceiling rates for labor categories set forth in the "Labor Rate Table" (maximum hourly rate that can be offered for each labor category)
+	* Ceiling rates for task orders that have a period of performance that spans across multiple IDIQ years (rates that will apply for the relevant time periods)
+3. Guaranteed Minimum:
+	* The guaranteed minimum amount of $2,500.00 for the life of each contract
+4. Task Order Information:
+	* Task Order number
+	* Task Order purpose and description
+	* Task Order requirements and scope of work
+	* Task Order schedule and timeline
+5. Labor Categories:
+	* List of labor categories (LCATs) and corresponding rates
+6. OCONUS Costs:
+	* OCONUS site-specific costs, such as Defense Base Act Insurance Coverage, relocation, overseas healthcare, and others
+7. Delivery Options:
+	* Fixed Price, Time and Material (T&M), or Cost Plus Incentive Fee (CPIF) delivery options for task orders
+8. Compliance Requirements:
+	* Compliance with DLA policies, standards, and procedures, including enterprise architecture, information assurance, and personnel, physical, and system security
+9. Task Area Requirements:
+	* Task Area 1: Network and Telecommunication Services (requirements for operations support, application support, and full lifecycle support for DLA's Business, Operations, and Logistics System)
+	* Task Area 2: Technology Services (requirements for various technology services)
+	* Task Area 3: Enterprise Service Delivery (ESD)
+	* Task Area 4: Defense Business System (DBS) Life Cycle Management
+	* Task Area 5: Lifecycle Program Support Services
+	* Task Area 6: Cyber Security Support Services
+	* Task Area 7: Program/Project Management Support
+	* Task Area 8: Enterprise Support Services
+	* Task Area 9: Technical Support
+	* Task Area 10: Cloud Hosting Services
+	* Task Area 11: Data and Information Governance Analytics Services
+	* Task Area 12: Modernization of Application Hosting Environments
+10. Place of Performance:
+	* Place of performance for each task order, including the DLA Headquarter complex, satellite offices in and around the Northern Virginia/Washington D.C. metro area, and DOD locations both CONUS and OCONUS.
+The following are the important fields that need to be filled by the responding company:
+
+1. System Administration (Windows):
+	* Operations Support
+	* Cloud Computing Support
+	* System Security and Vulnerability Management Support
+	* Automation Support
+2. System Administration (Unix):
+	* System Deployment
+	* Configuration/Policy Changes
+	* System Security Patching
+	* Remediating Vulnerabilities
+	* Monitoring System Logs
+	* Troubleshooting Alerts
+3. Virtualization Platform Administration:
+	* Vmware ESXi Hypervisor Installations and Upgrades
+	* Host and Storage Clusters Management
+	* Virtual Machine Provisioning and Operations
+	* Migrations to Different Host/Storage Resources
+4. Backup Support:
+	* Backup and Recovery Operations
+	* Job Scheduling, Execution, and Monitoring
+	* Interaction with Government-Provided Backup Software
+	* Analysis of Backups with Veritas NetBackup OpsCenter Analytics and Veritas APTARE IT Analytics tools
+5. Storage Area Network (SAN) Support:
+	* Storage Planning and Data Migrations
+	* Problem-Solving and Advanced Technical Response
+	* Configuration on Multiple Platforms
+	* Data Migration Planning and Execution
+	* Storage Virtualization Technology Implementation
+
+Please note that some of these fields may require a detailed response or demonstration of the company's capabilities, rather than just a simple fill-in-the-blank answer.
+The important fields that need to be filled by the responding company are:
+
+1. Cloud Tier Support and Administration:
+	* Cloud tier support and administration strategy
+	* Testing, tuning, configuring, implementing, setting up, and supporting common enterprise third-party tools/applications
+	* Identifying and supporting specific applications such as OCS/Lync, SharePoint, Citrix, WebMethods, WebLogic, Websphere MQ, US, Apache, Vontu, ServiceNow, Oracle EBS application suite, etc.
+2. Asset Management and Inventory:
+	* Physical inventory and accountability of all IT hardware assets
+	* Asset management reporting in accordance with contractual and governmental requirements
+	* Software usage tracking and reporting, including FIPS and Section 508 compliance
+	* Commercial software license management and documentation
+	* Physical inventory control program services to maintain mission material IT asset balances
+	* Data center physical inventories, including environmental and facility equipment
+	* Blueprinting and diagramming of data center rooms and racks
+	* Updating and maintaining master lists of IT assets
+	* Supporting facility closures or downsizing operations
+3. Database Administration:
+	* Monitoring health and maintenance of databases
+	* Troubleshooting, patching, and escalating problems
+	* Installing and configuring database management system software and performing upgrades
+	* Managing volume and performance
+	* Ensuring high availability, backup, and recovery of production databases
+4. Data Architecture and Modeling:
+	* Design and development of architecture for data models and integration solutions
+	* Research and provision of modeling standards, guidelines, best practices, and approved modeling techniques
+	* Support for data services, business intelligence, data quality, data integration, and data warehouse
+5. Database Backups:
+	* Implementation of products such as Oracle Recovery Manager (RMAN) and ensuring adequate backups
+6. Database Management Support:
+	* Support services for Oracle and MS SQL platforms
+	* Proficiency in Oracle Real Application Cluster (RAC), Oracle Enterprise Manager (OEM), Oracle Advanced Replication, Oracle Dataguard, and Oracle Recovery Manager (RMAN) software
+7. Industrial Equipment Support:
+	* Support for AIT industrial equipment, including wireless/radio frequency (RF) and radio frequency identification (RFID) equipment and printing equipment
+	* Maintenance, operations, and repair services for wireless/radio frequency and radio frequency identification equipment
+	* Expert analysis support for active and passive RFID print devices and strategies for more efficient use
+8. Application Support:
+	* Development of strategy to test, tune, configure, implement, set up, troubleshoot, and support SAP and non-SAP enterprise planning software products and systems
+	* Support for common enterprise third-party tools/applications, including Adobe, JAVA, SharePoint, TomCat, Apache, Assistive Technology, GitHub, Oracle, Microsoft Office Products, Micro Focus LoadRunner, and other tools/applications
+	* Maintenance of system/application configuration for build/development/system
+	* Troubleshooting and debugging applications
+	* Providing estimated completion dates for each software development lifecycle phase
+9. Performance Stress Test Support:
+	* Conducting performance stress testing for new and existing applications to identify capacity issues related to application performance, stability, and sustainability
+	* Providing detailed reports, including root cause analysis, metrics, and remediation actions taken
+	* Developing, maintaining, and providing test plans, including positive and negative test conditions, error handling, and atypical system/data conditions
+Based on the provided text, the important fields that need to be filled by the responding company include:
+
+1. LAN and Electrical Infrastructure:
+	* Provide support for wireless network and electrical infrastructure supporting RFID and AIT equipment.
+	* Install wireless/RF network, LAN, and electrical infrastructure in accordance with applicable military and professional standards.
+2. Wireless and RFID Support:
+	* Provide support for wireless/RF hardware and software supporting RFID devices.
+	* Maintain and repair wireless/RF and RFID handheld vehicle and wearable devices.
+	* Perform remote and on-site software updates to handheld, vehicle, and wearable devices.
+3. Active Directory, Email, and Mobile Device Support:
+	* Provide support for Active Directory, including migration and sustainment services.
+	* Assist with the development of a plan for the migration and configuration of the system.
+	* Provide sustainment support for the installation, configuration, and maintenance of the DLA-Wide Enterprise Email services.
+4. Enterprise End-user Endpoint Configuration Management:
+	* Assist in endpoint software distribution, configuration, and support operations.
+	* Create software packages for deployment of approved software.
+	* Remediate audit and security scan results.
+5. VDI Support:
+	* Provide VDI end-user support at a tier 3 level for complex incidents.
+	* Troubleshoot complex user login issues and advanced issues with application launches.
+	* Provide weekly ticket reports and work orders.
+6. Total Helpdesk Solution:
+	* Provide an integrated, centrally managed customer service solution.
+	* Focus on customer support and problem resolution at the lowest level possible.
+
+These fields require specific responses from the contractor, including:
+
+1. Technical specifications and capabilities
+2. Experience and qualifications
+3. Methodologies and processes
+4. Resources and personnel available
+5. Estimated costs and timelines
+6. References and case studies
+7. Compliance with applicable standards and regulations
+
+The responding company should provide clear, concise, and comprehensive responses to each of these fields to demonstrate their ability to meet the requirements and objectives of the task order.
+Based on the provided document, the following fields need to be filled by the responding company:
+
+1. Contractor shall:
+2. Initial Response Support: 
+3. Tier 1: Help Desk
+4. Technical Support Services:
+5. Technical Support Service:
+6. Desktop Management:
+7. Advanced Technical Support Service:
+8. Full lifecycle management support:
+9. Current State Assessment:
+10. Documentation:
+11. Enterprise Architecture models:
+12. Technical Specifications:
+13. Code and Configuration Rationales:
+14. Test Plans:
+15. Required Tests:
+16. Training:
+17. Virtual Workforce Training:
+18. Knowledge Warehouse:
+19. Technical Advisory:
+20. Technical Change Support:
+21. Environment Software Support:
+22. Post-Production Support:
+23. Integration Support:
+24. Product Delivery Support:
+25. System Development Lifecycle (SDLC) plan:
+26. RMF required cybersecurity documentation:
+27. Administrator documentation:
+28. User documentation:
+29. Design Specification:
+30. Architecture description documentation:
+31. System component description document:
+32. System Software and Architecture Component design and configuration guides:
+33. Problem analysis guides, runbooks, and triage templates:
+34. Technical/Application Support:
+35. Configuration management (CM):
+
+These fields need to be completed for the contractor to provide the required services and support as stated in the document.
+Based on the provided text, the important fields that need to be filled by the responding company are:
+
+**Task Area 5 - Lifecycle Program Support Services**
+
+1. a. Project Services
+	* (b) Recommend appropriate IT services and projects as requested.
+	* (c) Prepare draft proposals and plans for projects for review by Government personnel.
+	* (d) Prepare draft project cost estimations and accounting documents for Government review.
+	* (e) Provide planning support and make recommendations regarding Functional Priority Lists (FPL), Project Development Plans (PDP), Preliminary Cost Estimates (PCE), and Product Release Roadmap and Product Backlog List (PBL).
+2. c. Management Support
+	* (a) Employ a project management methodology that shall be used as a tool to consistently plan, initiate, control, and implement all projects for all services related to the IT Solution.
+	* (c) Make all changes associated with the project in compliance with approved Change Management procedures.
+	* (d) Communicate project status as part of standard Change Management meetings.
+3. e. Technical Advisor Support
+	* (a) Continuously monitor technical trends through independent research.
+	* (b) Document and report on products and services with potential use for DLA as it aligns with DLA's business and technology strategy.
+	* (d) Make recommendations for enterprise level and program-specific project management policies, procedures, and requirements.
+4. f. Project Benchmark
+	* (a) Examine and evaluate functional and technical programs for integration implications.
+5. o. Business Case Analysis (BCA) Support
+	* (a) Draft cost estimates and provide analysis and documentation for all phases of current developmental, or modification, programs, or projects.
+	* (b) Provide estimates for alternatives, given various budget, schedule, and/or technical parameter variations.
+	* (c) Assist with Business Case Analysis (BCA) documentation in coordination with the project team.
+
+**Task Area 6 - Cybersecurity Support Services**
+
+1. Cybersecurity Risk Management Framework (RMF) Services
+2. Cybersecurity Policy Services
+3. Cybersecurity Plan of Action and Milestones (POA&M) Services
+4. Cybersecurity Workforce Management
+5. FISMA Tracking and Reporting
+
+These fields require specific information and detailed responses, providing the Government with the necessary insight into the responding company's capabilities and approach to fulfilling the tasks outlined in the contract.
+
+Please note that this is not an exhaustive list, and additional information may be required depending on the specific tasks and requirements outlined in the contract.
+The responding company is expected to fill in the following important fields:
+
+1. **Cybersecurity Workforce program support**: Provide support to ensure compliance with DOD and DLA policies, including FISMA tracking tool, Cybersecurity Workforce Training Process, Cybersecurity Workforce Training Analysis, Cybersecurity Workforce Training Coordination, and Cybersecurity Workforce Documentation.
+2. **FISMA tracking tool**: Validate, compile, track, and report information in the Federal, DOD, or DLA approved FISMA tracking tool.
+3. **Cybersecurity Technology Assessment**: Perform preventative and analytical activities to enhance the overall Cybersecurity posture of DLA networks, information systems, and applications.
+4. **Enterprise Architecture Support and Compliance**: Provide Enterprise Architecture Support and Compliance to assist DLA in ensuring compliance with DOD and DLA Cybersecurity policy.
+5. **Cybersecurity Engineering Support**: Provide systems engineering and engineering support, including network modeling, modifying and improving existing Cybersecurity products, supporting Cybersecurity Scanners, and providing technical support during development, testing, and selection of Cybersecurity components.
+6. **Cybersecurity General Support**: Provide general Cybersecurity engineering capabilities and services, including Quality Assurance Support, Program Reviews Support, centralized administrative support, and progress=status reporting.
+7. **Cybersecurity Assessment Program (CAP)**: Provide support for Cybersecurity Compliance Review (CCR), including Vulnerability Assessment, Penetration Testing, and Cybersecurity Assessment Tool Identification and Selection.
+8. **Information Technology Integration**: Integrate Cybersecurity Tools solutions, including emerging technologies, and provide technical support in demonstrating technology, preparing briefings, and producing technical reports.
+9. **Cybersecurity Policy Support**: Provide technical support in reviewing, analyzing, and developing Cybersecurity processes, policy, doctrine, directives, regulations, and implementation of instructions for the DLA enterprise.
+10. **Information System Security Manager (ISSM) Contractor Duties**: Perform duties as ISSM, including overseeing ISSO responsibilities, developing and maintaining Cybersecurity programs, and ensuring compliance with DOD and DLA policies.
+11. **Cyber Security Service Provider (CSSP) Threat Detection and Incident Response Support**: Provide 24x7 cybersecurity monitoring for threat detection and incident response in support of DLA CERT's mission as the CSSP for DLA.
+
+These fields require detailed information, including:
+
+* Technical expertise in Cybersecurity
+* Familiarity with DOD and DLA policies, procedures, and standards
+* Experience in conducting Cybersecurity assessments, testing, and evaluations
+* Knowledge of Cybersecurity tools, technologies, and methodologies
+* Ability to integrate Cybersecurity solutions with emerging technologies
+* Strong analytical and communication skills
+* Ability to work effectively in a team environment
+
+The responding company must provide a comprehensive plan to address these requirements, including methodology, personnel, and resources needed to complete the tasks.
+The responding company is expected to fill in the following important fields:
+
+1. Identity of the Fly-Away team members (Section 4)
+2. Task Order Project Manager (Section 7)
+3. Contractor's Project Manager (Section 7)
+4. GFE Report (Section 7)
+5. Transition plan (Section 7)
+6. Research and Development Program Management Support (Section 8)
+7. R&D PMO Management Support (Section 8)
+8. Monthly obligation plans (Section 8)
+9. Actual cost, schedule, and performance of DLA-funded projects (Section 8)
+10. Technical R&D information (Section 8)
+11. Process improvements to the overall operation of the R&D office (Section 9)
+12. Financial data capture and reporting information systems (Section 10)
+13. Procurement Integrated Enterprise Environment (PIEE) suite (Section 10)
+14. Invoicing information (Section 7)
+15. Project plan and quarterly updates (Section 7)
+16. Compliance tracking report (Section 7)
+17. SRP for the PPB&E processes (Section 10)
+18. SOPs and Process Flow charts for DLA's R&D Planning, Programming, Budgeting, and Executing (PPB&E) Processes (Section 10)
+19. Documented Automated Content Services-Records Management (DACS-RM) site (Section 10)
+20. Continuous review of DLA Cyber Security SOPs and TTPs (Section 10)
+
+Please note that this is not an exhaustive list, as the RFP contains various sections and requirements.
+The important fields that need to be filled by the responding company are:
+
+1. R&D Financial Process Integration and Maintenance:
+	* Identify opportunities to integrate financial processes across the Financial Management function to minimize manual data entries (Section 10.a)
+	* Assist with refining existing financial reports and implementation of new reports to support greater visibility, transparency, and availability of financial and program information (Section 10.b)
+2. R&D Audit Sustainment and Records Management (RM) Support:
+	* Monitor and report needed modifications for all Standard Operating Procedure (SOP) documentation related to the R&D Program's planning and financial execution processes (Section 9.a)
+	* Collects evidential matter (EM) related to audit requests in support of the Government Lead, Funds Holder, and Resource Manager who draft responses to audit requests (Section 9.b)
+3. C4.8 TASK AREA 8 — Enterprise Support Services:
+	* Provide subject matter expertise to government personnel on policies, processes, and procedures (Section C.4.8.a)
+	* Develop overarching marketing/public relations plans and assist in the development of program marketing and educational products (Section C.4.8.c)
+	* Provide advisory and technical support to the Acquisition Support Office Director in preparing for all levels of acquisition and other reviews required (Section C.4.8.d)
+4. C4.9 TASK AREA 9 — Technical Support:
+	* Implement and document the Robotic Process Automation (RPA) tool to achieve resource efficiencies in some of the customer-facing Sustainment Activities and internal processes (Section C.4.9.b)
+	* Develop criteria for determining relative value of RPA candidates; recommend selection (Section C.4.9.c)
+5. C4.10 TASK AREA 10 — Financial Budget and Cost Support:
+	* Support Budget Planning and Tracking, Cost Analysis, Risk Management, and Earned Value Management (EVM) processes and procedures (Section C.4.10.a)
+	* Provide support for maintenance of key program budget/cost products, including but not limited to Economic Analysis updates, Variance analyses, and Affordability Assessments (Section C.4.10.a)
+	* Provide support for budget execution, including tracking costs incurred against predictive models, investigating deviations from models, and providing results for further investigation as needed (Section C.4.10.b)
+
+These fields require the responding company to provide expertise and support in various areas, including financial process integration and maintenance, audit sustainment and records management, enterprise support services, technical support, and financial budget and cost support.
+Based on the provided text, the following important fields need to be filled by the responding company:
+
+**Systems Engineering Support**
+
+* Stakeholder Requirements Management:
+	+ Provide ongoing System Engineering (SE) expertise and support to the SE Working Integrated Product Teams (WIPTs) and/or other SE-related meetings.
+	+ Provide Systems Engineers/Program Managers (PM) updates on System Integrator (SI) implementation progress, technical review entrance/exit criteria, CM assessment criteria, and general SE matters to support the PM's decision-making process.
+	+ Assist in the requirements definition process to elicit inputs from relevant stakeholders and translate the inputs into technical requirements, including performance parameter objectives and thresholds, affordability constraints, schedule constraints, and technical constraints.
+* Technical Planning:
+	+ Create/maintain program System Engineering Plans (SEP), System Engineering Management Plan (SEMP), and other SE-related documentation.
+	+ Assist in the planning of technical processes to develop, field, and sustain the system in compliance with the DOD 5000 Series guidance and other DOD regulations, and industry best practices.
+	+ Assist the Government in ensuring that SE processes are applied throughout the system's lifecycle.
+	+ Support process development/improvements and related documentation for SE processes.
+* Decision Analysis:
+	+ Recommend, implement, and monitor SE processes, procedures, methods, and tools to ensure that decision analysis has identified, represented, and formally assessed the alternative options to select an optimum decision.
+* Technical Assessment:
+	+ Perform periodic program/project technical assessments evaluating program status, technical progress, work product quality, and schedule and cost management.
+	+ Support Engineering Technical Review (e.g., System Requirements Review (SRR), Preliminary Design Review (PDR), and Critical Design Review (CDR) Entrance and Exit criteria.
+
+**Enterprise Architecture Support**
+
+* Support DOD Business Enterprise Architecture (BEA) compliance requirements.
+* Support the continued development and sustainment of DLA's Enterprise Architecture.
+	+ Support or provide training and advise Agency users on Enterprise Architecture, the DOD Architecture Framework (DODAF), and the Enterprise Architecture tools and repository in accordance with architecture development guidance.
+	+ Support Enterprise Architecture modeling, to include Data Architecture models, and other documentation development.
+	+ Provide Program Support Services for overall investment/requirements management efforts within the context of Enterprise Architecture.
+	+ Support efforts related to resolving technical issues encountered with architecture development tools and repositories, and documentation of those changes.
+
+**Enterprise Data Strategy Support**
+
+* Support the Development of Enterprise Data Strategies:
+	+ Analyze various approaches on data strategy and provide recommendations for DLA approval on the most appropriate strategy to implement at the enterprise level.
+	+ Support the development of a prioritized list of actionable objectives and tasks and include them in an integrated Enterprise Data Strategy Plan of Action and Milestones (POA&M) for DLA approval.
+* Support the Development of Enterprise Data Strategy Implementation Plans:
+	+ Propose an Enterprise Data Strategy Implementation Plan for DLA approval.
+	+ Upon approval of the plan, implement a methodology for collecting, capturing, storing, and presenting those data artifacts identified as critical for management oversight by the data stewardship organization.
+
+**Test and Documentation Support**
+
+* Testing and Evaluation Master Plan (TEMP) Support:
+	+ Revising and updating the TEMP in accordance with DOD 5000.2-R, as required and subject to Government approval.
+	+ Ensure that the TEMP is synchronized with all other relevant program acquisition documents, when necessary, in support of specific program milestones.
+	+ Ensure that the TEMP is updated using the most relevant, current, and accurate information obtained from field organizations, integrated product teams, and DLA staff as well as industry standard practices, procedures, and requirements.
+* Developmental Test and Evaluation (DT&E) Support:
+	+ Provide support to the Testing Team during the conduct of the DT&E execution phases for all DBS releases.
+	+ Develop crosswalk plans, scripts, and test results to ensure compliance with regulatory requirements, acquisition memorandum requirements, the TEMP, and the Operational Requirements Document/Capability Development Document (ORD/CDD).
+* Operational Readiness Testing Support:
+	+ Provide support to the Test Team during the conduct of the Operational Test Readiness Reviews (OTRR) phase.
+	+ Perform reviews to ensure the system complies with regulatory requirements and the approved TEMP requirements and produce reports as necessary.
+* Operational Test & Evaluation (OT&E) Support:
+	+ Draft, maintain, provide input to, and update technical documentation such as Information Support Plans (ISP), Program Protection Plans (PPP), Capability Development Document (CDD), System Engineering Plans (SEP), Capability Protection Document (CPD).
+	+ Provide support during preparation and conduct phases of all Operational Test and Evaluation (OT&E) events for each release as scheduled.
+
+**Information Technology (IT) Process Management**
+
+* Definition:
+
+Note: It seems that there are some incomplete sections in the provided text. Therefore, it is recommended to review the original solicitation for complete and accurate information.
+Here are the important fields that need to be filled by the responding company:
+
+1. **Support for developing J6 process management framework documentation**:
+	* Define the strategy, structure, and purpose of J6 process management.
+	* Identify all J6 process/service relationships, compliance needs, roles, definitions, measures, reporting, sustainment, and governance.
+2. **Management and maintenance of J6 process and service alignment**:
+	* Review, validate, and update the LRP and IT Control Matrix data sources.
+	* Ensure compliance with Federal/DoD/DLA policy requirements.
+3. **Development of templates for supporting process documentation**:
+	* Create templates for J6 internal procedures, training, and job aids.
+4. **Definition and management of the J6 Process Inventory**:
+	* Identify J6 process owners, including conceptual architecture depiction.
+5. **Service relationships and dependencies**:
+	* Articulate and define key process/service relationships and dependencies with J6 and non-J6 parties.
+	* Develop concept of operations for J6 process management working groups.
+6. **IT Process Management**:
+	* Assist in defining and managing J6 process and service alignment with best practice frameworks (e.g. DESMEF, ITIL, CMMI, COBIT, FISCAM).
+	* Recommend metrics and key performance indicators (KPIs) for J6 processes and services.
+	* Develop and maintain a standard operating procedure to measure J6 process compliance.
+7. **Process Improvement**:
+	* Develop and maintain J6 process improvement standard operating procedures, templates, examples, checklists, tools, and policies.
+	* Provide guidance on structured and unstructured process improvement projects-events.
+	* Facilitate the development of the J6 Executive Planning Session.
+8. **Risk Management**:
+	* Collect and report current risks with risk mitigation POAMs.
+	* Develop and deliver supporting briefings that define the J6 Risk Management profile.
+9. **Audit Readiness**:
+	* Review and update DLA IT Audit Readiness Communication Plan.
+	* Develop and recommend J6 Audit Readiness Plan.
+	* Support DLA's Access, Monitoring, and Verification (AMV) activities.
+10. **Cloud Hosting Services**:
+	* Provide Cloud Hosting Services to support the full lifecycle of solutions and services.
+	* Meet or exceed DoD Secure Cloud Computing Architecture (SCCA) Functional Requirements Document (FRD) and Cloud Computing Security Requirements Guide (SRG).
+11. **Data and Information Governance Analytics Services**:
+	* Provide technical support to the Office of the Chief Data and Analytics Officer (J6D).
+	* Coordinate and facilitate working groups to develop and maintain governance charters, EMD governance operations management, and more.
+
+These fields are critical to fulfill the requirements outlined in the task order and ensure successful implementation of the services and solutions.
+Based on the RFP document, the following are the important fields that need to be filled by the responding company:
+
+**Task Area 1: Data Federation and Knowledge Management**
+
+* Provide DoDAF reference models, conceptual data model (DOV-1), and logical data model (DIV-2)
+* Assist in aligning existing data stores to data domains
+* Provide assistance in executing DLA's Artificial Intelligence and Machine Learning mission
+
+**Task Area 2: Logistics and Analytics**
+
+* Provide analytical methodology and strategic planning support
+* Develop and maintain specified data measurement and reporting functionalities
+* Support the Analytics Center of Excellence (ACE) in developing timely and effective logistics policies
+
+**Task Area 3: Freedom of Information Act (FOIA) and Privacy Act**
+
+* Provide expertise and experience in automated system management for FOIA and Privacy Act missions
+* Assist in receiving and interpreting incoming requests, processing actions, and drafting response letters
+* Coordinate searches for responsive documents and prepare records for release
+
+**Task Area 12: Modernization of Application Hosting Environments**
+
+* Provide Project Management Office (PMO) sustainment support
+* Support the modernization of application hosting environments with Project Management, Change Management, and Incident Management tasks
+* Identify application and infrastructure hosting improvement opportunities
+* Provide expertise in gathering functional and technical requirements needed for existing and planned cloud environments and installation service nodes (ISN)
+
+**Other Requirements**
+
+* Provide technical writing expertise in creating supportive documentation
+* Maintain existing System Life-Cycle Documentation (SLCD) in accordance with regulations
+* Submit travel receipts for reimbursement
+* Comply with lawful orders of Law Enforcement/Security personnel at DLA sites and military installations
+* Follow local policy and procedures governing the use of computer equipment and passwords
+* Notify the COR within 24 hours of personnel changes or terminations
+* Establish procedures to control and account for contractor CACs
+
+These are the important fields that need to be filled by the responding company to demonstrate their capabilities and expertise in the required areas.
+The important fields that need to be filled by the responding company in this solicitation are:
+
+* Contractor personnel qualifications and certifications (Labor Categories, resumes, and required certifications)
+* Key Personnel positions and resumes (for Identification, Tracking, and Reporting of Cyberspace workforce Requirements)
+* Proposal for specific task orders (including resumes, certifications, and qualifications for Key Personnel and proposed substitutions)
+* Resumes and required certifications for all personnel proposed as substitutions
+* Non-Disclosure Agreement (NDA) for contractor personnel
+* E-Verify and Form I-9 (Employment Eligibility Verification form) for all personnel
+* Government-Issued Contractor CAC Turn-In Receipt (for contractor CAC reissue and turn-in)
+
+Additionally, the contractor is required to comply with various laws, regulations, and directives, including:
+
+* DOD Cybersecurity policies and procedures
+* Federal and DOD financial and business regulations
+* Government information security reform acts
+* Paperwork Reduction Act
+* Privacy Act of 1974
+* Government Paperwork Elimination Act
+* E-Government Act of 2002
+* Federal Accounting Standards Advisory Board (FASAB)
+* Generally Accepted Accounting Principles (GAAP)
+* Standard Financial Information Structure (SFIS)
+* Chief Financial Officer Act of 1990
+* OMB Circulars
+* Executive Order 13327
+* NIST Special Publications (800 series)
+* Committee for National Security Systems Instruction 1253
+* Federal Information Security Management Act
+* Public Law 100-235
+* IRS Publication 1075
+* FY 2010 National Defense Authorization Act
+* DoDI 8500.01 Cybersecurity
+* DoDI 8510.01 Risk Management Framework (RMF) for DoD Information Technology (IT)
+* DoD Manual 8140.03 Cyberspace Workforce Qualification and Management Program
+* Federal Financial Management Improvement Act (FFMIA)
+* DoD Cloud Computing Security Requirements Guide (SRG)
+
+The contractor is also required to maintain, transmit, retain in strictest confidence, and prevent the unauthorized duplication, use, and disclosure of information, and to comply with all relevant Federal and DOD laws, regulations, and directives.
+The following fields need to be filled by the responding company:
+
+1. Proposal: The contractor must submit a proposal that meets the requirements outlined in the SOW and task orders.
+2. Labor Rate Table Pricing: The contractor must include a labor rate table pricing in their proposal, which will be used to negotiate task order pricing.
+3. Electronic copies of deliverables: The contractor must submit electronic copies of deliverables, which must be compatible with Microsoft Office 2021 or other mutually agreed-upon applications.
+4. Monthly status report: The contractor must submit a written monthly status report, including information on problems, items to track, and a list of activities and deliverables completed during the preceding month.
+5. Budget Execution Report: The contractor must submit a budget execution report, which will be used to track spending and ensure compliance with the contract.
+6. Earned Value Analyses: The contractor must submit earned value analyses, which will be used to measure progress and identify potential issues.
+7. Invoices: The contractor must submit invoices, which must meet the requirements outlined in the contract and task orders.
+8. Change requests: The contractor must submit change requests, which must be approved by the Contracting Officer before changes can be made to the contract.
+9. Corrective actions: The contractor must submit corrective actions, which must be taken to address any issues or deficiencies identified during the contract performance.
+10. Performance metrics: The contractor must meet the performance metrics outlined in the contract and task orders, which will be used to evaluate the contractor's performance.
+11. Reports and documents: The contractor must submit reports and documents, which must meet the requirements outlined in the contract and task orders.
+12. Certifications: The contractor must submit certifications, which will be used to verify compliance with the contract and task orders.
+
+Additionally, the contractor must comply with the following requirements:
+
+* The contractor must perform all functions in a professional manner and prepare accurate and timely documentation.
+* The contractor must comply with all major regulatory and process requirements and agency policies and procedures.
+* The contractor must submit all deliverables to the Contracting Officer or Task Order Contracting Officer's Representative (COR) for review and approval.
+* The contractor must maintain all records and documents related to the contract, including financial records, program schedules, and technical documents.
+* The contractor must provide all necessary documentation and support to the Government for the purpose of administering the contract and resolving any disputes that may arise during the contract performance.
+The important fields that need to be filled by the responding company in order to comply with the requirements of the DLA J6 Enterprise Technology Services (JETS) 2.0 contract are:
+
+1. **8(a) Certification**: For 8(a) contractors, proof of certification as a Small Business Administration (SBA) 8(a) program participant.
+2. **Small Business Status**: For all Small Business contractors, proof of small business status, including size standards and ownership charts.
+3. **HUBZone Certification**: For HUBZone small business contractors, proof of HUBZone certification as issued by the SBA.
+4. **Woman-Owned Small Business Certification**: For Woman-Owned Small Business contractors, proof of certification as a Woman-Owned Small Business by an approved third-party certifying entity.
+5. **Service-Disabled Veteran-Owned Small Business Certification**: For Service-Disabled Veteran-Owned Small Business contractors, proof of certification as a Service-Disabled Veteran-Owned Small Business by an approved third-party certifying entity.
+6. **Employee Training**: Provide evidence of company-sponsored compliance training for employees, including training on organizational conflicts of interest (OCI) and OCI mitigation plan submission.
+7. **OCI Mitigation Plan**: For contractors with potential or actual OCIs, submit a plan outlining measures to avoid or mitigate the conflict.
+8. **Proprietary Information Protection**: Agree to protect proprietary data and rights of other organizations, including entering into agreements to maintain confidentiality and non-use.
+9. **Government Furnished Information**: Agree to handle Government furnished information with appropriate care and security, including return of materials and destruction of records.
+10. **Fair Opportunity Quotation**: Submit valid quotes that remain open for a minimum of 60 days.
+
+Please note that these requirements are subject to change and may be updated as part of the contract award process.
+The important fields that need to be filled by the responding company are:
+
+1. Company Name and Address
+2. CAGE Code/UEI
+3. Phone Number
+4. Email Address
+5. Representative's Full Name
+6. Contractor's Certification regarding tax matters
+7. Small Business Identification (for small businesses)
+8. Socio-Economic category goals (for small businesses): Service-Disabled Veteran-Owned Small Business (SDVOSB), Small Disadvantaged Business (SDB), Women Owned Small Business (WOSB), and HUB Zone
+9. Subcontractor Information (for all businesses)
+10. OCIs (Organizational Conflicts of Interest) plan and mitigation plan (for all businesses)
+11. Definition of OCIs and how they will be resolved (for all businesses)
+12. Disclosure of actual or potential OCIs after contract award (for all businesses)
+
+The company should also be prepared to submit a Small Business Subcontracting Plan (for other-than-small businesses) and a OCI plan (for all businesses). The company should also be prepared to provide evidence of their performance compared to their subcontracting plan (for other-than-small businesses) and their OCIs plan (for all businesses).
+Based on the provided FAR and DFARS clauses, the following important fields need to be filled:
+
+**FAR Clauses:**
+
+1. Contracting Officer's Representative (FAR 52.201-7000) - Name and contact information of the Contracting Officer's Representative.
+2. Subcontractor Disclosure (FAR 52.204-9) - List of subcontractors and their corresponding percentage of work performed under the contract.
+3. Executive Mansion Lease (FAR 52.224-1) - Statement indicating whether the contractor will use an executive mansion for official events.
+4. Notice of Performance Information (FAR 52.228-2) - Statement indicating whether the contractor will provide performance information.
+
+**DFARS Clauses:**
+
+1. Contracting Officer's Representative (DFARS 252.201-7000) - Name and contact information of the Contracting Officer's Representative.
+2. Disclosure of Information (DFARS 252.204-7000) - Disclosure of information regarding the contract.
+3. Mandatory Disclosure of Conflicts of Interest (DFARS 252.203-7000) - Disclosure of conflicts of interest by contractors.
+4. Special Needs Program Registration (DFARS 252.223-7004) - Registration of special needs programs.
+5. Small Business Subcontracting Plan (DFARS 252.219-7003) - Small business subcontracting plan.
+6. Technical Data-Other Than Commercial Products and Commercial Services (DFARS 252.227-7013) - Technical data regarding products and services.
+7. Rights in Technical Data-Other Than Commercial Products and Commercial Services (DFARS 252.227-7014) - Rights in technical data regarding products and services.
+8. Information Assurance Contractor Training and Certification (DFARS 252.239-7001) - Information assurance contractor training and certification.
+
+**Section 508 Compliance:**
+
+1. Information Technology (IT) Product or Service Statement (Section 508) - Statement indicating compliance with Section 508 standards for IT products or services.
+2. Accessibility Standard Reference Numbers (Section 508) - Reference numbers for specific accessibility standards.
+
+**Tax Clause:**
+
+1. Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law (FAR 52.209-11) - Statement indicating whether the corporation has any unpaid Federal tax liability or has been convicted of a felony criminal violation under any Federal law within the preceding 24 months.
+
+Please note that these fields may not be applicable to all contracts and may require additional information depending on the specific requirements of the contract.
+The important fields that need to be filled by the responding company are:
+
+1. Contractor Code of Business Ethics and Conduct (52.203-13): The contractor must comply with this clause by submitting its Code of Business Ethics and Conduct.
+2. Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (52.204-23): The contractor must ensure that it does not contract for hardware, software, or services developed or provided by Kaspersky Lab or other covered entities.
+3. Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (52.204-25): The contractor must ensure that it does not contract for certain telecommunications or video surveillance services or equipment.
+4. Utilization of Small Business Concerns (52.219-8): The contractor must provide a utilization plan for small business concerns and ensure that small business concerns are used to perform a reasonable proportion of the work under the contract.
+5. Equal Opportunity (52.222-26): The contractor must comply with this clause by ensuring equal employment opportunities for all employees and providing training to employees on equal opportunity issues.
+6. Employment Reports on Veterans (52.222-37): The contractor must provide employment reports on veterans and ensure that veterans are used to perform a reasonable proportion of the work under the contract.
+7. Notification of Employee Rights Under the National Labor Relations Act (52.222-40): The contractor must provide notification to employees of their rights under the National Labor Relations Act.
+8. Combating Trafficking in Persons (52.222-50): The contractor must comply with this clause by ensuring that it does not engage in trafficking in persons and providing training to employees on combating trafficking in persons.
+9. Fair Labor Standards Act and Service Contract Labor Standards (52.222-41): The contractor must comply with this clause by ensuring that it pays its employees a fair wage and complies with the Fair Labor Standards Act.
+10. Privacy Training (52.224-3): The contractor must provide privacy training to employees and ensure that it complies with the Privacy Act.
+11. Contractors Performing Private Security Functions Outside the United States (52.226-6): The contractor must comply with this clause by ensuring that it does not perform private security functions outside the United States without proper clearance.
+12. Promoting Excess Food Donation to Nonprofit Organizations (52.226-6): The contractor must comply with this clause by promoting excess food donation to nonprofit organizations.
+13. Providing Accelerated Payments to Small Business Subcontractors (52.232-40): The contractor must provide accelerated payments to small business subcontractors.
+
+These are some of the important fields that need to be filled by the responding company. The company must carefully review and comply with these clauses to ensure that it is in compliance with the contract requirements.
+Based on the provided text, the following important fields need to be filled by the responding company:
+
+1. Contractor's information (name, address, contact details) - Various clauses (e.g., FAR 52.212-4, FAR 52.225-1)
+2. Technical and business proposal for evaluation (resumes of key personnel) - Procurement Note C05
+3. Payment instructions (DoDAAC, document type, payment request details) - DFARS 252.232-7006
+4. Personnel security requirements (NACI or NACI equivalent, FBI fingerprint check, IT levels) - Procurement Note H14
+5. Section 508 compliance information (VPAT) - Procurement Note H11
+6. Tax representation and exemption claims (IRS Form W-14) - FAR 52.229-11
+7. Privacy training completion ( documentation of completion) - FAR 52.224-3
+8. Option to extend services or term of contract - FAR 52.217-8, FAR 52.217-9
+9. Changes to key personnel (requests for approval) - Procurement Note C05
+10. Information submission for audits (GAO protests, IRS returns) - FAR 52.233-2, FAR 52.229-11
+
+Please note that these fields may not be exhaustive, and additional information may be required depending on the specific contract clauses and requirements.
+The important fields that need to be filled by the responding company (contractor) are:
+
+1. Full name, with middle name, as applicable, with social security number;
+2. Citizenship status with date and place of birth;
+3. Proof of the individual's favorably adjudicated background investigation or NACI, consisting of:
+	* Identification of the type of investigation performed;
+	* Date of the favorable adjudication;
+	* Name of the agency that made the favorable adjudication;
+	* Name of the agency that performed the investigation;
+4. Company name, address, phone and fax numbers with email address;
+5. Location of on-site workstation or phone number if off-site (known by the time of award);
+6. Delivery order or contract number and expiration date; and
+	* Name of the contracting officer.
+
+Additionally, the following information may be required:
+
+1. Proof of citizenship (e.g., birth certificate, passport, or naturalization certificate);
+2. Form FD-258, Fingerprint Card;
+3. Standard Form (SF) 85, Questionnaire for Non-Sensitive Positions, or SF 86, Questionnaire for National Security Positions;
+4. Declaration for Federal Employment (OF 306);
+5. Information regarding the contractor's compliance with Section 508 accessibility requirements;
+6. Voluntary Product Accessible Template (VPAT) Rev 508;
+7. Proof of 8(a) certification (if applicable);
+8. Information regarding the contractor's agreement to notify the Small Business Administration (SBA) of any plan to relinquish ownership or control of the concern.
+
+Please note that this is not an exhaustive list and may require additional information depending on the specific requirements of the contract and the contract's scope of work.
+The important fields that need to be filled by the responding company in this solicitation are:
+
+1. System for Award Management (SAM) registration and active registration in SAM with current information (Attachment 7, Small Business Participation Template)
+2. Annual Representations and Certifications (FAR 52.204-8) indicating whether the offeror is a small business, HUBZone, 8(a), service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business
+3. Ownership or Control of Offeror (FAR 52.204-17), if applicable
+4. Predecessor of Offeror (FAR 52.204-20), if applicable
+5. Knowledge of Child Labor for Listed End Products (FAR 52.222-18), if applicable
+6. Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment (FAR 52.222-48), if applicable
+7. Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services (FAR 52.222-52), if applicable
+8. Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (FAR 52.204-24) including the disclosure of use of covered telecommunications equipment or services
+9. Biobased Product Certification (FAR 52.223-1), if applicable
+10. Recovered Material Certification (FAR 52.223-4), if applicable
+11. Affirmative Action Compliance (FAR 52.222-25), if applicable
+12. Equal Opportunity (FAR 52.222-26), if applicable
+13. Women-Owned Business (Other Than Small Business) (FAR 52.204-5), if applicable
+14. Historically Black College or University and Minority Institution Representation (FAR 52.226-2), if applicable
+15. Royalty Information (FAR 52.227-6), if applicable
+16. Representation of Limited Rights Data and Restricted Computer Software (FAR 52.227-15), if applicable
+17. Disclosure of information required in Attachment 1 (Contractor Site Rates), Attachment 2 (Government Site Rates), Attachment 3 (Labor Category Descriptions), Attachment 4 (Key Personnel Resume Template), Attachment 5 (JETS NDA COI Agreement), Attachment 6 (JETS 2.0 Question Template), and Attachment 7 (Small Business Participation Template)
+
+Please note that some of these representations and certifications may not be applicable to the responding company, and it is essential to review the solicitations and the FAR carefully to determine which fields need to be completed.
+The responding company needs to fill the following fields:
+
+1. FAR 52.204-26: Covered Telecommunications Equipment or Services-Representation
+	* Option (A) or (B) selection (related to maintenance or not)
+	* Description of covered telecommunications services offered
+	* Brand; model number (OEM number, manufacturer part number, or wholesaler number); and item description (if applicable)
+2. FAR 52.204-26: Covered Telecommunications Equipment or Services-Representation
+	* Option (C) or (D) selection (entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known)
+	* Description of covered telecommunications equipment offered
+	* Brand; model number (OEM number, manufacturer part number, or wholesaler number); and item description (if applicable)
+3. FAR 52.204-26: Covered Telecommunications Equipment or Services-Representation
+	* Explanation of proposed use of covered telecommunications services and factors relevant to determining if use is permissible under the prohibition
+4. FAR 52.204-26: Covered Telecommunications Equipment or Services-Representation
+	* Representation that the company does or does not provide covered telecommunications equipment or services
+5. FAR 52.204-26: Covered Telecommunications Equipment or Services-Representation
+	* Representation that the company conducts a reasonable inquiry for purposes of this representation
+6. FAR 52.209-7: Information Regarding Responsibility Matters
+	* Representation that the company has or has not been involved in the last five years in any of the occurrences listed in paragraph (c)(1) of this provision (related to Federal contracts and grants with total value greater than $10,000,000)
+7. FAR 52.209-7: Information Regarding Responsibility Matters
+	* Representation that the company has provided or will provide the requested information with regard to each occurrence
+8. FAR 252.204-7016: Covered Defense Telecommunications Equipment or Services-Representation
+	* Representation that the company does or does not provide covered defense telecommunications equipment or services
+9. FAR 252.204-7017: Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services - Representation
+	* Representation that the company will or will not provide covered defense telecommunications equipment or services
+10. FAR 252.204-7017: Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services - Representation
+	* Description of all covered defense telecommunications equipment and services offered
+	* Explanation of the proposed use of covered defense telecommunications equipment and services and factors relevant to determining if such use is permissible under the prohibition
+11. FAR 252.204-7017: Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services - Representation
+	* Entity name, unique entity identifier, and CAGE code (if known) for services
+	* Entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor (if known) for equipment
+12. DFARS 252.204-7018: Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services
+	* Information about mitigation actions undertaken or recommended
+	* Description of efforts undertaken to prevent use or submission of covered defense telecommunications equipment or services
+	* Additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services
+The important fields that need to be filled by the responding company are:
+
+1. Proposal submission date and time (4:30 p.m. local time on the specified date)
+2. Proposal content (including cost, pricing, and technical information)
+3. Name, address, and contact information for the prime contractor and its subcontractors
+4. Identification of small business concerns and small business teaming arrangements (if applicable)
+5. Proof of compliance with Cost Accounting Standards (CAS) requirements (if applicable)
+6. Certification of cost or pricing data (if applicable)
+7. Disclosure Statement as required by 48 CFR 9903.202 (if applicable)
+8. Information for post-award debriefings (if applicable)
+
+Additionally, the responding company should review and follow the instructions in the solicitation, including:
+
+* Marking the title page with a legend restricting disclosure of certain data
+* Including a written agreement for Small Business Teaming Arrangements
+* Providing additional cost or pricing data if requested by the Contracting Officer
+* Complying with the requirements for certified cost or pricing data (if applicable)
+* Inserting the substance of the provision in all subcontracts exceeding the simplified acquisition threshold
+* Requesting and providing information for post-award debriefings (if applicable)
+Based on the provided text, the important fields that need to be filled by the responding company are:
+
+1. Certificate of Concurrent Submission of Disclosure Statement:
+	* Date of Disclosure Statement
+	* Name and Address of Cognizant ACO or Federal Official Where Filed
+2. Certificate of Previously Submitted Disclosure Statement:
+	* Date of Disclosure Statement
+	* Name and Address of Cognizant ACO or Federal Official Where Filed
+3. Certificate of Monetary Exemption:
+	* None (if not applicable)
+4. Certificate of Interim Exemption:
+	* None (if not applicable)
+5. Certificate of Disclosure Statement Due Date by Educational Institution (if applicable):
+	* Check one and complete:
+		+ (i) A Disclosure Statement Filing Due Date has been established with the cognizant Federal agency.
+		+ Name and Address of Cognizant ACO or Federal Official Where Disclosure Statement is to be Filed
+
+Note that some of these fields may not be applicable depending on the specific circumstances of the responding company.
+
+Additionally, the responding company is required to submit their proposal in three electronic volumes, as follows:
+
+Volume 1: Business Proposal - Signed Offeror Cover Letter for RFP and Executive Summary
+
+* Signed copy of offeror cover letter on company letterhead
+* Executive Summary
+
+Volume 2: Non-Price Proposal
+
+* Technical Approach
+* Management Approach
+* Partnering and Strategic Alliance
+* Key Personnel (Program Manager Credentials ONLY)
+* Small Business Participation
+
+Volume 3: Cost/Price Proposal
+
+* Hourly Ceiling Rate
+* Total Evaluated Price
+* Documentation or Letter of Approval Accounting System (if applicable)
+
+Each page of the proposal should be affixed with the following legend:
+
+"Source Selection Information — (See FAR 2.101 and 3.104) and Controlled Unclassified Information (CUI).
+
+The company must also comply with the electronic submission instructions and format specifications outlined in Section L.4 of the solicitation.
+The following are the important fields that need to be filled by the responding company:
+
+**Executive Summary:**
+
+* Company Name and Address
+* Company Taxpayer Identification Number (TIN)
+* Unique Entity ID
+* CAGE Code
+* Section K Representations and Certifications
+* SF33
+* Amendment(s)
+* OCI Plan
+* Price Assumptions
+
+**Non-Price Proposal (Volume II):**
+
+* Technical Approach (Subfactor A):
+	+ Description of approach to research, analyze, and develop deliverables
+	+ Evidence of understanding of requirements set forth in the Statement of Work (SOW)
+* Management Approach (Subfactor B):
+	+ Program Management Plan
+	+ Quality Management Plan
+	+ Security Management Plan
+	+ Risk Management Plan
+	+ Personnel Management Plan
+	+ Management and Protection of GFE and GFI Plan
+* Partnering and Strategic Alliance (Factor 2):
+	+ Letter of commitment from each Strategic Alliance partner
+	+ Description of approach to managing partners and subcontractors
+	+ Information about project experience and success rates
+* Key Personnel (Program Manager credentials only):
+	+ Resume of proposed Program Manager
+	+ Letter of commitment from the Program Manager
+	+ Education and experience relevant to the SOW requirements
+* Small Business Participation:
+	+ Type of business (small, small disadvantaged, woman-owned, HUBZone, etc.)
+	+ Percentage of total contract value anticipated to be subcontracted to small businesses
+	+ Names and CAGE codes/UEIs of small business subcontractors
+	+ Documentation regarding enforceable commitments to utilize each small business as a subcontractor
+	+ Certification of compliance with SBA Mentor-Protégé program (MPP) for Joint Ventures
+
+**Cost/Price Proposal (Volume III):**
+
+* Hourly labor rates for each labor category for Years 1-12
+* Documentation of DCAA Approved Accounting System (for other-than-small businesses and small businesses wishing to include Cost CLINs)
+
+**Other Documents:**
+
+* Uncompensated Overtime (MAR 2015) policy (required at the task order level, not the IDIQ level)
+* Letter of commitment from each Partner and subcontractor
+* Certification of compliance with SBA Mentor-Protégé program (MPP) for Joint Ventures
+According to the solicitation, the following important fields need to be filled by the responding company:
+
+1. **Factor 1, Technical Merit**: This includes:
+	* Subfactor A: Technical Approach (evaluate on an adjectival basis)
+	* Subfactor B: Management Approach (evaluate on an adjectival basis)
+2. **Factor 2, Partnering and Strategic Alliance**: Evaluate on an adjectival basis
+3. **Factor 3, Key Personnel**: Evaluate on an Acceptable/Unacceptable basis
+4. **Factor 4, Small Business Participation**: Evaluate on an Acceptable/Unacceptable basis
+5. **Cost/Price Evaluation**:
+	* **Hourly Ceiling Rates**: Provide a price for all Labor Categories in Attachments 1 & 2
+	* **Total Evaluated Price**: Calculate by multiplying proposed labor rates by hours provided in the Rough Order of Magnitude (ROM)
+	* **DCAA Approved Accounting System**: Small Businesses and 8(a) businesses must have a DCAA Approved Accounting System at time of IDIQ award if they wish to have Cost CLIN(s) in their IDIQ contract
+
+Additionally, the following information and documents are required:
+
+* **Letter of Commitment**: For each Strategic Alliance formed, provide a formal letter of commitment labeled “[Offeror] — Letter of Commitment — [Strategic Alliance Name]” for each subcontractor at time of proposal submission.
+* **Small Business Commitment**: Provide a detailed description of the services for each small business subcategory, including the names and CAGE codes/UEIs of those firms and their designation.
+* **Documentation of Enforceable Commitments**: Provide documentation regarding enforceable commitments to utilize each small business as defined in FAR Part 19.
+* **Protégé Firms**: List the names of protégé firms being utilized in the proposal as subcontractors.
+* **Program Manager Resume**: Provide a resume of the proposed Program Manager, which will be evaluated for experience and capabilities relevant to the requirements set forth in Attachment 3 of the Solicitation and Section C.10.2 of the SOW.
+The important fields that need to be filled by the responding company are:
+
+1. Accounting system: The company must provide information about their accounting system, specifically whether it is DCAA approved.
+2. Cost CLINs: The company must propose cost-type CLINs (cost accounting standards) in their proposal.
+3. Compensation for overtime: The company must provide information about how they will compensate for overtime, as there will be no evaluation of uncompensated overtime at the proposal level.
+
+Please note that these fields are important for the response to be considered eligible for award and to ensure compliance with the requirements set out in the RFP.
