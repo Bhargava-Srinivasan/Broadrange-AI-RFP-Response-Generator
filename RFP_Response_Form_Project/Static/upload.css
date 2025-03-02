@@ -1,0 +1,76 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #7d4343; /* Background color */
+}
+
+.container {
+    max-width: 1000px; /* Container width */
+    min-height: 600px; /* Minimum height of the container */
+    margin: 40px auto; /* Center container with top/bottom space */
+    padding: 40px; /* Padding inside container */
+    background-color: #d19f9f; /* Container background color */
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(226, 116, 116, 0.2); /* Container shadow */
+}
+
+.logo-container {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 120px;
+    width: 140px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px; /* Margin for spacing */
+    font-size: 50px; /* Font size for heading */
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Font family for heading */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.file-upload-container {
+    display: flex;
+    align-items: center; /* Align items vertically center */
+    gap: 20px; /* Space between label and input */
+    margin-bottom: 30px; /* Margin for spacing */
+}
+
+label {
+    font-size: 34px; /* Font size for label */
+}
+
+input[type="file"] {
+    width: 300px; /* Increased width of the file input box */
+    height: 50px; /* Increased height of the file input box */
+    padding: 10px; /* Padding inside file input */
+    font-size: 1em; /* Font size for text inside file input */
+    border-radius: 5px; /* Rounded corners for file input */
+    border: 1px solid #ccc; /* Border color for file input */
+}
+
+button {
+    padding: 12px 25px; /* Padding for button */
+    font-size: 1em; /* Font size for button text */
+    color: #fff; /* Text color for button */
+    background-color: #007bff; /* Background color for button */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners for button */
+    cursor: pointer; /* Cursor style for button */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker background color on hover */
+}
