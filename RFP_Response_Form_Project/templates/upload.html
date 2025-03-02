@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gen AI Powered RFP Response Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='upload.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Logo -->
+        <div class="logo-container">
+            <img src="{{ url_for('static', filename='image.jpeg') }}" alt="Logo" class="logo">
+        </div>
+        
+        <!-- Heading -->
+        <h1>Gen AI Powered RFP Response Generator</h1>
+        
+        <!-- PDF Upload Form -->
+        <form action="/form" method="GET">
+            <label for="pdf-upload">Upload your PDF:</label>
+            <input type="file" id="pdf-upload" name="pdf-file" accept=".pdf" required>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

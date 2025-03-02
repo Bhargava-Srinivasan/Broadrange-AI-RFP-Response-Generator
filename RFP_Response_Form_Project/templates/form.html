@@ -1,0 +1,370 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RFP Response Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>RFP Response Form</h1>
+        <form action="/" method="POST">
+            {% for field in fields %}
+            <div class="form-group">
+                <label for="{{ field }}">{{ field }}</label>
+                <input type="text" id="{{ field }}" name="{{ field }}" placeholder="Choose a response or write your own">
+            </div>
+            {% endfor %}
+            <button type="submit">Submit</button>
+        </form>
+
+        <form action="/generate_pdf" method="POST">
+            {% for field in fields %}
+            <input type="hidden" name="{{ field }}" value="{{ request.form.get(field) }}">
+            {% endfor %}
+            <button type="submit">Generate RFP response PDF</button>
+        </form>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <ul class="flash-messages">
+            {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+    </div>
+</body>
+</html> -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RFP Response Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>RFP Response Form</h1>
+        <form action="/" method="POST">
+            {% for field in fields %}
+            <div class="form-group">
+                <label for="{{ field }}">{{ field }}</label>
+                <input type="text" id="{{ field }}" name="{{ field }}" placeholder="Choose a response or write your own" >
+            </div>
+            {% endfor %}
+            <button type="submit">Submit</button>
+        </form>
+
+        Generate PDF Form
+        <form action="/generate_pdf" method="POST">
+            {% for field in fields %}
+            <input type="hidden" name="{{ field }}" value="{{ request.form.get(field) }}">
+            {% endfor %}
+            <button type="submit">Generate RFP response PDF</button>
+        </form>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <ul class="flash-messages">
+            {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+    </div>
+</body>
+</html> -->
+
+<!-- Latest version -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RFP Response Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <link href="{{ url_for('static', filename='assets/img/company.jpeg') }}" rel="icon">
+  </head>
+  <body>
+  <div class="background-container">  
+    <div class="container">
+      <h1>GenAI Powered RFP Response PDF</h1>
+        
+      <button type="button" class ="llama_button" onclick="setAllToLlamaSequentially()">Set All to Llama Generated Response</button>
+
+      <form action="/" method="POST">
+        {% for section, section_fields in sections.items() %}
+        <h2 class="section-heading">{{ section }}</h2>
+        {% for field in section_fields %}
+        <div class="form-group">
+          <label for="{{ section }}_{{ field }}_response">{{ field }}</label>
+          {% if section in ["Company Information", "Contact Information"] %}
+          <input
+            type="text"
+            id="{{ section }}_{{ field }}_response"
+            name="{{ section }}_{{ field }}_response"
+            placeholder="Enter your response"
+            required
+          />
+          {% else %}
+          <select
+            class="custom-select"
+            name="{{ section }}_{{ field }}_option"
+            id="{{ section }}_{{ field }}_option"
+            onchange="toggleUserInput('{{ section }}_{{ field }}_response', this.value)"
+            required
+          >
+            <option value="" disabled selected>Select an option</option>
+            <option value="generate_llama">Generate Llama Response</option>
+            <option value="user_input">User Input</option>
+          </select>
+          <input
+            type="textarea" wrap = "hard"
+            id="{{ section }}_{{ field }}_response"
+            name="{{ section }}_{{ field }}_response"
+            placeholder="Enter your response"
+            style="display: none;"
+          />
+          {% endif %}
+        </div>
+        {% endfor %}
+        {% endfor %}
+        <button type="submit">Submit</button>
+      </form>
+
+      <form action="/generate_pdf" method="POST">
+        {% for section, section_fields in sections.items() %}
+        {% for field in section_fields %}
+        <input
+          type="hidden"
+          name="{{ section }}_{{ field }}_response"
+          value="{{ request.form.get(section ~ '_' ~ field ~ '_response') }}"
+        />
+        {% endfor %}
+        {% endfor %}
+        <button type="submit">Generate RFP Response PDF</button>
+      </form>
+      <div class="logo-container">
+        <img
+          src="{{ url_for('static', filename='image.jpeg') }}"
+          alt="Company Logo"
+          class="logo"
+        />
+      </div>
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      <ul class="flash-messages">
+        {% for category, message in messages %}
+        <li class="{{ category }}">{{ message }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endwith %}
+    </div>
+  </div>  
+  </body>
+</html> -->
+
+
+<!-- Version with hidden feature -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RFP Response Form</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <script src="{{ url_for('static', filename='script_formatted.js') }}"></script>
+  <link href="{{ url_for('static', filename='assets/img/company.jpeg') }}" rel="icon">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="background-container">
+    <div class="container">
+      <h1>Gen AI Powered RFP Response PDF</h1>
+
+      <a href="#bottom" id="scroll-down"><i class="bi bi-arrow-down"></i></a>
+      <!-- <div id="scroll-arrow" class="scroll-arrow">
+          <i class="bi bi-arrow-down"></i>
+        </div> -->
+
+      <!-- Upload and Process PDF Buttons -->
+      <div class="pdf-upload-container">
+        <form id="pdf-upload-form" action="/process_pdf" method="POST" enctype="multipart/form-data">
+          <!-- <form id="pdf-upload-form" action="/process_pdf" method="POST" enctype="multipart/form-data" onsubmit="startPDFProcessing(); return false;"> -->
+          <label for="pdf-file">Upload your RFP PDF here</label>
+          <input type="file" id="pdf-file" name="pdf-file" accept=".pdf" required />
+
+          <!-- <button type="submit" id="process-pdf-button" onclick="startProcessing(event)">Process PDF</button> -->
+          <button type="submit" id="process-pdf-button">Process PDF</button>
+          <div id="pdf-spinner" class="spinner" style="display: none;"></div>
+        </form>
+        <!-- <div id="spinner" class="spinner" style="display: none;"></div> -->
+        <!-- <div id="messages" class="messages"></div> -->
+      </div>
+
+      <!-- <div id="messages">
+          <h4>Processing Messages:</h4>
+        </div> -->
+
+      <!-- <h3 id="message-display"></h3> -->
+
+      <ul class="flash-messages">
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+      </ul>
+
+      <input type="hidden" id="showFormInput" value="{{ show_form|default('False') }}">
+
+      <!-- Flash messages -->
+      <!-- {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <ul class="flash-messages">
+            {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %} -->
+
+      <!-- {% if show_form %}
+          showForm();
+        {% endif %} -->
+
+      <!-- Set All to Llama Generated Response button (Initially hidden) -->
+      <div id="llama-options" style="display: none;">
+        <button type="button" class="llama_button" onclick="setAllToLlamaSequentially()">Set All to Llama Generated
+          Response</button>
+      </div>
+
+      <!-- Form for User Input (Initially hidden) -->
+      <!-- <div id="response-form" style="display: none;">
+          <form action="/" method="POST">
+            {% for section, section_fields in sections.items() %}
+            <h2 class="section-heading">{{ section }}</h2>
+            {% for field in section_fields %}
+            <div class="form-group">
+              <label for="{{ section }}_{{ field }}_response">{{ field }}</label>
+              {% if section in ["Company Information", "Contact Information"] %}
+              <input
+                type="text"
+                id="{{ section }}_{{ field }}_response"
+                name="{{ section }}_{{ field }}_response"
+                placeholder="Enter your response"
+                required
+              />
+              {% else %}
+              <select
+                class="custom-select"
+                name="{{ section }}_{{ field }}_option"
+                id="{{ section }}_{{ field }}_option"
+                onchange="toggleUserInput('{{ section }}_{{ field }}_response', this.value)"
+                required
+              >
+                <option value="" disabled selected>Select an option</option>
+                <option value="generate_llama">Generate Llama Response</option>
+                <option value="user_input">User Input</option>
+              </select>
+              <input
+                type="textarea" wrap="hard"
+                id="{{ section }}_{{ field }}_response"
+                name="{{ section }}_{{ field }}_response"
+                placeholder="Enter your response"
+                value="{{ request.form.get(section ~ '_' ~ field ~ '_response', '') }}"
+                style="display: none;"
+              />
+              {% endif %}
+            </div>
+            {% endfor %}
+            {% endfor %}
+            <button type="submit">Submit</button>
+          </form>
+        </div> -->
+
+      <!-- new form -->
+      <!-- Form for User Input -->
+      <div id="response-form" style="display: none;">
+        <form action="/" method="POST" id="rfp-form">
+          {% for section, section_fields in sections.items() %}
+          <h2 class="section-heading">{{ section }}</h2>
+          {% for field in section_fields %}
+          <div class="form-group">
+            <label for="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_response">{{ field }}</label>
+
+            {% if section in ["Company Information", "Contact Information"] %}
+            <input type="text" id="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_response"
+              name="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_response"
+              placeholder="Enter your response" required />
+            {% else %}
+            <select class="custom-select" name="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_option"
+              id="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_option"
+              onchange="toggleInputField(this)" required>
+              <option value="" disabled selected>Select an option</option>
+              <option value="generate_llama">Generate Llama Response</option>
+              <option value="user_input">User Input</option>
+            </select>
+
+            <textarea id="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_response"
+              name="{{ section.replace(' ', '_') }}_{{ field.replace(' ', '_') }}_response"
+              placeholder="Enter your response" style="display: none;">
+              {{ request.form.get(section ~ '_' ~ field ~ '_response', '') }}
+          </textarea>
+            {% endif %}
+          </div>
+          {% endfor %}
+          {% endfor %}
+          <button type="submit">Submit</button>
+        </form>
+      </div>
+
+
+
+      <!-- Form for PDF Generation -->
+      <!-- <form action="/generate_rfp_response" method="POST" style="display: none;" id="generate-pdf-form">
+        {% for section, section_fields in sections.items() %}
+        {% for field in section_fields %}
+        <input type="hidden" id="{{ section }}_{{ field }}_response_hidden" name="{{ section }}_{{ field }}_response"
+          value="{{ request.form.get(section ~ '_' ~ field ~ '_response', '') }}" />
+        {% endfor %}
+        {% endfor %}
+        <button type="submit">Generate RFP Response PDF</button>
+      </form> -->
+
+      <button type="button" id="generate-pdf-btn">Generate RFP Response PDF</button>
+      <div id="pdf-status">Loading text here</div>
+
+      <!-- Flash messages -->
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      <ul class="flash-messages">
+        {% for category, message in messages %}
+        <li class="{{ category }}">{{ message }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endwith %}
+    </div>
+    <div id="bottom"></div>
+  </div>
+</body>
+
+</html>
