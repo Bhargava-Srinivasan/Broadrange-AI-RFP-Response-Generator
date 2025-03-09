@@ -1,0 +1,10 @@
+flask
+fpdf
+pymupdf
+requests
+reportlab
+llamaapi
+pytesseract
+pdf2image
+spacy
+groq
